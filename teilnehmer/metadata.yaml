@@ -1,0 +1,19 @@
+---
+title:
+- type: main
+  text: MBSR 8-Wochen-Kurs
+- type: subtitle
+  text: Unterlagen Teilnehmer
+creator:
+- role: author
+  text: Michael Zimmermann
+- role: editor
+  text: Michael Zimmermann
+rights: © 2019 Michael Zimmermann
+date: 4.11.2018 (letzte Bearbeitung)
+lang: de-de
+cover-image: ../cover/CoverTeilnehmerV10.png
+stylesheet: ../_css/epubstyle.css
+bibliography: ../bibliography/Meditation_und_Achtsamkeit.bib
+csl: ../_csl/chicago-author-date-de.csl
+---

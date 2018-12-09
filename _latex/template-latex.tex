@@ -1,0 +1,287 @@
+\documentclass[11pt,a4paper]{report}
+
+%
+% Allgemeine Pakete
+% 
+
+% \usepackage[english]{babel}
+\usepackage[german,ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{booktabs}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+
+\usepackage{marginnote}
+\usepackage[top=2.5cm, bottom=2cm, outer=4.5cm, inner=2.5cm, heightrounded, marginparwidth=2.5cm, marginparsep=2cm]{geometry}
+
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{graphicx}
+
+% Tables 
+\usepackage{colortbl}
+\definecolor{Lightgray}{RGB}{235,235,235}
+% \definecolor{TitleColor}{RGB}{114,159,152}
+\definecolor{TitleColor}{RGB}{0,150,136}
+
+% Control the appearance of lists
+\usepackage{enumitem}
+\setlist{noitemsep} % or \setlist{noitemsep} to leave space around whole list
+
+
+
+% 
+% Todo \& Notes
+% 
+\usepackage{xargs}
+\usepackage[colorinlistoftodos,prependcaption,textsize=small]{todonotes}
+% 
+% Index & Glossar
+% 
+
+% xelatex -shell-escape is required to generate indexes
+\usepackage[xindy]{imakeidx}
+% \makeindex[name=idxDefinitions, title = Definitionen, intoc]
+% \makeindex[name=idxPersons, title = Personen, intoc]
+% \makeindex[name=idxGlossary, title = Glossar, intoc]
+
+% Glossaries
+\usepackage[xindy]{glossaries}
+\makeglossaries
+
+
+%
+% Farbige Textboxen
+% 
+\usepackage{fancyvrb}
+\usepackage[many]{tcolorbox}
+\usepackage{multirow}
+
+\usepackage{fixltx2e} 
+% provides \textsubscript
+% use microtype if available
+\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \usepackage{fontspec}
+  \ifxetex
+    \usepackage{xltxtra,xunicode}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+    % \setmainfont{Ubuntu}
+    % \setsansfont{Ubuntu}
+  \setmainfont{Lato}
+  \setsansfont{Lato}
+
+\fi
+\usepackage{titlesec}
+\newfontfamily\headingfont[]{EB Garamond}
+\titleformat{\chapter}
+  {\headingfont\huge\color{TitleColor}}
+  {\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titleformat{\section}
+  {\headingfont\LARGE\bfseries\color{TitleColor}}
+  {\thesection}{1em}{}
+\titleformat{\subsection}
+  {\headingfont\Large\bfseries\color{TitleColor}}
+  {\thesubsection}{1em}{}
+\titleformat{\subsubsection}
+  {\headingfont\large\bfseries\color{TitleColor}}
+  {\thesubsubsection}{1em}{}
+\titleformat{\paragraph}
+  {\headingfont\normalsize\bfseries\color{TitleColor}}
+  {\theparagraph}{1em}{}
+
+% \renewenvironment{quote}{\headingfont\normalsize\bfseries\color{TitleColor}\quote}{\endquote}
+\AtBeginEnvironment{quote}{\headingfont\normalsize\bfseries\color{TitleColor}}
+
+\newcommandx{\myfig}[2][1=]{\begin{figure}[!htbp]\centering\includegraphics[width=400pt]{../images/#1.png}\caption{#2}\label{fig:#1}\end{figure}}
+\newcommandx{\mytbl}[2][1=]{\begin{table}[!htbp]\centering\includegraphics[width=400pt]{../images/#1.png}\caption{#2}\label{tbl:#1}\end{table}}
+
+
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+
+
+
+% \usepackage[round]{natbib}
+
+
+%
+% Literaturverzeichnis APA-style
+%
+\usepackage[babel,german=quotes]{csquotes}
+\usepackage[style=apa,backend=biber]{biblatex} 
+\DeclareLanguageMapping{ngerman}{ngerman-apa}
+
+
+% TODO: Literaturverzeichnis anpassen
+\addbibresource{$bibliography$}
+
+%
+% Einstellungen
+%
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={$author$},
+            pdftitle={$title$},
+            colorlinks=true,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setcounter{secnumdepth}{6}
+
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+%
+% Titelseite
+% TODO: Titel anpassen
+%
+\title{$title$}
+\author{$author$}
+\date{\today \newpage}
+
+\usepackage{pdfpages}
+
+\begin{document}
+\includepdf{$cover-image$}
+\cleardoublepage
+\begin{titlepage}
+    \centering
+    \vfill
+    {\small
+        $author$\\
+        \vskip1cm
+        \bfseries
+        \Huge
+        % TODO: Titel anpassen
+        $title$\\
+        \huge
+        $subtitle$\\
+        \vskip1cm
+    }
+    {\Large
+      % TODO: Version anpassen
+        Version: $date$\\
+        \vskip0.5cm
+        Datum der Bearbeitung: \today
+    }     
+    \vfill
+\end{titlepage}
+% \maketitle
+
+{
+\hypersetup{linkcolor=black}
+\setcounter{tocdepth}{6}
+\tableofcontents
+\newpage
+% \listoffigures
+% \newpage
+% \listoftables 
+% \newpage
+% \listoftodos
+}
+\newpage
+\setcounter{page}{1}
+\setcounter{secnumdepth}{-1}
+
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% Textteil
+%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+$body$
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% Literaturverzeichnis
+%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+
+\printbibliography[]
+
+
+% alternativ natdin, named, authordate3
+% \bibliographystyle{apalike}
+% \bibliography{M08_UmweltpsychologieEinsendeaufgabe}
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% Glossar
+%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \newpage
+% \glsaddall
+% \printglossary[style=altlist,title=Glossar]
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% Indexe
+%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \newpage
+% \printindex[idxDefinitions]
+
+% \printindex[idxPersons]
+
+% \printindex[idxGlossary]
+
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% Anhänge
+%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \setcounter{secnumdepth}{0}
+
+\newpage
+\renewcommand*{\thepage}{A\arabic{page}}
+\setcounter{page}{1}
+
+% \section*{Anhang A}
+
+% \subsection*{Anhang zu Aufgabe 5}
+% \label{pdf:anzeigen}
+% \includepdf[pages=1]{../images/M08_AutowerbungFormatted.pdf} 
+% \includepdf[pages=2, angle=180]{../images/M08_AutowerbungFormatted.pdf} 
+% \includepdf[pages=3]{../images/M08_AutowerbungFormatted.pdf} 
+% \includepdf[pages=4, angle=180]{../images/M08_AutowerbungFormatted.pdf} 
+% \includepdf[pages=1, angle=180]{../images/M08_AndereWerbungFormatted.pdf} 
+% \includepdf[pages=2-3]{../images/M08_AndereWerbungFormatted.pdf} 
+
+% \includepdf{../images/M08_AutowerbungSmallFinished.pdf} 
+% \includepdf{../images/M08_AndereWerbungSmallFinished.pdf} 
+ 
+
+
+% Lorem ipsum dolor sit.
+
+% \newpage
+% \renewcommand*{\thepage}{B\arabic{page}}
+% \setcounter{page}{1}
+
+% \section{Anhang B}
+
+% Lorem ipsum dolor sit.
+ 
+
+
+\end{document}
