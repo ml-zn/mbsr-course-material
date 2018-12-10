@@ -2,7 +2,7 @@ BUILD = build
 BOOKNAME = mbsr-leitfaden-kursleiter
 METADATA = metadata.yaml
 METADATA_PDF = metadata-pdf.yaml
-CHAPTERS = 00_orientierungsveranstaltung_kl.md
+CHAPTERS = 01_mbsr_curriculum.md
 TOC = --toc --toc-depth=4
 
 all: book
