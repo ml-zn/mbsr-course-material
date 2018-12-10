@@ -12,7 +12,7 @@ book: init epub pdf
 init:
 	mkdir -p $(BUILD)
 
-clean:
+clean: init
 	rm -r $(BUILD)
 
 epub: $(BUILD)/epub/$(BOOKNAME).epub

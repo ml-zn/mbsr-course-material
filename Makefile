@@ -5,7 +5,10 @@ SUBDIRS = kursleiter orientierung teilnehmer
 
 subdirs: $(SUBDIRS)
 
-$(SUBDIRS): 
+init:
+	mkdir -p $(BUILD)
+
+$(SUBDIRS): init
 	$(MAKE) -C $@ clean all
 	cp -a $@/$(BUILD)/* $(BUILD)/
 
