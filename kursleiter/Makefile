@@ -2,7 +2,7 @@ BUILD = build
 BOOKNAME = mbsr-leitfaden-kursleiter
 METADATA = metadata.yaml
 METADATA_PDF = metadata-pdf.yaml
-CHAPTERS = 01_mbsr_curriculum.md ../orientierung/01_orientierung.md
+CHAPTERS = 00_00_orientierung.md 00_01_geschichte_mbsr.md 00_02_achtsamkeit.md 00_03_praxis.md 00_04_mbsr_8_wochen.md 00_05_risiken_fragen.md
 TOC = --toc --toc-depth=4
 
 all: book
