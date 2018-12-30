@@ -18,13 +18,9 @@ Full catastrophe living.
 
 ### Das Leben besteht aus Augenblicken
 
-> »O ja, ich hatte meine intensiven Momente, und wenn ich noch einmal von vorn anfangen könnte, würde ich noch mehr davon 
-> und im Grunde nichts anderes haben wollen. Einfach nur Augenblicke, einen nach dem anderen, anstatt ein Leben lang auf die Zukunft 
-> zu warten.«
-> 
-> Nadine Stair, 85 Jahre, Louisville, Kentucky
-
-6 Tage in  der Woche 45-60 Minuten üben, 1x pro Woche Treffen in der Gruppe für 2,5 h, 1 Achtsamkeitstag
-
-Haltung (nicht bewerten, geschehen lassen, ohne sich in weitere Gedanken zu verstricken)
+> O ja, ich hatte meine intensiven Momente, und wenn ich noch einmal von vorn anfangen könnte, würde ich noch mehr davon 
+  und im Grunde nichts anderes haben wollen. Einfach nur Augenblicke, einen nach dem anderen, anstatt ein Leben lang auf die Zukunft 
+  zu warten.
+>
+> _-- Nadine Stair, 85 Jahre, Louisville, Kentucky_
 
