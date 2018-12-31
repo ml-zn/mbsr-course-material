@@ -19,5 +19,22 @@
 Haltung (nicht bewerten, geschehen lassen, ohne sich in weitere Gedanken zu verstricken)
 
 ## Kursinhalte
+
+| Woche | Themen | Formelle Praxis | Informelle Praxis |
+|:-----:|--------|-----------------|-------------------|
+|   1   | Achtsamkeit, Gewahrsein |                 |                   |
+|   2   |        |                 |                   |
+|   3   |        |                 |                   |
+|   4   |        |                 |                   |
+|   5   |        |                 |                   |
+|   6   |        |                 |                   |
+
+__Tag der Achtsamkeit__
+
+| Woche | Themen | Formelle Praxis | Informelle Praxis |
+|:-----:|--------|-----------------|-------------------|
+|   7   |        |                 |                   |
+|   8   |        |                 |                   |
+
 ### Teilnahmeregeln
 
