@@ -1,63 +1,63 @@
 /* This defines styles and classes used in the book */
 @font-face {
-font-family: Lato;
+font-family: "Josefin Sans";
 font-style: normal;
 font-weight: normal;
-src:url("Lato-Regular.ttf");
+src:url("JosefinSans-Regular.ttf");
 }
 @font-face {
-font-family: Lato;
+font-family: "Josefin Sans";
 font-style: normal;
 font-weight: bold;
-src:url("Lato-Bold.ttf");
+src:url("JosefinSans-Bold.ttf");
 }
 @font-face {
-font-family: Lato;
+font-family: "Josefin Sans";
 font-style: italic;
 font-weight: normal;
-src:url("Lato-MediumItalic.ttf");
+src:url("JosefinSans-Italic.ttf");
 }
 @font-face {
-font-family: Lato;
+font-family: "Josefin Sans";
 font-style: italic;
 font-weight: bold;
-src:url("Lato-BoldItalic.ttf");
+src:url("JosefinSans-BoldItalic.ttf");
 }
 
 @font-face {
-font-family: Garamond;
+font-family: "Handlee";
 font-style: normal;
 font-weight: normal;
-src:url("EBGaramond12-Regular.ttf");
+src:url("Handlee-Regular.ttf");
 }
 @font-face {
-font-family: Garamond;
+font-family: "Handlee";
 font-style: normal;
 font-weight: bold;
-src:url("EBGaramond08-Regular.ttf");
+src:url("Handlee-Regular.ttf");
 }
 @font-face {
-font-family: Garamond;
+font-family: "Handlee";
 font-style: italic;
 font-weight: normal;
-src:url("EBGaramond12-Italic.ttf");
+src:url("Handlee-Regular.ttf");
 }
 @font-face {
-font-family: Garamond;
+font-family: "Handlee";
 font-style: italic;
 font-weight: bold;
-src:url("EBGaramond08-Italic.ttf");
+src:url("Handlee-Regular.ttf");
 }
 
-body { margin: 5%; text-align: justify; font-size: medium; font-family: "Lato"; }
+body { margin: 5%; text-align: justify; font-size: medium; font-family: "Josefin Sans"; }
 code { font-family: monospace; }
-h1 { text-align: left; font-family: "Garamond"; color: rgb(0,150,136); }
-h2 { text-align: left; font-family: "Garamond"; color: rgb(0,150,136); }
-h3 { text-align: left; font-family: "Garamond"; color: rgb(0,150,136); }
-h4 { text-align: left; font-family: "Garamond"; color: rgb(0,150,136); }
-h5 { text-align: left; font-family: "Garamond"; color: rgb(0,150,136); }
-h6 { text-align: left; font-family: "Garamond"; color: rgb(0,150,136); }
-blockquote { text-align: left; font-family: "Garamond"; color: rgb(0,150,136); }
+h1 { text-align: left; font-family: "Handlee"; color: rgb(0,150,136); }
+h2 { text-align: left; font-family: "Handlee"; color: rgb(0,150,136); }
+h3 { text-align: left; font-family: "Handlee"; color: rgb(0,150,136); }
+h4 { text-align: left; font-family: "Handlee"; color: rgb(0,150,136); }
+h5 { text-align: left; font-family: "Handlee"; color: rgb(0,150,136); }
+h6 { text-align: left; font-family: "Handlee"; color: rgb(0,150,136); }
+blockquote { text-align: left; font-family: "Handlee"; color: rgb(0,150,136); }
 h1.title { }
 h2.author { }
 h3.date { }

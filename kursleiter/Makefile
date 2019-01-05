@@ -25,6 +25,6 @@ $(BUILD)/epub/$(BOOKNAME).epub: $(METADATA) $(CHAPTERS)
 
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(METADATA_PDF) $(CHAPTERS)
 	mkdir -p $(BUILD)/pdf
-	pandoc -s --template=../_latex/template-latex.tex $(TOC) --filter pandoc-citeproc --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $(BUILD)/pdf/$(BOOKNAME).pdf $^
+	pandoc -s --template=../_latex/template-mbsr-latex.tex $(TOC) --filter pandoc-citeproc --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $(BUILD)/pdf/$(BOOKNAME).pdf $^
 	
 .PHONY: all book clean epub pdf
