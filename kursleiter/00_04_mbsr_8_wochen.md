@@ -1,5 +1,14 @@
 ## Vorstellung des MBSR-8-Wochenkurses
 
+### Organisatorisches
+
+- 6 Tage in  der Woche 45-60 Minuten üben, 
+- 1 x pro Woche Treffen in der Gruppe für 2,5 h 
+- 1 Achtsamkeitstag
+
+Haltung (nicht bewerten, geschehen lassen, ohne sich in weitere Gedanken zu verstricken)
+
+
 ### Ein Vorgeschmack von Glück
 
 > Obwohl Berta Young schon dreißig war, gab es in ihrem Leben immer noch Augenblicke wie diesen, wo sie lieber rennen möchte, anstatt zu gehen, 
@@ -10,15 +19,23 @@
 >
 > -- _Katherine Mansfield, Seligkeit_
 
-### Organisatorisches
-
-- 6 Tage in  der Woche 45-60 Minuten üben, 
-- 1 x pro Woche Treffen in der Gruppe für 2,5 h, 
-- 1 Achtsamkeitstag
-
-Haltung (nicht bewerten, geschehen lassen, ohne sich in weitere Gedanken zu verstricken)
-
 ## Kursinhalte
+
+### Themen
+
+- Achtsamkeit
+- Gewahrsein
+- Stress
+
+### Formelle Praxis
+
+- Body-Scan
+- Sitzmeditation
+- Gehmeditation
+- Yoga im Liegen
+- Yoga im Stehen
+
+### Informelle Praxis
 
 | Woche | Themen | Formelle Praxis | Informelle Praxis |
 |:-----:|--------|-----------------|-------------------|
