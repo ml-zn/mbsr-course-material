@@ -9,8 +9,8 @@
 Haltung (nicht bewerten, geschehen lassen, ohne sich in weitere Gedanken zu verstricken)
 
 
-### Ein Vorgeschmack von Glück
-
+> **Ein Vorgeschmack von Glück**
+>
 > Obwohl Berta Young schon dreißig war, gab es in ihrem Leben immer noch Augenblicke wie diesen, wo sie lieber rennen möchte, anstatt zu gehen, 
   über das Straßenpflaster hüpfen, einen Reifen drehen, etwas in die Luft werfen und wieder auffangen, oder stehen bleiben und - ohne Grund - lachen, 
   einfach ohne Grund. ... Was kann man machen, wenn man dreißig ist und beim Einbiegen in die eigene Straße unversehens von einem Gefühl der 
@@ -52,6 +52,7 @@ __Tag der Achtsamkeit__
 |:-----:|--------|-----------------|-------------------|
 |   7   |        |                 |                   |
 |   8   |        |                 |                   |
+
 
 ### Teilnahmeregeln
 

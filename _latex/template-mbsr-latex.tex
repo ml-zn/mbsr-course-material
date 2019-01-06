@@ -100,7 +100,8 @@
   {\theparagraph}{1em}{}
 
 % \renewenvironment{quote}{\headingfont\normalsize\bfseries\color{TitleColor}\quote}{\endquote}
-\AtBeginEnvironment{quote}{\headingfont\normalsize\bfseries\color{TitleColor}}
+% \AtBeginEnvironment{quote}{\headingfont\normalsize\bfseries\color{TitleColor}}
+\AtBeginEnvironment{quote}{\normalsize\bfseries\color{TitleColor}}
 
 \newcommandx{\myfig}[2][1=]{\begin{figure}[!htbp]\centering\includegraphics[width=400pt]{../images/#1.png}\caption{#2}\label{fig:#1}\end{figure}}
 \newcommandx{\mytbl}[2][1=]{\begin{table}[!htbp]\centering\includegraphics[width=400pt]{../images/#1.png}\caption{#2}\label{tbl:#1}\end{table}}

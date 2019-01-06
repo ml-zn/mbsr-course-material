@@ -17,8 +17,8 @@ Ebene der inneren Kraft, der Selbstbestimmung und Weisheit, der auf unserer nat�
 Der Originaltitel des Grundlagenwerkes **"Gesund durch Meditation"** von **Jon Kabat-Zinn** heißt **"Full catastrophe living"**, in Anlehnung an 
 Alexis Sorbas.
 
-### Das Leben besteht aus Augenblicken
-
+> **Das Leben besteht aus Augenblicken**
+>
 > O ja, ich hatte meine intensiven Momente, und wenn ich noch einmal von vorn anfangen könnte, würde ich noch mehr davon 
   und im Grunde nichts anderes haben wollen. Einfach nur Augenblicke, einen nach dem anderen, anstatt ein Leben lang auf die Zukunft 
   zu warten.
