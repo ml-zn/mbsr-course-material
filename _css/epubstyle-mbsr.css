@@ -3,50 +3,50 @@
 font-family: "Josefin Sans";
 font-style: normal;
 font-weight: normal;
-src:url("JosefinSans-Regular.ttf");
+src:url("../fonts/JosefinSans-Regular.ttf");
 }
 @font-face {
 font-family: "Josefin Sans";
 font-style: normal;
 font-weight: bold;
-src:url("JosefinSans-Bold.ttf");
+src:url("../fonts/JosefinSans-Bold.ttf");
 }
 @font-face {
 font-family: "Josefin Sans";
 font-style: italic;
 font-weight: normal;
-src:url("JosefinSans-Italic.ttf");
+src:url("../fonts/JosefinSans-Italic.ttf");
 }
 @font-face {
 font-family: "Josefin Sans";
 font-style: italic;
 font-weight: bold;
-src:url("JosefinSans-BoldItalic.ttf");
+src:url("../fonts/JosefinSans-BoldItalic.ttf");
 }
 
 @font-face {
 font-family: "Handlee";
 font-style: normal;
 font-weight: normal;
-src:url("Handlee-Regular.ttf");
+src:url("../fonts/Handlee-Regular.ttf");
 }
 @font-face {
 font-family: "Handlee";
 font-style: normal;
 font-weight: bold;
-src:url("Handlee-Regular.ttf");
+src:url("../fonts/Handlee-Regular.ttf");
 }
 @font-face {
 font-family: "Handlee";
 font-style: italic;
 font-weight: normal;
-src:url("Handlee-Regular.ttf");
+src:url("../fonts/Handlee-Regular.ttf");
 }
 @font-face {
 font-family: "Handlee";
 font-style: italic;
 font-weight: bold;
-src:url("Handlee-Regular.ttf");
+src:url("../fonts/Handlee-Regular.ttf");
 }
 
 body { margin: 5%; text-align: justify; font-size: medium; font-family: "Josefin Sans"; }
