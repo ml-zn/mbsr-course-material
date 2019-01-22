@@ -1,24 +1,25 @@
+\newpage
+
 ## Body Scan
 
 Du hörst eine angeleitete Körperentspannung, den sogenannten Body Scan.\
-...\
+_- Pause - _\
 Wähle für diese Übung einen ruhigen, warmen Ort, an dem Du Dich wohlfühlst.\
-Und wählen Sie eine Zeit in der sie von niemandem gestört werden auch nicht durch das Telefon.\
-Tragen Sie lockere und bequeme Kleidung. Achten Sie darauf dass sie sich auch in der Taille nicht eingeengt fühlen 
-und der Atem frei fließen kann.\
-...\
+Und wähle eine Zeit, in der du von niemandem gestört wirst, auch nicht durch Telefon, Handy, Computer oder Menschen in Deinem Umfeld.\
+Wähle idealerwiese Kleidung, die Dich nicht einengt und Deinen Atem frei fliessen lässt. \
+_- Pause - _\
 Wählen Sie eine bequeme Haltung im Liegen oder im Sitzen.\
 Wenn sie nicht gut auf dem Rücken liegen können dann nehmen sie irgendeine andere bequeme Haltung ein.\
-...\
+[ Pause ]\
 Atmen Sie während der gesamten Übung ruhig und tief.\
 Und versuchen Sie so wach wie möglich zu bleiben. Es ist wichtig dass sie sich nicht zu sehr bemühen 
 einen Zustand der Entspannung zu erreichen. Das würde nur das Gegenteil bewirken. 
 Versuchen Sie stattdessen von Augenblick zu Augenblick wach und annehmen zu sein für alles was sie an 
 Körperempfindungen Gedanken und Gefühlen wahrnehmen.\
-...\
+[ Pause ]\
 Betrachten Sie sie ganz ruhig und klar und versuchen sie alles so anzunehmen wie es gerade ist. 
 Folgen Sie so gut sie können den Worten die sie hören und erlauben Sie sich zu fühlen was immer sie in dem jeweiligen Moment fühlen.\
-...\
+[ Pause ]\
 
 SPEAKER: F13
 Vielleicht recken und strecken Sie sich noch einmal atmen tief auf oder gähnen wenn sie auf dem Rücken liegen. Dann lassen Sie die Arme neben ihrem Körper sein. Ihre Beine können ausgestreckt sein. Dann lassen Sie die Füße auseinanderfallen Sie können ihre Beine auch aufstellen so wie es für Ihren Rücken am bequemsten ist wenn sie sitzen. Sorgen Sie für eine bequeme Sitzhaltung. Legen Sie Ihre Hände auf die Oberschenkel in den Schoß oder auf den Bauch. Lassen Sie Ihre Beine und Füße nebeneinander stehen ungefähr in Hüft breite voneinander entfernt. Nun schließen Sie Ihre Augen. Lassen Sie Ihren Blick hinter den geschlossenen Lidern weich werden. Ihr Unterkiefer ist gelöst die Zähne nicht aufeinander gepresst. Vielleicht ist es möglich die Schultern nach hinten und unten sinken zu lassen. Richten Sie allmählich ihre Aufmerksamkeit auf die Tatsache dass sie atmen.
