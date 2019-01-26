@@ -2,9 +2,23 @@ BUILD = build
 BOOKNAME = mbsr-leitfaden-kursleiter
 METADATA = metadata.yaml
 METADATA_PDF = metadata-pdf.yaml
-CHAPTERS = 00_00_orientierung.md 00_01_geschichte_mbsr.md 00_02_achtsamkeit.md 00_03_praxis.md 00_04_mbsr_8_wochen.md 00_05_risiken_fragen.md \
-01_00_kurseinheit_1.md 01_01_einfuehrung_meditation.md 01_02_achtsamkeit.md 01_03_kursregeln.md 01_04_reflexion.md 01_05_yoga_stehen.md \
-01_06_rosinenuebung.md 01_07_bauchatmung.md 01_08_bodyscan.md 01_09_austausch.md 01_10_hausaufgaben.md
+CHAPTERS = 00_orientierung.md \
+					 ../orientierung/00_achtsamkeit.md \
+					 ../orientierung/00_geschichte_mbsr.md \
+					 00_praxis.md \
+					 ../orientierung/00_mbsr_8_wochen.md \
+					 00_risiken_fragen.md \
+					 01_kurseinheit.md \
+					 01_einfuehrung_meditation.md \
+					 ../teilnehmer/01_achtsamkeit.md \
+					 01_kursregeln.md \
+					 01_reflexion.md \
+					 ../teilnehmer/01_yoga_stehen.md \
+					 01_rosinenuebung.md \
+					 01_bauchatmung.md \
+					 01_bodyscan.md \
+					 01_austausch.md \
+					 ../teilnehmer/01_hausaufgaben.md
 TOC = --toc --toc-depth=4
 
 all: book
