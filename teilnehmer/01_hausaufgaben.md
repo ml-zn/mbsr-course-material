@@ -22,3 +22,6 @@ jeweilige Situation abgestimmt ist.
 Dehnübungen__, mit denen Sie sich mit Ihrem Körper und dem gegenwärtigen
 Augenblick verbinden können
 
+
+_Bitte für die nächste Stunde eine Decke, Isomatte oder Yogamatte und, falls vorhanden, ein Sitzkissen mitbringen._
+
