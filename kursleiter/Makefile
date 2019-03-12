@@ -3,8 +3,8 @@ BOOKNAME = mbsr-leitfaden-kursleiter
 METADATA = metadata.yaml
 METADATA_PDF = metadata-pdf.yaml
 CHAPTERS = 00_orientierung.md \
-					 ../orientierung/00_achtsamkeit.md \
 					 ../orientierung/00_geschichte_mbsr.md \
+					 ../orientierung/00_achtsamkeit.md \
 					 00_praxis.md \
 					 ../orientierung/00_mbsr_8_wochen.md \
 					 00_risiken_fragen.md \

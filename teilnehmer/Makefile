@@ -18,7 +18,7 @@ clean: init
 	rm -r $(BUILD)
 
 epub: $(BUILD)/epub/$(BOOKNAME).epub
-
+	
 pdf: $(BUILD)/pdf/$(BOOKNAME).pdf
 
 $(BUILD)/epub/$(BOOKNAME).epub: $(METADATA) $(CHAPTERS)
