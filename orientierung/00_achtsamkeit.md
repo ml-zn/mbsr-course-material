@@ -17,7 +17,7 @@ _Aufmerksamkeit_ aufbaut.
 
 Es gibt viele Momente in unserem Alltag, die wir im __Autopiloten__ erledigen, 
 z.B. Auto fahren, Wäsche waschen, Zähne putzen. Die bewußte Entscheidung, Dinge 
-aufmerksam zu tun, trainiert die Achtsamkeit.
+aufmerksam zu tun und nicht im Autopiloten, trainiert die Achtsamkeit.
 
 ### Wofür soll Achtsamkeit gut sein?
 
@@ -27,5 +27,5 @@ erlernte, aber häufig belastende oder stressvolle Reaktionen zurück. Wenn wir 
 auf dem Weg zur Arbeit in einen Stau kommen und wir dadurch einen wichtigen Termin
 verpassen könnten, machen sich meistens Stress und Ärger bemerkbar. Der Raum, der durch
 die Achtsamkeitspraxis geschaffen wird, hilft uns, dieses zu bemerken und einen
-weiseren Umgang mit der Situation zu kultivieren.
+weiseren Umgang mit der Situation zu finden.
 
