@@ -2,18 +2,167 @@
 
 # Orientierungsveranstaltung
 
+__TODO__
+
+- Anmeldeformular
+- Fragebogen
+
 ## Überblick über die Orientierungsveranstaltung
 
-- Dauer: 60-85 Minuten
-- Entstehungsgeschichte von MBSR
-- Einführung in die Achtsamkeit
-- Übungen Yoga und kurze Meditation
-- Austausch
-- Organisatorisches
-- Kursinhalte
-- Teilnahmeregeln
-- Risiken und Nutzen
-- Fragen und Einzelgespräche
+- __Überblick__ über die Orientierungsveranstaltung (60-90 Minuten)
+- Kurze Beschreibung der __Entstehungsgeschichte von MBSR__ und der Stress
+Reduction Clinic (SRC) (bei Bedarf an den Veranstaltungsort anpassen)
+- Einführung in das Thema __Achtsamkeit__
+- Kurze __Übungssequenz__ (Yoga, kurze Atemmeditation) (Die Übung wird hier
+genauso angeboten wie im MBSR-Kurs mit Anleitung zur Selbstfürsorge und zur
+absichtsvollen Entscheidung, ob man eine Bewegung mitmacht, sowie zur
+Erforschung der eigenen Grenzen in diesem Augenblick, ohne sie zu
+überschreiten)
+- Kurzer __Austausch__ über die unmittelbare Achtsamkeitserfahrung mit den
+Teilnehmern der Orientierungsveranstaltung
+- __Organisatorisches__: Uhrzeiten, Termine der acht Kurseinheiten und des
+Achtsamkeitstages, Betonung, dass es wichtig ist, jeden Termin wahrzunehmen
+und sich selbst zum täglichen Üben zu verpflichten
+- __Kursinhalte__: Erfahrungsbasiertes Erlernen formaler und informeller Übungen;
+mp3-Downloads bzw. CDs und Übungsaufgaben für zu Hause; Kursthemen:
+Wahrnehmung, Stressphysiologie, Stressreaktion und Stressaktion,
+Kommunikation.
+- __Teilnahmeregeln__: Engagement und innere Verpflichtung zum Üben; es ist keine
+Voraussetzung für die Teilnahme, "etwas zu glauben"; das Wichtigste ist,
+gegenüber den eigenen Erfahrungen aufmerksam zu sein. Merken Sie an, dass
+die Teilnehmenden im Kurs nicht sprechen müssen, dass aber der Dialog in
+Kleingruppen und in der großen Gruppe ein wichtiger Teil der Kurszeit ist.
+- __Risiken und Nutzen__:
+
+_Risiken_ - körperlich, emotional, zeitlich, sozial; sprechen Sie auch mögliche
+Ausschlusskriterien an bzw. Themen, die während des Einzelgespräches näher
+beleuchtet werden sollten: Sucht, aktuelle Genesungsphase, unbehandelte
+Psychose, akute Depression, Suizidalität, PTBS, soziale Phobie, kürzliche
+Verlusterfahrung. Diese Umstände schließen die Möglichkeit einer
+Kursteilnahme nicht aus, müssen aber sowie auch alles andere, was
+nennenswert erscheint, im Einzelgespräch mitgeteilt werden. Während des
+Einzelgespräches können Sie Vorschläge zur Unterstützung machen und
+Empfehlungen geben, wie der Kursinteressent am meisten von der Teilnahme
+an einem MBSR-Kurs profitieren kann (siehe auch Anlage A für weitere
+Informationen und Vorgehensweisen bezüglich Verweisen des Interessenten an
+geeignetes medizinisches und psychologisches Personal und bei
+Krisenintervention.)
+
+_Nutzen_ - Besserer Umgang mit Stress; erfahrungsbasiert; Wirksamkeit abhängig
+von konsequentem Üben; bessere Selbstfürsorge; keine Garantie
+
+- Laden Sie die Teilnehmenden ein, weitere __Fragen__ zu stellen
+- __Einzelgespräch__
+
+## Entstehungsgeschichte vom MBSR
+
+**MBSR** oder **Mindfulness-Based Stress Reduction**, hat seinen Ursprung 1979 in der dem Medical Center der University of Massachsetts 
+angeschlossenen Stress Reduction Clinic. Übungsprogramme, die auf der **Achtsamkeit** beruhen, werden zur Chance für Menschen, 
+die sich - über ihre reguläre medizinische Versorgung hinaus - für ihr eigenes körperliches Wohl einsetzen wollen. 
+Diese basieren darauf, dass mentale und emotionale Faktoren nicht nur erhebliche positive wie negative Auswirkungen auf unsere 
+körperliche Gesundheit und unsere Fähigkeit zur Gesundung haben, sondern auch darüber bestimmen, ob wir auch angesichts chronischer 
+Erkrankungen, chronischer Schmerzen und einer verbreitet von Stress geprägten Lebensweise in der Lage sind, uns Lebensqualität und 
+Lebensfreude zu bewahren.
+
+Das MBSR-Programm basiert auf einer Form der **Meditation**, die in den buddhistischen Traditionen Asiens entwickelt wurde, einer streng 
+geregelten und **systematischen Schulung der Achtsamkeit**. Vereinfacht ausgedrückt bedeutet Achtsamkeit, in jedem Augenblick präsent zu 
+sein, ohne zu bewerten. Wir können sie entwickeln, indem wir unsere Aufmerksamkeit bewusst auf all die Verrichtungen und Geschehnisse 
+des Alltags richten, die wir für gewöhnlich nicht beachten. Es ist ein systematischer Ansatz zur Ausbildung einer zuvor unbekannten 
+Ebene der inneren Kraft, der Selbstbestimmung und Weisheit, der auf unserer natürlichen Fähigkeit zur Aufmerksamkeit aufbaut.
+
+Der Originaltitel des Grundlagenwerkes **"Gesund durch Meditation"** von **Jon Kabat-Zinn** heißt **"Full catastrophe living"**, in Anlehnung an 
+Alexis Sorbas.
+
+> **Das Leben besteht aus Augenblicken**
+>
+> O ja, ich hatte meine intensiven Momente, und wenn ich noch einmal von vorn anfangen könnte, würde ich noch mehr davon 
+  und im Grunde nichts anderes haben wollen. Einfach nur Augenblicke, einen nach dem anderen, anstatt ein Leben lang auf die Zukunft 
+  zu warten.
+>
+> _-- Nadine Stair, 85 Jahre, Louisville, Kentucky_
+
+## Einführung in die Achtsamkeit
+
+### Übung Achtsamkeit
+
+- Hinstellen oder hinsetzen
+- 1x eine Minute Buchstaben auf der Tafel schreiben und wegwischen
+- 1x eine Minute wahrnehmen, was ist
+
+### Was ist eigentlich Achtsamkeit?
+
+Wir können Achtsamkeit entwickeln, indem wir unsere Aufmerksamkeit bewusst auf
+all die Verrichtungen und Geschehnisse des Alltags richten,
+die wir für gewöhnlich nicht beachten. Es ist ein systematischer Ansatz zur 
+Ausbildung einer zuvor unbekannten Ebene der inneren Kraft, der
+Selbstbestimmung und Weisheit, der auf unserer natürlichen Fähigkeit zur 
+_Aufmerksamkeit_ aufbaut.
+
+> Achtsamkeit bedeutet freundlich und wohlwollend, mit Absicht und ohne zu 
+> werten die gegenwärtige Erfahrung wahrzunehmen.
+>
+> Jon Kabat-Zinn
+
+Es gibt viele Momente in unserem Alltag, die wir im __Autopiloten__ erledigen, 
+z.B. Auto fahren, Wäsche waschen, Zähne putzen. Die bewußte Entscheidung, Dinge 
+aufmerksam zu tun und nicht im Autopiloten, trainiert die Achtsamkeit.
+
+### Wofür soll Achtsamkeit gut sein?
+
+Durch die Achtsamkeitspraxis schaffen wir einen Raum zwischen dem Reiz und der 
+Reaktion auf diesen Reiz. Ohne diesen Raum greifen wir sehr schnell auf automatische, 
+erlernte, aber häufig belastende oder stressvolle Reaktionen zurück. Wenn wir z.B.
+auf dem Weg zur Arbeit in einen Stau kommen und wir dadurch einen wichtigen Termin
+verpassen könnten, machen sich meistens Stress und Ärger bemerkbar. Der Raum, der durch
+die Achtsamkeitspraxis geschaffen wird, hilft uns, dieses zu bemerken und einen
+weiseren Umgang mit der Situation zu finden.
+
+## Übungen Yoga und Meditation
+
+### Yoga
+
+![Yoga Übungen 1](../material/MBSR-Yoga/-000.jpg "Yoga Übungen 1"){width=400 height=337}
+
+![Yoga Übungen 2](../material/MBSR-Yoga/-002.jpg "Yoga Übungen 2"){width=400 height=268}
+
+### Atemmeditation
+
+## Austausch
+
+
+## Organisatorisches
+
+- Der Kurs läuft über acht Wochen mit je einem Gruppentreffen pro Woche am Abend. 
+- Jedes Sitzung dauert 2,5 h.
+- Der Tag der Achtsamkeit (ein Tag der Stille und des Rückzugs) findet an einem
+Wochenendtag zwischen der 6. und 7. Kurseinheit von  10:00 Uhr bis 16:00 Uhr
+statt. (Wenn es aus organisatorischen Gründen nötig ist, kann der Tag der
+Achtsamkeit auch zwischen der 5. und 6. Kurseinheit stattfinden.)
+
+
+## Kursinhalte
+
+- __Formale und informelle Praxis__: Die Teilnehmenden erlernen und praktizieren in
+jeder Kurseinheit verschiedene Formen von Achtsamkeit. Dazu gehören als
+_formale Übungen Yoga, Sitzmeditation, Body Scan und Gehmeditation_ sowie als
+_informelle Übungen achtsames Essen, Sprechen und Zuhören und Achtsamkeit
+im Alltag_.
+- __Themen__, die im Kurs behandelt werden: Die Teilnehmenden erhalten inhaltlichen
+Input zum Thema __Stress und erforschen automatisierte verhaltensbezogene,
+körperliche, emotionale und kognitive Gewohnheitsmuster__ und untersuchen
+detailliert, wie sie effektiver und geeigneter auf die Probleme und Anforderungen
+des täglichen Lebens antworten können. Parallel dazu erforschen wir auch, was
+es bedeutet, __gut für sich selbst zu sorgen__ und aufzublühen, wie wir uns
+gegenüber uns selbst und gegenüber anderen wirksamer in Beziehung setzen
+können und wie es wäre, wenn wir Verhaltensweisen und Tätigkeiten nähren, 
+die unsere __ureigenste Fähigkeit zu Wohlergehen__ ausdrücken.
+
+
+## Teilnahmeregeln
+
+## Risiken und Nutzen
+
+## Fragen und Einzelgespräche
 
 Organisatorische Informationen zum MBSR-Kurs:
 Die folgenden organisatorischen Informationen sind am Center for Mindfulness
