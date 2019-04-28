@@ -2,10 +2,7 @@ BUILD = build
 BOOKNAME = mbsr-orientierungsveranstaltung
 METADATA = metadata.yaml
 METADATA_PDF = metadata-pdf.yaml
-CHAPTERS = 00_orientierung.md \
-					 00_geschichte_mbsr.md \
-					 00_achtsamkeit.md \
-					 00_mbsr_8_wochen.md
+CHAPTERS = 00_orientierung.md 
 TOC = --toc --toc-depth=4
 
 all: book

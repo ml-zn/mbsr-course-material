@@ -2,12 +2,6 @@
 
 # Orientierungsveranstaltung
 
-__TODO__
-
-- Anmeldeformular
-- Fragebogen
-- Einverständniserklärung Audio- bzw. Videoaufnahmen
-
 ## Überblick über die Orientierungsveranstaltung
 
 - __Überblick__ über die Orientierungsveranstaltung (60-90 Minuten)
