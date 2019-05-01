@@ -51,27 +51,27 @@ von konsequentem Üben; bessere Selbstfürsorge; keine Garantie
 
 ## Entstehungsgeschichte vom MBSR
 
-**MBSR** oder **Mindfulness-Based Stress Reduction**, hat seinen Ursprung 1979 in der dem Medical Center der University of Massachsetts 
-angeschlossenen Stress Reduction Clinic. Übungsprogramme, die auf der **Achtsamkeit** beruhen, werden zur Chance für Menschen, 
-die sich - über ihre reguläre medizinische Versorgung hinaus - für ihr eigenes körperliches Wohl einsetzen wollen. 
-Diese basieren darauf, dass mentale und emotionale Faktoren nicht nur erhebliche positive wie negative Auswirkungen auf unsere 
-körperliche Gesundheit und unsere Fähigkeit zur Gesundung haben, sondern auch darüber bestimmen, ob wir auch angesichts chronischer 
-Erkrankungen, chronischer Schmerzen und einer verbreitet von Stress geprägten Lebensweise in der Lage sind, uns Lebensqualität und 
+**MBSR** oder **Mindfulness-Based Stress Reduction**, hat seinen Ursprung 1979 in der dem Medical Center der University of Massachsetts
+angeschlossenen Stress Reduction Clinic. Übungsprogramme, die auf der **Achtsamkeit** beruhen, werden zur Chance für Menschen,
+die sich - über ihre reguläre medizinische Versorgung hinaus - für ihr eigenes körperliches Wohl einsetzen wollen.
+Diese basieren darauf, dass mentale und emotionale Faktoren nicht nur erhebliche positive wie negative Auswirkungen auf unsere
+körperliche Gesundheit und unsere Fähigkeit zur Gesundung haben, sondern auch darüber bestimmen, ob wir auch angesichts chronischer
+Erkrankungen, chronischer Schmerzen und einer verbreitet von Stress geprägten Lebensweise in der Lage sind, uns Lebensqualität und
 Lebensfreude zu bewahren.
 
-Das MBSR-Programm basiert auf einer Form der **Meditation**, die in den buddhistischen Traditionen Asiens entwickelt wurde, einer streng 
-geregelten und **systematischen Schulung der Achtsamkeit**. Vereinfacht ausgedrückt bedeutet Achtsamkeit, in jedem Augenblick präsent zu 
-sein, ohne zu bewerten. Wir können sie entwickeln, indem wir unsere Aufmerksamkeit bewusst auf all die Verrichtungen und Geschehnisse 
-des Alltags richten, die wir für gewöhnlich nicht beachten. Es ist ein systematischer Ansatz zur Ausbildung einer zuvor unbekannten 
+Das MBSR-Programm basiert auf einer Form der **Meditation**, die in den buddhistischen Traditionen Asiens entwickelt wurde, einer streng
+geregelten und **systematischen Schulung der Achtsamkeit**. Vereinfacht ausgedrückt bedeutet Achtsamkeit, in jedem Augenblick präsent zu
+sein, ohne zu bewerten. Wir können sie entwickeln, indem wir unsere Aufmerksamkeit bewusst auf all die Verrichtungen und Geschehnisse
+des Alltags richten, die wir für gewöhnlich nicht beachten. Es ist ein systematischer Ansatz zur Ausbildung einer zuvor unbekannten
 Ebene der inneren Kraft, der Selbstbestimmung und Weisheit, der auf unserer natürlichen Fähigkeit zur Aufmerksamkeit aufbaut.
 
-Der Originaltitel des Grundlagenwerkes **"Gesund durch Meditation"** von **Jon Kabat-Zinn** heißt **"Full catastrophe living"**, in Anlehnung an 
+Der Originaltitel des Grundlagenwerkes **"Gesund durch Meditation"** von **Jon Kabat-Zinn** heißt **"Full catastrophe living"**, in Anlehnung an
 Alexis Sorbas.
 
 > **Das Leben besteht aus Augenblicken**
 >
-> O ja, ich hatte meine intensiven Momente, und wenn ich noch einmal von vorn anfangen könnte, würde ich noch mehr davon 
-  und im Grunde nichts anderes haben wollen. Einfach nur Augenblicke, einen nach dem anderen, anstatt ein Leben lang auf die Zukunft 
+> O ja, ich hatte meine intensiven Momente, und wenn ich noch einmal von vorn anfangen könnte, würde ich noch mehr davon
+  und im Grunde nichts anderes haben wollen. Einfach nur Augenblicke, einen nach dem anderen, anstatt ein Leben lang auf die Zukunft
   zu warten.
 >
 > _-- Nadine Stair, 85 Jahre, Louisville, Kentucky_
@@ -88,24 +88,24 @@ Alexis Sorbas.
 
 Wir können Achtsamkeit entwickeln, indem wir unsere Aufmerksamkeit bewusst auf
 all die Verrichtungen und Geschehnisse des Alltags richten,
-die wir für gewöhnlich nicht beachten. Es ist ein systematischer Ansatz zur 
+die wir für gewöhnlich nicht beachten. Es ist ein systematischer Ansatz zur
 Ausbildung einer zuvor unbekannten Ebene der inneren Kraft, der
-Selbstbestimmung und Weisheit, der auf unserer natürlichen Fähigkeit zur 
+Selbstbestimmung und Weisheit, der auf unserer natürlichen Fähigkeit zur
 _Aufmerksamkeit_ aufbaut.
 
-> Achtsamkeit bedeutet freundlich und wohlwollend, mit Absicht und ohne zu 
+> Achtsamkeit bedeutet freundlich und wohlwollend, mit Absicht und ohne zu
 > werten die gegenwärtige Erfahrung wahrzunehmen.
 >
 > Jon Kabat-Zinn
 
-Es gibt viele Momente in unserem Alltag, die wir im __Autopiloten__ erledigen, 
-z.B. Auto fahren, Wäsche waschen, Zähne putzen. Die bewußte Entscheidung, Dinge 
+Es gibt viele Momente in unserem Alltag, die wir im __Autopiloten__ erledigen,
+z.B. Auto fahren, Wäsche waschen, Zähne putzen. Die bewußte Entscheidung, Dinge
 aufmerksam zu tun und nicht im Autopiloten, trainiert die Achtsamkeit.
 
 ### Wofür soll Achtsamkeit gut sein?
 
-Durch die Achtsamkeitspraxis schaffen wir einen Raum zwischen dem Reiz und der 
-Reaktion auf diesen Reiz. Ohne diesen Raum greifen wir sehr schnell auf automatische, 
+Durch die Achtsamkeitspraxis schaffen wir einen Raum zwischen dem Reiz und der
+Reaktion auf diesen Reiz. Ohne diesen Raum greifen wir sehr schnell auf automatische,
 erlernte, aber häufig belastende oder stressvolle Reaktionen zurück. Wenn wir z.B.
 auf dem Weg zur Arbeit in einen Stau kommen und wir dadurch einen wichtigen Termin
 verpassen könnten, machen sich meistens Stress und Ärger bemerkbar. Der Raum, der durch
@@ -116,7 +116,7 @@ weiseren Umgang mit der Situation zu finden.
 
 - Kein Wettbewerb, keine Sport- oder Entspannungsveranstaltung
 - Beim Yoga die individuellen Körpergrenzen beachten
-- es geht um Gewahrsein im gegenwärtigen Moment und Körperwahrnehmung, nicht um 
+- es geht um Gewahrsein im gegenwärtigen Moment und Körperwahrnehmung, nicht um
 Herausforderung oder brezelartige Körperhaltungen
 - kurze Vorstellung, wie man meditieren kann
   - im Sitzen, Kissen, Hocker, Stuhl
@@ -141,7 +141,7 @@ Herausforderung oder brezelartige Körperhaltungen
 
 ## Organisatorisches
 
-- Der Kurs läuft über acht Wochen mit je einem Gruppentreffen pro Woche am Abend. 
+- Der Kurs läuft über acht Wochen mit je einem Gruppentreffen pro Woche am Abend.
 - Jedes Sitzung dauert 2,5 h.
 - Der Tag der Achtsamkeit (ein Tag der Stille und des Rückzugs) findet an einem
 Wochenendtag zwischen der 6. und 7. Kurseinheit von  10:00 Uhr bis 16:00 Uhr
@@ -163,7 +163,7 @@ detailliert, wie sie effektiver und geeigneter auf die Probleme und Anforderunge
 des täglichen Lebens antworten können. Parallel dazu erforschen wir auch, was
 es bedeutet, __gut für sich selbst zu sorgen__ und aufzublühen, wie wir uns
 gegenüber uns selbst und gegenüber anderen wirksamer in Beziehung setzen
-können und wie es wäre, wenn wir Verhaltensweisen und Tätigkeiten nähren, 
+können und wie es wäre, wenn wir Verhaltensweisen und Tätigkeiten nähren,
 die unsere __ureigenste Fähigkeit zu Wohlergehen__ ausdrücken.
 - Jede Kurseinheit enthält Phasen von formaler Achtsamkeitspraxis, Gespräche
 und Diskussionen in Kleingruppen und im Plenum sowie Übungen, die sich auf
@@ -198,6 +198,7 @@ Gesamtübungsdauer beträgt 60 Minuten oder mehr pro Tag. Ermutigen Sie die
 Teilnehmenden sich zu überlegen, wie sie eine Zeit zum täglichen Üben in den
 Tag einbauen können, da dies ein wesentlicher Bestandteil des
 Kursprogrammes ist.
+- __Ratschläge oder Problemlösungen__ von Teilnehmer zu Teilnehmer vermeiden
 - Ich bin zwar Kursleiter, aber auch __gleichzeitig Teilnehmer__. Man ist nie "_fertig_",
   und so bin ich ebenfalls immer wieder Praktizierender, wenn ich einen Kurs gebe.
 - Sprechen Sie auch an, dass die Teilnahme am MBSR-Kurs __stressig__ sein kann.
@@ -311,4 +312,3 @@ was geschieht, als von der Kursleiterin zu hören, was durch ihre Kursteilnahme
 geschehen kann und was nicht.
 
 ## Fragen und Einzelgespräche
-

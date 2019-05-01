@@ -4,16 +4,9 @@ METADATA = metadata.yaml
 METADATA_PDF = metadata-pdf.yaml
 CHAPTERS = 00_orientierung.md \
 					 01_kurseinheit.md \
-					 01_einfuehrung_meditation.md \
-					 ../teilnehmer/01_achtsamkeit.md \
-					 01_kursregeln.md \
-					 01_reflexion.md \
-					 ../teilnehmer/01_yoga_stehen.md \
-					 01_rosinenuebung.md \
-					 01_bauchatmung.md \
 					 01_bodyscan.md \
-					 01_austausch.md \
-					 ../teilnehmer/01_hausaufgaben.md
+					 ../teilnehmer/01_yoga_stehen.md \
+					 01_kurseinheit.md 
 TOC = --toc --toc-depth=4
 
 all: book
@@ -37,5 +30,5 @@ $(BUILD)/epub/$(BOOKNAME).epub: $(METADATA) $(CHAPTERS)
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(METADATA_PDF) $(CHAPTERS)
 	mkdir -p $(BUILD)/pdf
 	pandoc -s --template=../_latex/template-mbsr-latex.tex $(TOC) --filter pandoc-citeproc --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $(BUILD)/pdf/$(BOOKNAME).pdf $^
-	
+
 .PHONY: all book clean epub pdf
