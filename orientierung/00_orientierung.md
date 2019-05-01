@@ -77,10 +77,7 @@ Input zum Thema __Stress und erforschen automatisierte verhaltensbezogene,
 körperliche, emotionale und kognitive Gewohnheitsmuster__ und untersuchen
 detailliert, wie sie effektiver und geeigneter auf die Probleme und Anforderungen
 des täglichen Lebens antworten können. Parallel dazu erforschen wir auch, was
-es bedeutet, __gut für sich selbst zu sorgen__ und aufzublühen, wie wir uns
-gegenüber uns selbst und gegenüber anderen wirksamer in Beziehung setzen
-können und wie es wäre, wenn wir Verhaltensweisen und Tätigkeiten nähren,
-die unsere __ureigenste Fähigkeit zu Wohlergehen__ ausdrücken.
+es bedeutet, __gut für sich selbst zu sorgen__.
 - Jede Kurseinheit enthält Phasen von formaler Achtsamkeitspraxis, Gespräche
 und Diskussionen in Kleingruppen und im Plenum sowie Übungen, die sich auf
 das __Wochenthema__ beziehen.
@@ -96,24 +93,6 @@ das __Wochenthema__ beziehen.
 - Was die Teilnehmer __tragen/mitbringen__ sollten: am besten bequeme Kleidung, die im
 Gürtelbereich nicht einengt, so dass Ihr frei atmen könnt. Ggf. Yogamatten,
 Kissen, Decken, Meditationskissen oder -hocker, etwas zu essen oder zu trinken.
-
-## Teilnahmeregeln
-
-- Während der Sitzung sind __keine Pausen__ eingeplant. Essen oder Trinken nach Notwendigkeit
-- __stark riechende Düfte__ vermeiden, da wir bei längeren Übungssequenzen das Umfeld intensiver
-  wahrnehmen
-- Das __tägliche Üben zu Hause__ besteht aus 40-45 Minuten formaler Praxis nach
-Anleitung und anderer Übungen, Tätigkeiten bzw. Meditationen ohne Anleitung.
-__Überlegt Euch, wann und wie ihr eine Zeit zum täglichen Üben in den Tag einbauen könnt,
-da dies ein wesentlicher Bestandteil des Kursprogrammes ist.__
-- Ich bin zwar Kursleiter, aber auch __gleichzeitig Teilnehmer__. Man ist nie "_fertig_",
-  und so bin ich ebenfalls immer wieder Praktizierender, wenn ich einen Kurs gebe.
-- Die Teilnahme am MBSR-Kurs kann auch __stressig__ sein kann. Dazu gehören der Zeitaufwand
-  sowie andere mögliche Herausforderungen.
-- __Teilnahme__: Es ist wichtig, an allen neun Kurseinheiten teilzunehmen,
-einschließlich dem Tag der Achtsamkeit.
-- __Pünktliches Kommen__ zum Kurs ist wichtig. Bitte mir Bescheid geben, wenn jemand zu
-einem Termin nicht kommen kann. Bei Verspätung einfach leise in die Gruppe kommen.
 
 ## Risiken und Nutzen
 

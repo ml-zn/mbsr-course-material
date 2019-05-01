@@ -78,12 +78,6 @@ Alexis Sorbas.
 
 ## Einführung in die Achtsamkeit
 
-### Übung Achtsamkeit
-
-- Hinstellen oder hinsetzen
-- 1x eine Minute Buchstaben auf der Tafel schreiben und wegwischen
-- 1x eine Minute wahrnehmen, was ist
-
 ### Was ist eigentlich Achtsamkeit?
 
 Wir können Achtsamkeit entwickeln, indem wir unsere Aufmerksamkeit bewusst auf
@@ -187,42 +181,6 @@ MBSR-Kurs. Ein Kurs kann sinnvoll ab 4 Teilnehmern stattfinden.
 - Was die Teilnehmer __tragen/mitbringen__ sollten: Tragen Sie bequeme Kleidung, die im
 Gürtelbereich nicht einengt, so dass Sie frei atmen können. Ggf. Yogamatten,
 Kissen, Decken, Meditationskissen oder -hocker, etwas zu essen oder zu trinken.
-
-## Teilnahmeregeln
-
-- Während der Sitzung sind __keine Pausen__ eingeplant. Essen oder Trinken nach Notwendigkeit
-- __stark riechende Düfte__ vermeiden
-- Das __tägliche Üben zu Hause__ besteht aus 40-45 Minuten formaler Praxis nach
-Anleitung zuzüglich anderer Übungen, Tätigkeiten bzw. Meditationen ohne Anleitung. Die
-Gesamtübungsdauer beträgt 60 Minuten oder mehr pro Tag. Ermutigen Sie die
-Teilnehmenden sich zu überlegen, wie sie eine Zeit zum täglichen Üben in den
-Tag einbauen können, da dies ein wesentlicher Bestandteil des
-Kursprogrammes ist.
-- __Ratschläge oder Problemlösungen__ von Teilnehmer zu Teilnehmer vermeiden
-- Ich bin zwar Kursleiter, aber auch __gleichzeitig Teilnehmer__. Man ist nie "_fertig_",
-  und so bin ich ebenfalls immer wieder Praktizierender, wenn ich einen Kurs gebe.
-- Sprechen Sie auch an, dass die Teilnahme am MBSR-Kurs __stressig__ sein kann.
-Dazu gehören der Zeitaufwand sowie andere mögliche Herausforderungen.
-- __Teilnahme__: Es ist wichtig, an allen neun Kurseinheiten teilzunehmen,
-einschließlich dem Tag der Achtsamkeit. Wenn ein Teilnehmer eine Kurseinheit
-verpasst, ist es bei mehreren parallel laufenden Kursen möglich, dass er die
-Sitzung an einem anderen Wochentag in einer anderen Gruppe nachholt
-(abhängig vom Kursort). Wenn jemand schon vorher weiß, dass er zwei oder
-mehr Sitzungen verpassen wird, empfehlen Sie ihm, einen späteren Kurs zu
-besuchen. Wenn ein Teilnehmender ungeplant während des Kurses drei oder
-mehr Sitzungen verpasst, sollte er den Kurs beenden und den kompletten Kurs
-zu einem späteren Zeitpunkt noch einmal beginnen, wenn es zeitlich möglich ist.
-- Betonen Sie, dass __pünktliches Kommen__ zum Kurs wichtig ist. Bitten Sie die
-Teilnehmenden anzurufen, wenn sie eine Sitzung nicht besuchen können, die
-Sitzung in einem anderen Kurs nachholen oder sobald sie wissen, dass sie sich
-verspäten. Bei Verspätung einfach leise in die Gruppe kommen.
-- __Wetterbedingte Ausfälle__: Besprechen Sie die Vorgehensweise bei
-Unwetterwarnungen.
-- __Einverständniserklärung - Audio- und Videoaufnahmen während des Kurses
-zwecks MBSR-Zertifizierung__ (wenn zutreffend; abhängig vom Kursort):
-Erklären Sie die Art und Nutzung von Video- und Audioaufnahmen während
-einer Sitzung. Einverständniserklärung vor der Orientierungsveranstaltung
-oder der ersten Sitzung unterschreiben lassen.
 
 ## Risiken und Nutzen
 
