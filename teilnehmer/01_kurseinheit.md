@@ -25,6 +25,14 @@ Wir haben die theoretischen Grundlagen der __Achtsamkeit__ besprochen und das __
 
 Wir haben erste Erfahrungen mit __achtsamen Essen__, __achtsamer Meditation auf den Atem__, dem __Body-Scan__ und ersten Dehnübungen aus dem __Yoga im Stehen__ sammeln können.
 
+In einer angeleiteten Selbstreflexion haben wir uns die Fragen gestellt:
+
+- Was hat Dich hierher geführt?
+- Was ist Dein Ziel?
+- Was willst Du wirklich?
+
+Vielleicht ist jetzt beim Lesen nochmal die Möglichkeit, die Gedanken zu den Fragen präsent sein zu lassen.
+
 ## Übungen für zuhause
 
 - __Body Scan__ nach Anleitung an mindestens sechs Tagen in der Woche üben, am besten unter Verwendung des Übungstagebuchs
@@ -36,6 +44,7 @@ mitten am Tag zu kultivieren - lenkt kurz Eure Aufmerksamkeit auf den Atem, den 
 Geräusche, was ihr seht, sowie auf Gedanken und Gefühle - was immer
 gerade anwesend ist, und nehmt alles wahr, ohne es zu bewerten.
 
+\newpage
 
 ## Achtsamkeit
 
@@ -112,7 +121,7 @@ einschließlich dem Tag der Achtsamkeit.
 
 Verbinde alle neun Punkte mit vier geraden Linien, ohne den Stift abzusetzen und ohne eine der Linien zweimal zu ziehen.
 
-![Neun-Punkte-Übung](../material/9-punkte.png "Neun-Punkte-Übung"){width=400 height=300}
+![](../material/9-punkte.png){width=400 height=300}
 
 
 ## Achtsames Essen

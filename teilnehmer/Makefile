@@ -2,7 +2,7 @@ BUILD = build
 BOOKNAME = mbsr-teilnehmer
 METADATA = metadata.yaml
 METADATA_PDF = metadata-pdf.yaml
-CHAPTERS = 01_kurseinheit.md
+CHAPTERS = 01_kurseinheit.md 02_kurseinheit.md
 TOC = --toc --toc-depth=4
 
 all: book
@@ -26,5 +26,6 @@ $(BUILD)/epub/$(BOOKNAME).epub: $(METADATA) $(CHAPTERS)
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(METADATA_PDF) $(CHAPTERS)
 	mkdir -p $(BUILD)/pdf
 	pandoc -s --template=../_latex/template-mbsr-latex.tex $(TOC) --filter pandoc-citeproc --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $(BUILD)/pdf/$(BOOKNAME).pdf $^
+	pdfunite $(BUILD)/pdf/$(BOOKNAME).pdf ../material/Übungstagebuch.pdf ../material/TagebuchAngenehmerErlebnisse.pdf $(BUILD)/pdf/$(BOOKNAME)-complete.pdf
 
 .PHONY: all book clean epub pdf
