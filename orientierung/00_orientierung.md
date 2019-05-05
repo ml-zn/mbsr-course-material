@@ -30,7 +30,7 @@ Wir können Achtsamkeit entwickeln, indem wir unsere Aufmerksamkeit bewusst auf 
 >
 > Jon Kabat-Zinn
 
-Es gibt viele Momente in unserem Alltag, die wir im __Autopiloten__ erledigen, z.B. Auto fahren, Wäsche waschen, Zähne putzen. Die bewußte Entscheidung, Dinge aufmerksam zu tun und nicht im Autopiloten, trainiert die Achtsamkeit.
+Es gibt viele Momente in unserem Alltag, die wir im __Autopiloten__ erledigen, z.B. Auto fahren, Wäsche waschen, Zähne putzen. Die bewusste Entscheidung, Dinge aufmerksam zu tun und nicht im Autopiloten, trainiert die Achtsamkeit.
 
 ### Wofür soll Achtsamkeit gut sein?
 
@@ -45,7 +45,7 @@ weiseren Umgang mit der Situation zu finden.
 ## Organisatorisches
 
 - Der Kurs läuft über acht Wochen mit je einem Gruppentreffen pro Woche am Abend.
-- Jedes Sitzung dauert 2,5 h.
+- Jede Sitzung dauert 2,5 h.
 - Der Tag der Achtsamkeit (ein Tag der Stille und des Rückzugs) findet an einem
 Wochenendtag zwischen der 6. und 7. Kurseinheit von  10:00 Uhr bis 16:00 Uhr
 statt.
@@ -91,7 +91,7 @@ sorgen.
 - Wenn ein Teilnehmender eine Anleitung hört, von der er weiß, dass sie für
 seinen Körper bzw. seine körperliche Verfassung nicht geeignet ist, oder wenn
 etwas Schmerzen verursacht, dann ist die richtige Reaktion darauf, die
-Anleitungen der Kursleiterin nicht zu befolgen, sondern stattdessen die
+Anleitungen des Kursleiters nicht zu befolgen, sondern stattdessen die
 Bewegung/Haltung abzuwandeln, eine Pause zu machen und die
 Bewegung/Haltung mental zu begleiten oder auch alle auftauchenden Gedanken
 und Gefühle zu bemerken, die mit der Erfahrung verbunden sind, die
@@ -114,7 +114,7 @@ und sich mit dem Unbekannten konfrontiert sehen.
 
 - Es kann eine Herausforderung sein, sich den Raum und die Zeit zu nehmen, um
 die Übungen zu machen; es kann hilfreich sein, Familienmitglieder, Freunde
-und/oder KollegInnen zu bitten, die MBSR-Übende zu unterstützen.
+und/oder KollegInnen zu bitten, die MBSR-Übenden zu unterstützen.
 - Es kann sein, dass Kursteilnehmende Veränderungen in ihren Reaktionen,
 Verhaltensweisen und in ihrer Kommunikation wahrnehmen. Für
 Familienmitglieder, Freunde und/oder KollegInnen wiederum können diese
@@ -140,5 +140,6 @@ Schwierigkeiten, Schmerzen und Leid umzugehen
 - Bessere Selbstfürsorge
 - In der wissenschaftlichen Literatur gibt es viele Berichte über die Wirksamkeit
 von MBSR auf der körperlichen, psychischen und emotionalen Ebene.
-- Ich kann keine bestimmten Ergebnisse garantieren oder versprechen, die
+
+Ich kann keine bestimmten Ergebnisse garantieren oder versprechen, die
 durch die Teilnahme am MBSR-Kurs erzielt werden.
