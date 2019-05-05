@@ -97,7 +97,7 @@ Bewegung/Haltung mental zu begleiten oder auch alle auftauchenden Gedanken
 und Gefühle zu bemerken, die mit der Erfahrung verbunden sind, die
 Bewegung/Haltung nicht durchzuführen.
 
-### Emotionale Risiken:
+### Emotionale Risiken
 
 - Gefühle von Traurigkeit, Ärger oder Angst können während der Übungspraxis
 stärker erscheinen oder sich tatsächlich verstärken, da die - möglicherweise -
@@ -110,7 +110,7 @@ möglicherweise nicht gefällt.
 - Es kann sein, dass die TeilnehmerInnen vor Herausforderungen gestellt werden
 und sich mit dem Unbekannten konfrontiert sehen.
 
-### Andere Menschen in Deinem Leben:
+### Andere Menschen in Deinem Leben
 
 - Es kann eine Herausforderung sein, sich den Raum und die Zeit zu nehmen, um
 die Übungen zu machen; es kann hilfreich sein, Familienmitglieder, Freunde
@@ -123,7 +123,7 @@ neuen Verhaltensweisen beunruhigend sein.
 während sich ihre Aufmerksamkeit vertieft und sich neue Verhaltensweisen
 entfalten.
 
-### Zeit:
+### Zeit
 
 - Es kann eine große Herausforderung sein, die Zeit dafür zu finden, die
 Achtsamkeitspraxis als neue Gewohnheit im Leben zu integrieren: Es ist ganz
@@ -132,7 +132,7 @@ Teilnehmende machen oft eine an sich paradoxe Erfahrung: Seit sie die
 ExtraZeit zum Üben in ihren Tagesablauf einplanen, haben sie für den Rest des
 Tages ein Gefühl von mehr Raum und Zeit.
 
-### Vorteile:
+### Vorteile
 
 - Erhöhte Bewusstheit und Konzentration
 - Erlernen neuer Wege, um effektiver mit den eigenen Beschwerden,
@@ -141,4 +141,4 @@ Schwierigkeiten, Schmerzen und Leid umzugehen
 - In der wissenschaftlichen Literatur gibt es viele Berichte über die Wirksamkeit
 von MBSR auf der körperlichen, psychischen und emotionalen Ebene.
 - Ich kann keine bestimmten Ergebnisse garantieren oder versprechen, die
-durch die Teilnahme am MBSR-Kurs erzielt werden könnten.
+durch die Teilnahme am MBSR-Kurs erzielt werden.
