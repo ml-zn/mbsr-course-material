@@ -2,26 +2,43 @@
 
 ## Body Scan
 
-Du hörst eine angeleitete Körperentspannung, den sogenannten Body Scan.\
-_- Pause - _\
+Du hörst eine angeleitete Körperentspannung, den sogenannten __Body Scan__.\
+\
+_- Pause -_ \
+\
 Wähle für diese Übung einen ruhigen, warmen Ort, an dem Du Dich wohlfühlst.\
+\
 Und wähle eine Zeit, in der du von niemandem gestört wirst, auch nicht durch Telefon, Handy, Computer oder Menschen in Deinem Umfeld.\
 Wähle idealerwiese Kleidung, die Dich nicht einengt und Deinen Atem frei fliessen lässt. \
-_- Pause - _\
-Wählen Sie eine bequeme Haltung im Liegen oder im Sitzen.\
-Wenn sie nicht gut auf dem Rücken liegen können dann nehmen sie irgendeine andere bequeme Haltung ein.\
-[ Pause ]\
-Atmen Sie während der gesamten Übung ruhig und tief.\
-Und versuchen Sie so wach wie möglich zu bleiben. Es ist wichtig dass sie sich nicht zu sehr bemühen 
-einen Zustand der Entspannung zu erreichen. Das würde nur das Gegenteil bewirken. 
-Versuchen Sie stattdessen von Augenblick zu Augenblick wach und annehmen zu sein für alles was sie an 
-Körperempfindungen Gedanken und Gefühlen wahrnehmen.\
-[ Pause ]\
-Betrachten Sie sie ganz ruhig und klar und versuchen sie alles so anzunehmen wie es gerade ist. 
-Folgen Sie so gut sie können den Worten die sie hören und erlauben Sie sich zu fühlen was immer sie in dem jeweiligen Moment fühlen.\
-[ Pause ]\
+\
+_- Pause -_ \
+\
+Wähle eine bequeme Haltung im Liegen oder im Sitzen. Atme während der gesamten Übung ruhig und tief.\
+\
+Und versuche, so wach wie möglich zu bleiben. Es ist wichtig, dass Du Dich nicht zu sehr bemühst, einen Zustand der Entspannung zu erreichen. Das würde nur das Gegenteil bewirken. Versuche stattdessen, von Augenblick zu Augenblick wach und annehmend zu sein für alles, was Du an Körperempfindungen, Gedanken und Gefühlen wahrnimmst.\
+\
+_- Pause -_ \
+\
+Betrachten diese ganz ruhig und klar und versuche, alles so anzunehmen wie es gerade ist.\
+\
+Folge so gut es geht den Worten, die Du hörst, und erlaube Dir, das zu fühlen, was Du im Moment fühlst.\
+\
+_- Pause -_ \
+\
+Vielleicht reckst und streckst Du Dich noch einmal, atmest tief ein oder gähnst nochmal. \
+\
+Wenn Du auf dem Rücken liegst, lass die Arme neben Deinem Körper sein, Deine Beine sind ausgestreckt und Deine Füße fallen auseinander. Wenn es für Deinen Rücken besser ist, kannst Du Deine Beine auch aufstellen.
+\
+Wenn Du auf dem Stuhl sitzt, sorge für eine bequeme Sitzhaltung. Lege Deine Hände ab, auf den Oberschenkeln, im Schoß oder auf Deinem Bauch. Stelle Deine Beine und Füße vor Dir auf, ungefähr hüftbreit voneinander entfernt. Achte darauf, dass auch Dein Rücken gerade und aufrecht ist und Du ohne Anstrengung sitzen kannst.
+\
+_- Pause -_ \
+\
+Nun schließe Deine Augen. Lass den Blick hinter Deinen geschlossenen Lidern weich werden.\
+\
+Der Unterkiefer ist gelöst und die Zähne nicht aufeinandergepresst.\
+\
+Vielleicht ist es möglich, die Schultern loszulassen, entweder an den Boden entlassen, wenn Du liegst oder sie nach hinten und unten sinken zu lassen, falls Du auf einem Stuhl sitzt. 
 
-SPEAKER: F13
 Vielleicht recken und strecken Sie sich noch einmal atmen tief auf oder gähnen wenn sie auf dem Rücken liegen. Dann lassen Sie die Arme neben ihrem Körper sein. Ihre Beine können ausgestreckt sein. Dann lassen Sie die Füße auseinanderfallen Sie können ihre Beine auch aufstellen so wie es für Ihren Rücken am bequemsten ist wenn sie sitzen. Sorgen Sie für eine bequeme Sitzhaltung. Legen Sie Ihre Hände auf die Oberschenkel in den Schoß oder auf den Bauch. Lassen Sie Ihre Beine und Füße nebeneinander stehen ungefähr in Hüft breite voneinander entfernt. Nun schließen Sie Ihre Augen. Lassen Sie Ihren Blick hinter den geschlossenen Lidern weich werden. Ihr Unterkiefer ist gelöst die Zähne nicht aufeinander gepresst. Vielleicht ist es möglich die Schultern nach hinten und unten sinken zu lassen. Richten Sie allmählich ihre Aufmerksamkeit auf die Tatsache dass sie atmen.
 SPEAKER: F4
 Nehmen Sie wahr wie ihr Atem in den Körper einströmt und aus dem Körper wieder ausströmt.
