@@ -7,6 +7,7 @@ CHAPTERS = 00_orientierung.md \
 					 01_bodyscan.md \
 					 ../teilnehmer/01_yoga_stehen.md \
 					 02_kurseinheit.md \
+					 03_kurseinheit.md \
 					 aa_inquiry.md
 TOC = --toc --toc-depth=4
 

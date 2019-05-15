@@ -2,7 +2,8 @@ BUILD = build
 BOOKNAME = mbsr-teilnehmer
 METADATA = metadata.yaml
 METADATA_PDF = metadata-pdf.yaml
-CHAPTERS = 01_kurseinheit.md 02_kurseinheit.md
+CHAPTERS = 01_kurseinheit.md 02_kurseinheit.md 03_kurseinheit.md \
+03_yoga_liegen.md
 TOC = --toc --toc-depth=4
 
 all: book

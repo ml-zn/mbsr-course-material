@@ -124,6 +124,7 @@ es nicht darum, den Atem zu kontrollieren oder zu verändern, sondern vielmehr
 darum, mit dem Atem und den Körperempfindungen beim Atmen zu sein und zu
 bemerken, wenn die Aufmerksamkeit wandert, um dann die Aufmerksamkeit
 absichtsvoll wieder zum Atem zurückzubringen.
+- __Geeignete Timer__ für die Meditation
 - __Kalender angenehmer Ereignisse__ ausfüllen (ein Eintrag pro Tag).
 Anmerkung: Wenn Sie an einem Tag kein angenehmes Ereignis wahrnehmen,
 müssen Sie für diesen Tag den Kalender nicht ausfüllen.

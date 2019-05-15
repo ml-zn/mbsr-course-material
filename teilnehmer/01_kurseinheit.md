@@ -111,10 +111,9 @@ __Die formale und informelle Praxis zuhause ist zentraler Bestandteil des MBSR-K
 - __Ratschläge oder Problemlösungen__ von Teilnehmer zu Teilnehmer vermeiden
 - Ich bin zwar Kursleiter, aber auch __gleichzeitig Teilnehmer__. Man ist nie "_fertig_",
   und so bin ich ebenfalls immer wieder Praktizierender, wenn ich einen Kurs gebe.
-- Sprechen Sie auch an, dass die Teilnahme am MBSR-Kurs __stressig__ sein kann.
-Dazu gehören der Zeitaufwand sowie andere mögliche Herausforderungen.
+- Die Teilnahme am MBSR-Kurs kann __stressig__ sein, z.B. Zeit und andere Herausforderungen.
 - __Teilnahme__: Es ist wichtig, an allen neun Kurseinheiten teilzunehmen,
-einschließlich dem Tag der Achtsamkeit.
+einschließlich dem Tag der Achtsamkeit. Der Tag der Achtsamkeit kann im Rahmen eines anderen Kurses nachgeholt werden.
 - __Pünktliches Kommen__ zum Kurs ist wichtig. Falls jemand verhindert ist, bitte per Mail oder Telefon abmelden. Bei Verspätung einfach leise in die Gruppe kommen.
 
 ## Die Neun-Punkte-Übung
