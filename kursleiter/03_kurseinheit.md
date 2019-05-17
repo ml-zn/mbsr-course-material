@@ -140,4 +140,4 @@ Atem und anschließender Ausdehnung der Aufmerksamkeit auf den ganzen Körper.
 
 - Abwechselnd Body Scan und Körperarbeit im Liegen mit Anleitung an mindestens sechs Tagen
 - Sitzmeditation mit Achtsamkeit auf den Atem - 15-20 Minuten pro Tag
-- 'Kalender unangenehmer Ereignisse' ausfüllen (ein Eintrag pro Tag).
+- __Kalender unangenehmer Ereignisse__ ausfüllen (ein Eintrag pro Tag).
