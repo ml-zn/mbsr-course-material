@@ -46,9 +46,9 @@ Nun schließe Deine Augen. Lass den Blick hinter Deinen geschlossenen Lidern wei
 \
 Der Unterkiefer ist gelöst und die Zähne nicht aufeinandergepresst.\
 \
-Vielleicht ist es möglich, die Schultern loszulassen, entweder an den Boden entlassen, wenn Du liegst, oder sie nach hinten und unten sinken zu lassen, falls Du auf einem Stuhl sitzt.\
+Vielleicht ist es Dir möglich, die Schultern loszulassen.\
 \
-Richte allmählich Deine Aufmerksamkeit auf Deinen Atem.\
+Richte allmählich die Aufmerksamkeit auf Deinen Atem.\
 \
 _- Pause -_ \
 \
@@ -64,7 +64,7 @@ Gib mit jeder Ausatmung der Schwerkraft etwas mehr nach.\
 \
 _- Pause -_ \
 \
-Lass nun Deine Aufmerksamkeit durch den ganzen Körper fließen, zu Deinen Beinen, durch das linke Bein zu den Zehen des linken Fußes, vom großen Zeh jeden Einzelnen bis zum kleinen Zeh.\
+Lass nun Deine Aufmerksamkeit durch den ganzen Körper fließen, zu Deinen Beinen, durch das linke Bein zu den Zehen des linken Fußes, vom großen Zeh zu jedem Einzelnen bis hin zum kleinen Zeh.\
 \
 Wandere weiter zu Deiner linken Fußsohle, dem Fußrücken, der Ferse,\
 \
@@ -102,7 +102,7 @@ Lass Deine Aufmerksamkeit weiterwandern in die Leistengegend, den Übergang zwis
 \
 Dann auch die linke Hüfte, und von der linken Hüfte zur rechten Hüfte hinüber gleiten mit der Aufmerksamkeit, und durch das ganze rechte Bein durch die ganze Länge des rechten Beines bis hinunter zu den Zehen.\
 \
-Vom großen Zeh jeden Einzelnen bis zum kleinen Zeh.\
+Vom großen Zeh zu jedem Einzelnen bis hin zum kleinen Zeh.\
 \
 Wandere auch hier weiter zu Deiner Fußsohle, dem Fußrücken, der Ferse,\
 \
