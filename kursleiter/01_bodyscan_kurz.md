@@ -1,17 +1,11 @@
 \newpage
 
-## Body Scan
-
-### Telegramm für die freie Anleitung
-
-- bequeme Haltung im Sitzen oder Liegen
-- wach von Augenblick zu Augenblick, Wahrnehmung von Körperempfindungen, Gedanken und Gefühlen
-
+## Body Scan kurz
 
 
 ### Gesprochene Anleitung
 
-Der __Body Scan__.\
+Der etwas kürzere __Body Scan__.\
 \
 _- Pause -_ \
 \
@@ -24,17 +18,13 @@ _- Pause -_ \
 \
 Wähle eine __*bequeme Haltung*__ im Liegen oder im Sitzen. Atme während der gesamten Übung ruhig und tief.\
 \
-Und versuche, so __*wach wie möglich*__ zu bleiben. Es ist wichtig, dass Du Dich nicht zu sehr bemühst, einen Zustand der Entspannung zu erreichen. Das würde nur das Gegenteil bewirken. Versuche stattdessen, von Augenblick zu Augenblick wach und annehmend zu sein für alles, was Du an Körperempfindungen, Gedanken und Gefühlen wahrnimmst.\
+Und versuche, so __*wach wie möglich*__ zu bleiben. \
 \
 _- Pause -_ \
-\
-Betrachte diese ganz ruhig und klar und versuche, alles so anzunehmen wie es gerade ist.\
 \
 Folge so gut es geht den Worten, die Du hörst, und erlaube Dir, das zu fühlen, was Du im Moment fühlst.\
 \
 _- Pause -_ \
-\
-Vielleicht reckst und streckst Du Dich noch einmal, atmest tief ein oder gähnst nochmal. \
 \
 Wenn Du auf dem Rücken liegst, lass die Arme neben Deinem Körper sein, Deine Beine sind ausgestreckt und Deine Füße fallen auseinander. Wenn es für Deinen Rücken besser ist, kannst Du Deine Beine auch aufstellen.\
 \
@@ -51,11 +41,8 @@ Vielleicht ist es Dir möglich, die Schultern loszulassen.\
 Richte allmählich die Aufmerksamkeit auf Deinen Atem.\
 \
 _- Pause -_ \
-\\
-_- Pause -_ \
 \
-
-Nimm wahr, wie Dein Atem in den Körper einströmt und aus dem Körper wieder ausströmt. Dein Atem atmet Dich, Du musst nichts tun.\
+Nimm wahr, wie Dein Atem in den Körper einströmt und aus dem Körper wieder ausströmt. \
 \
 Spüre, wie Deine Bauchdecke sich beim Einatmen hebt und beim Ausatmen wieder senkt.\
 \
@@ -69,21 +56,19 @@ Gib mit jeder Ausatmung der Schwerkraft etwas mehr nach.\
 \
 _- Pause -_ \
 \
-Lass nun Deine Aufmerksamkeit durch den ganzen Körper fließen, zu Deinen Beinen, durch das linke Bein zu den Zehen des linken Fußes, vom großen Zeh zu jedem Einzelnen bis hin zum kleinen Zeh.\
+Lass nun Deine Aufmerksamkeit durch den ganzen Körper fließen, zu Deinen Beinen, durch das linke Bein zu den Zehen des linken Fußes.\
 \
 Wandere weiter zu Deiner linken Fußsohle, dem Fußrücken, der Ferse,\
 \
 dem ganzen linken Fuß.\
 \
-Fühle den linken Fuß jetzt so, wie er ist. Vielleicht empfindest Du Wärme oder Kälte, ein Kribbeln, oder ein Jucken. Es kann sein, dass Du nichts spürst, dann lass auch genau diese Wahrnehmnung da sein. \
-\
-Nimm für einen weiteren Moment den ganzen Fuß wahr.\
+Fühle den linken Fuß jetzt so, wie er ist. \
 \
 _- Pause -_ \
 \
 Spüre nun das linke Fußgelenk, wie fühlt es sich an?\
 \
-Vom Fußgelenk zum Unterschenkel zum Schienbein und zur Wade, alle Empfindungen in Deinem Unterschenkel so wahrnehmen, wie sie jetzt sind.\
+Vom Fußgelenk zum Unterschenkel, zum Schienbein und zur Wade, alle Empfindungen in Deinem Unterschenkel so wahrnehmen, wie sie jetzt sind.\
 \
 Möglicherweise spürst Du den Unterschenkel in seiner Verbindung zur Kleidung oder der Unterlage.\
 \
@@ -107,15 +92,11 @@ Lass Deine Aufmerksamkeit weiterwandern in die Leistengegend, den Übergang zwis
 \
 Dann auch die linke Hüfte, und von der linken Hüfte zur rechten Hüfte hinüber gleiten mit der Aufmerksamkeit, und durch das ganze rechte Bein durch die ganze Länge des rechten Beines bis hinunter zu den Zehen.\
 \
-Vom großen Zeh zu jedem Einzelnen bis hin zum kleinen Zeh.\
-\
 Wandere auch hier weiter zu Deiner Fußsohle, dem Fußrücken, der Ferse,\
 \
 dem ganzen rechten Fuß.\
 \
 Wie fühlt sich der Fuß an, die Verbindung zum Boden, zu den Socken?\
-\
-Stelle einfach nur fest, welche Empfindungen dort sind, mache Dir keine Gedanken, wie sich Dein Fuß anfühlen sollte.\
 \
 Komme nun für einen Moment in Deinem Fußgelenk an.\
 \
@@ -129,8 +110,6 @@ _- Pause -_ \
 \
 Nun das rechte Knie, die Kniescheibe, die Seiten des Knies, die Kniekehle und das Gelenk.\
 \
-Wie spürst Du jetzt das rechte Knie?\
-\
 Was immer Du wahrnimmst, lass es so, wie es sich anfühlt.\
 \
 Wandere mit der Aufmerksamkeit zum rechten Oberschenkel, den ganzen Bereich des Oberschenkels zwischen Knie und Hüfte spüren.\
@@ -143,16 +122,11 @@ Spüre den Übergang zwischen Oberschenkel und Hüfte, die rechte Leiste.\
 \
 Die Aufmerksamkeit auf das Gesäß richten.\
 \
-Spürst Du den Kontakt zur Unterlage? Ist dieser hart, oder weich? Gibt es Schwere oder Leichtigkeit?\
+Spürst Du den Kontakt zur Unterlage? \
 \
-Die Aufmerksamkeit weiter ausdehnen und den Beckenboden wahrnehmen.\
-\
-Das Becken, Kreuzbein und Steißbein wahrnehmen.\
-\
-Die ganze Gesäß und Beckenregion.\
+Die Aufmerksamkeit weiter ausdehnen und den Beckenboden, das Becken, das Kreuzbein, das Steißbein, die ganze Körperregion wahrnehmen.\
 \
 Vielleicht ist hier schon eine Bewegung durch den Atem zu spüren.\
-Das sanfte sich ausdehnen und zusammenziehen beobachten.\
 \
 _- Pause -_ \
 \
@@ -164,11 +138,7 @@ Versuche dann ganz sanft und behutsam in diese Bereiche hinein zu atmen\
 \
 offen und annehmend für die unterschiedlichen Empfindungen. \
 \
-Und dann wieder aus diesen Bereichen aus zu atmen.\
-\
 _- Pause -_ \
-\
-Komm nun wieder in den unteren Rücken. Was empfindest Du in diesem Moment?\
 \
 Dann weiterwandern mit der Aufmerksamkeit zum mittleren Rücken.\
 \
@@ -178,15 +148,13 @@ Hier anwesend sein mit der Aufmerksamkeit, tief hinein spüren.\
 \
 Und dann den ganzen Rücken von den Schultern bis zum Becken wahrnehmen.\
 \
-Offen sein für alle Empfindungen, auch die Empfindungen des Atems, Kontaktempfindungen mit dem Boden.\
+Offen sein für alle Empfindungen, auch die Empfindungen des Atems und die Kontaktempfindungen mit dem Boden.\
 \
 _- Pause -_ \
 \
 Lass Deine Aufmerksamkeit zum Bauch wandern.\
 \
 Das Heben und Senken der Bauchdecke beim Atmen wahrnehmen.\
-\
-Die Aufmerksamkeit auf die Magengegend wandern lassen.\
 \
 Gibt es Empfindungen in diesem Bereich?\
 \
@@ -230,7 +198,9 @@ Von dem Nacken aus weiter bis zu Deinem Hinterkopf wandern.\
 \
 Spürst Du Deinen Hinterkopf vielleicht in der Verbindung mit der Unterlage oder dem Raum?\
 \
-Hier anwesend sein und nun das Gesicht wahrnehmen.\
+Hier anwesend sein \
+\
+Und nun das Gesicht wahrnehmen.\
 \
 Den Unterkiefer und das Kinn betrachten, die Kiefergelenke spüren.\
 \
@@ -263,12 +233,6 @@ Vom Scheitel beginnend Deine Wahrnehmung auf den gesamten Körper ausweiten, bis
 \
 Den Körper als Ganzes wahrnehmen.\
 \
-Wo spürst Du das Ein und Aus Deines Atems?\
-\
-Den Kontakt zum Stuhl oder Boden.\
-\
-Den Raum.\
-\
 Für einen Moment den Atem im Körper erleben.\
 \
 _- Pause -_ \
@@ -277,9 +241,7 @@ Stelle Dich nun langsam darauf ein, diese Übung zu beenden.\
 \
 Etwas Bewegung in den Körper bringen.\
 \
-Vielleicht mit kleinen Bewegungen der Hände und der Füße. Was brauchst Du jetzt?\
-\
-Räkeln? Gähnen? Die Hände aneinander reiben und auf die Augen legen?\
+Was brauchst Du jetzt?\
 \
 Nimm Dir soviel Zeit, wie Du benötigst, um die Übung zu beenden.\
 \

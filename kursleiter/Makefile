@@ -5,10 +5,12 @@ METADATA_PDF = metadata-pdf.yaml
 CHAPTERS = 00_orientierung.md \
 					 01_kurseinheit.md \
 					 01_bodyscan.md \
+					 01_bodyscan_kurz.md \
 					 ../teilnehmer/01_yoga_stehen.md \
 					 02_kurseinheit.md \
 					 03_kurseinheit.md \
-					 aa_inquiry.md
+					 aa_inquiry.md \
+					 bb_kursreflexion.md
 TOC = --toc --toc-depth=4
 
 all: book
