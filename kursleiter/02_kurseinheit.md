@@ -24,8 +24,8 @@ steht in engem Zusammenhang damit, wie die TeilnehmerInnen ihre Teilnahme am
 Kurs sehen; wie sie ihren Schmerz, ihre Krankheit, den Stress und Druck in ihrem
 Leben sehen; der Grad der Bereitschaft, den sie für den Kurs aufbringen, und die
 Selbstdisziplin. Stellen Sie hier die Verbindung zu der automatischen Stressreaktion
-und der Erholung von akuten Stressoren her sowie zu dem Prinzip "Nicht die
-Stressauslöser an sich, sondern die Art und Weise, wie wir mit ihnen umgehen",
+und der Erholung von akuten Stressoren her sowie zu dem Prinzip __*"Nicht die
+Stressauslöser an sich, sondern die Art und Weise, wie wir mit ihnen umgehen"*__,
 beeinflussen die kurz- und langfristigen Auswirkungen auf unsere psychische und
 körperliche Gesundheit und auf das allgemeine Wohlbefinden.
 
@@ -57,14 +57,18 @@ Spaziergang machen usw.
 
 ## Typischer Ablauf der Sitzung
 
+### Anfangsmeditation und Begrüßung
+
 ### Yoga im Stehen
 
 ### Body Scan
 
 ### Austausch / Gruppenarbeit
 
-Gruppenarbeit (in Kleingruppen oder im Plenum): Austausch über die __Erfahrungen
-beim Üben des Body Scan__ im Kurs und zu Hause; dabei können folgende Fragen und
+#### Erfahrungsaustausch zum Body Scan
+
+Gruppenarbeit (in Kleingruppen oder im Plenum): Austausch über die __*Erfahrungen
+beim Üben des Body Scan*__ im Kurs und zu Hause; dabei können folgende Fragen und
 Themen besprochen werden:
 
 - Wie erfolgreich waren die KursteilnehmerInnen darin, sich Zeit für den Body Scan zu nehmen?
@@ -74,49 +78,61 @@ Themen besprochen werden:
 
 Zur Führung des Gesprächs Anregung in dem Kapitel [Inquiry](#inquiry) holen
 
-Knüpfen Sie hier an die universelle Tatsache an, dass der __Geist abschweift__ und dass
+Knüpfen Sie hier an die universelle Tatsache an, dass der __*Geist abschweift*__ und dass
 wir dieser Erkenntnis mit freundlichem Interesse und Akzeptanz begegnen und die
 Aufmerksamkeit absichtsvoll und immer wieder zum Body Scan zurückbringen; Sie
 können betonen, dass das absichtsvolle Zurückkommen des Geistes genauso ein Teil
 der Meditation ist wie das Bleiben beim Objekt der Aufmerksamkeit. Es geht darum zu
-__registrieren (ohne zu analysieren), wohin unser Geist wandert__ und woran wir denken.
-Betonen Sie, wie wichtig es ist, Gedanken und Gefühle __nicht zu unterdrücken__ oder zu
-verdrängen oder die Dinge nicht in eine bestimmte Richtung zu zwängen. Die beste
-Methode irgendwohin zu kommen, ist es, nicht zu versuchen, irgendwohin zu kommen,
+__*registrieren (ohne zu analysieren), wohin unser Geist wandert*__ und woran wir denken.
+
+Betonen Sie, wie wichtig es ist, Gedanken und Gefühle __*nicht zu unterdrücken*__ oder zu
+verdrängen oder die Dinge nicht in eine bestimmte Richtung zu zwängen.
+
+Die beste Methode irgendwohin zu kommen, ist es, nicht zu versuchen, irgendwohin zu kommen,
 auch nicht in "entspannter" Weise. Es gibt die Option es "sein zu lassen" oder
 "loszulassen". Dies ist eine neue Art zu lernen. Der Körper hat seine eigene Sprache
 und seine eigene Intelligenz. Nicht-konzeptionell.
 
+#### Erfahrungsaustausch zum achtsamen Essen
+
 Austausch über das __achtsame Essen einer Mahlzeit__ zu Hause und/oder der Erfahrung,
 welches Verhältnis man zum Essen hat.
+
+#### Erfahrungsaustausch zur Neun-Punkte-Übung
 
 __Neun-Punkte-Übung__: Untersuchen Sie die Erfahrungen mit der Neun-Punkte-Übung
 und dem Thema, das Feld der Wahrnehmung auszudehnen, wenn Sie bekannten oder
 neuen Herausforderungen oder Situationen begegnen. Aus dieser Erfahrung heraus
-können mehrere weitere Themen auftauchen. Beispiele: die Art und Weise, wie man ein
-Problem löst; Erkennen von konditionierten Verhaltens-, Gefühls- und Denkmustern, die
+können mehrere weitere Themen auftauchen. Beispiele:
+
+- die Art und Weise, wie man ein Problem löst;
+- Erkennen von konditionierten Verhaltens-, Gefühls- und Denkmustern, die
 auftauchen, wenn man Schwierigkeiten and Herausforderungen begegnet
-(einschließlich dem "Lösen" der Neun-Punkte-Aufgabe); Registrieren von Mustern, die
-selbstzerstörerisch oder unproduktiv sind, und von der Art und Weise, wie die
-Vergangenheit die Gegenwart beeinflusst (Etikettierungen, Überzeugungen); vielleicht
-auch das eine oder andere "Aha-Erlebnis". (Einige oder auch all diese Themen können
+(einschließlich dem "Lösen" der Neun-Punkte-Aufgabe);
+- Registrieren von Mustern, die selbstzerstörerisch oder unproduktiv sind, und
+- von der Art und Weise, wie die Vergangenheit die Gegenwart beeinflusst (Etikettierungen, Überzeugungen); vielleicht
+- auch das eine oder andere "Aha-Erlebnis". (Einige oder auch all diese Themen können
 mit dem Body Scan in Zusammenhang gebracht werden.)
 
 Option __Kippbilder__: Verwenden Sie das Bild 'Alte Frau/Junge Frau', eine andere optische
 Täuschung oder andere Anschauungsmaterialien, die die menschliche Wahrnehmung
 herausfordern, um verschiedene Arten des Sehens und Nicht-Sehens zu untersuchen.
 
+### Einführung in die Sitzmeditation
+
 __Sitzmeditation__: Einführung der Sitzmeditation mit Achtsamkeit auf den Atem als Objekt
 der Aufmerksamkeit. __Stellen Sie vorher verschiedene Sitzhaltungen vor__ und lassen Sie
-den TeilnehmerInnen Zeit, diese auszuprobieren. Leiten Sie eine kurze Meditation an.
+den TeilnehmerInnen Zeit, diese auszuprobieren.
+
+![](../material/meditation-poses.png){width=440 height=453}
+
+
+Leiten Sie eine kurze Meditation an.
 
 __Austausch über die Meditation__ mit Achtsamkeit auf den Atem.
 
-Erklären Sie die __Übungen für zuhause.__
+### Übungen für zuhause
 
-Beenden Sie die Sitzung mit einer kurzen Atemmeditation.
-
-## Übungen für zuhause
 - __Body Scan__ nach Anleitung an mindestens sechs Tagen in der Woche üben
 - __Sitzmeditation mit Achtsamkeit auf den Atem__ - keine Anleitung für die häuslichen
 Übungen. Die TeilnehmerInnen sollen lernen, sich selbst anzuleiten. Dabei geht
@@ -131,3 +147,6 @@ müssen Sie für diesen Tag den Kalender nicht ausfüllen.
 - Eine __Alltagstätigkeit__ auswählen, bei der Sie in dieser Woche __besonders achtsam__
 sein möchten (z.B. Zähne putzen, den Müll wegbringen, duschen, das Haustier
 füttern usw.).
+
+
+### Abschlussmeditation
