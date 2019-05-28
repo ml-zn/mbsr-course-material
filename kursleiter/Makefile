@@ -8,6 +8,7 @@ CHAPTERS = 00_orientierung.md \
 					 01_bodyscan_kurz.md \
 					 ../teilnehmer/01_yoga_stehen.md \
 					 02_kurseinheit.md \
+					 02_sitzmeditation_kurz.md \
 					 03_kurseinheit.md \
 					 aa_inquiry.md \
 					 bb_kursreflexion.md

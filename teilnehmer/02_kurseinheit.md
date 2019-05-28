@@ -46,6 +46,13 @@ Es ist völlig normal, dass Deine Gedanken immer und immer wieder auftauchen. Ve
 
 \newpage
 
+## Meditationshaltungen
+
+![](../material/meditation-poses.png){width=440 height=453}
+
+
+\newpage
+
 > __Ein Vorgeschmack von Glück__
 >
 > Obwohl Berta Young schon dreißig war, gab es in ihrem Leben immer noch Augenblicke wie diesen, wo sie lieber rennen möchte, anstatt zu gehen, über das Straßenpflaster hüpfen, einen Reifen drehen, etwas in die Luft werfen und wieder auffangen, oder stehen bleiben und – ohne Grund – lachen, einfach ohne Grund. … Was kann man machen, wenn man dreißig ist und beim Einbiegen in die eigene Straße unversehens von einem Gefühl der Glückseligkeit – absoluter Glückseligkeit! – erfasst wird, als hätte man plötzlich ein großes Stück von dieser leuchtenden Spätnachmittagssonne verschluckt, das in der Brust ein feuriges Gefühl hervorruft und einen kleinen Funkenregen in jede Zelle, jeden Finger und jede Zehe sendet?
