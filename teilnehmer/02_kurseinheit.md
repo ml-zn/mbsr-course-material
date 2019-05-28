@@ -12,7 +12,7 @@ Ebenso haben wir uns über die anderen Übungen der ersten Kurswoche, die Neun-P
 
 Neben der Neun-Punkte-Übung gibt es ebenfalls Kippbilder, die zeigen, dass jeder seine Erfahrungen, sein Wissen und seine Verhaltensmuster in Situationen hereinbringt und diese die individuelle Wahrnehmung der Situation beeinflussen.
 
-![](../material/kippbild-delphine-liebespaar.jpg){width=440 height=340}
+![](../material/alte-oder-junge-frau-kippbild.jpg){width=440 height=340}
 
 
 Zum Abschluss haben wir die Sitzmeditation mit Achtsamkeit auf den Atem kennengelernt sowie einige Sitzhaltungen. Jeder von Euch kann versuchen herauszufinden, in welcher Haltung die Meditation am angenehmsten ist.
