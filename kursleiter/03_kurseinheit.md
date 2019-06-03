@@ -52,23 +52,30 @@ Gehmeditation - achtsames Yoga im Liegen. In diesem Fall würde sich der
 nachfolgende Austausch in der Gruppe über die gemachten Erfahrungen auf alle
 Übungen beziehen.
 
-Sitzmeditation mit Achtsamkeit auf den Atem. Anleitung zu einer stabilen, aufrechten
-und zentrierten Sitzhaltung.
+### Sitzmeditation mit Achtsamkeit auf den Atem
 
-Austausch in der Gruppe über die Sitzmeditation, den Body Scan und Achtsamkeit bei
-Routineaktivitäten. Erklären Sie, wie wichtig es ist, im Körper zuhause zu sein, indem
+Anleitung zu einer stabilen, aufrechten und zentrierten Sitzhaltung.
+
+### Austausch in der Gruppe über die Sitzmeditation, den Body Scan und Achtsamkeit bei Routineaktivitäten.
+
+Erklären Sie, wie wichtig es ist, im Körper zuhause zu sein, indem
 Sie die Teilnehmenden über ihre direkten Erfahrungen berichten lassen: Wie fühlt es
 sich an, im Körper zuhause zu sein (somatische/körperliche Erfahrungsebene)? Wie
 fühlt es sich an, nicht geerdet und nicht mit dem Körper verbunden zu sein?
 
 Optional: Einführung der Gehmeditation.
 
-Yoga im Liegen: Praktizieren Sie mit der Gruppe die Körperübungen im Liegen in der
+### Yoga im Liegen
+
+Praktizieren Sie mit der Gruppe die Körperübungen im Liegen in der
 gleichen Reihenfolge wie auf der CD, und leiten Sie mit Worten da an, wo es notwendig
 ist. Der Fokus liegt auf der Achtsamkeit, sich den eigenen Grenzen mit Freundlichkeit
-und Sanftheit zu nähern - Lernen, mit der Grenze zu spielen, ohne sie zu überschreiten
-- Erforschen, was feinfühlig und weise ist, von Moment zu Moment. Ermutigen Sie die
-TeilnehmerInnen, Haltungen zu vermeiden, die eine Verletzung oder einen Rückschlag
+und Sanftheit zu nähern
+
+- Lernen, mit der Grenze zu spielen, ohne sie zu überschreiten
+- Erforschen, was feinfühlig und weise ist, von Moment zu Moment.
+
+Ermutigen Sie die TeilnehmerInnen, Haltungen zu vermeiden, die eine Verletzung oder einen Rückschlag
 verursachen könnten, sondern im Zweifel vorsichtig und behutsam zu experimentieren.
 Dies ist besonders wichtig für Menschen mit chronischen Erkrankungen des
 Bewegungsapparates, d.h. Probleme im unteren Rücken, im Nacken, mit Gelenken und
@@ -90,6 +97,8 @@ Für Teilnehmende, die nicht auf dem Boden liegen können, ist es hilfreich und
 unterstützend, alternative Yoga-Übungen anzubieten, die auf dem Stuhl geübt werden
 können. Dies kann bedeuten, dass Sie während der Yoga-Anleitungen immer wieder
 einmal zwischen dem Boden und dem Stuhl wechseln müssen.
+
+### Austausch
 
 Austausch in der Gruppe über die Erfahrungen beim Praktizieren der achtsamen
 Körperübungen.
@@ -129,15 +138,28 @@ Sitzung verschieben, um sie dann gemeinsam mit dem Kalender unangenehmer
 Ereignisse zu behandeln; abhängig von der verfügbaren Zeit und der Vorliebe des
 Kursleiters.)
 
+### Übungen für zuhause
+
 Übungen für zuhause besprechen: Abwechselnd Yoga und Body Scan. Betonen Sie,
 wie wichtig es ist, jeden Tag auf die Matte zu gehen und achtsame Körperarbeit zu
 praktizieren, auch wenn es nur einige Minuten sind.
+
+### Sitzmeditation zum Abschluss
 
 Beenden Sie die Kurseinheit mit einer kurzen Sitzmeditation mit Achtsamkeit auf den
 Atem und anschließender Ausdehnung der Aufmerksamkeit auf den ganzen Körper.
 
 ## Übungen für zuhause
 
-- Abwechselnd Body Scan und Körperarbeit im Liegen mit Anleitung an mindestens sechs Tagen
-- Sitzmeditation mit Achtsamkeit auf den Atem - 15-20 Minuten pro Tag
-- __Kalender unangenehmer Ereignisse__ ausfüllen (ein Eintrag pro Tag).
+- Abwechselnd __Body Scan__ und __Yoga im Liegen__ mit Anleitung an mindestens sechs Tagen
+- __Sitzmeditation mit Achtsamkeit auf den Atem__ - 15-20 Minuten pro Tag
+- __Kalender angenehmer Ereignisse ausfüllen (ein Eintrag pro Tag)__, wenn es an einem Tag nichts Angenehmes gibt, tragt Ihr an diesem Tag ganz achtsam nichts ein
+- __Kalender unangenehmer Ereignisse ausfüllen (ein Eintrag pro Tag)__, wenn es an einem Tag nichts Unangenehmes gibt, tragt Ihr an diesem Tag ganz achtsam nichts ein
+
+\newpage
+
+## Yoga im Liegen: Gesprochene Anleitung
+
+
+
+\newpage
