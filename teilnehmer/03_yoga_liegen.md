@@ -1,6 +1,6 @@
 \newpage
 
-## Yoga im Liegen {#yoga-im-liegen}
+## Yoga im Liegen: Übungen {#yoga-im-liegen-uebungen}
 
 Im folgenden sind einige typische Übungssequenzen für das Yoga im Liegen dargestellt, wie sie im Rahmen des MBSR-Kurses praktiziert werden.
 
