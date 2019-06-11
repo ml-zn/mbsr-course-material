@@ -10,7 +10,7 @@ Anschließend haben wir uns in der Gruppe über Sitzmeditation, den Yoga-Übunge
 
 Anhand des Tagebuchs unangenehmer Erlebnisse haben wir uns vor Augen geführt, wie wir diese unangenehmen Ereignisse erlebt haben, welche Körperempfindungen, Gedanken und Gefühle uns dabei begegnet sind.
 
-Wir habe erforscht, wie wir Stress auf der Körper-, Gedanken- und Gefühlsebene tatsächlich erleben. Wir haben Stressoren kennengelernt, gewohnheitsmäßige Stressreaktionen und wie die Schulung der Achtsamkeit sowohl unser Erleben von Stress als auch unsere Stressreaktion beeinflusst.
+Wir haben erforscht, wie wir Stress auf der Körper-, Gedanken- und Gefühlsebene tatsächlich erleben. Wir haben Stressoren kennengelernt, gewohnheitsmäßige Stressreaktionen und wie die Schulung der Achtsamkeit sowohl unser Erleben von Stress als auch unsere Stressreaktion beeinflusst.
 
 Den Kursabend haben wir mit einer Sitzmeditation beendet.
 
