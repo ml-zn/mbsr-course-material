@@ -14,7 +14,8 @@ CHAPTERS = 00_orientierung.md \
 					 04_kurseinheit.md \
 					 ../teilnehmer/04_stress.md \
 					 aa_inquiry.md \
-					 bb_kursreflexion.md
+					 bb_sitzmeditation_5stufen.md \
+					 zz_kursreflexion.md
 TOC = --toc --toc-depth=4
 
 all: book

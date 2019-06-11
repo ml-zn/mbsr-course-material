@@ -57,7 +57,11 @@ Teilnehmenden daran erinnern, achtsam zuzuhören und zu sprechen.
 
 (aufbauend auf den Übungen der vergangenen Woche)
 
+[Yoga im Stehen](#yoga-im-stehen)
+
 ### Sitzmeditation mit Aufmerksamkeit auf den Atem, Körperempfindungen
+
+[Sitzmeditation](#sitzmeditation)
 
 (Einführung mit einem kurzen Body Scan im Sitzen) und den Körper als Ganzes. Der Fokus liegt auf dem Umgang mit schmerzhaften Körperempfindungen.
 
