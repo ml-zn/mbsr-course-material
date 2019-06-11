@@ -2,8 +2,7 @@ BUILD = build
 BOOKNAME = mbsr-teilnehmer
 METADATA = metadata.yaml
 METADATA_PDF = metadata-pdf.yaml
-CHAPTERS = 01_kurseinheit.md 02_kurseinheit.md 03_kurseinheit.md \
-03_yoga_liegen.md
+CHAPTERS = 01_kurseinheit.md 02_kurseinheit.md 03_kurseinheit.md 03_yoga_liegen.md 04_kurseinheit.md 04_stress.md
 TOC = --toc --toc-depth=4
 
 all: book
@@ -29,6 +28,7 @@ $(BUILD)/pdf/$(BOOKNAME).pdf: $(METADATA_PDF) $(CHAPTERS)
 	pandoc -s --template=../_latex/template-mbsr-latex.tex $(TOC) --filter pandoc-citeproc --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $(BUILD)/pdf/$(BOOKNAME)-1.pdf metadata-pdf-1.yaml 01_kurseinheit.md
 	pandoc -s --template=../_latex/template-mbsr-latex.tex $(TOC) --filter pandoc-citeproc --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $(BUILD)/pdf/$(BOOKNAME)-2.pdf metadata-pdf-2.yaml 02_kurseinheit.md
 	pandoc -s --template=../_latex/template-mbsr-latex.tex $(TOC) --filter pandoc-citeproc --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $(BUILD)/pdf/$(BOOKNAME)-3.pdf metadata-pdf-3.yaml 03_kurseinheit.md 03_yoga_liegen.md
+	pandoc -s --template=../_latex/template-mbsr-latex.tex $(TOC) --filter pandoc-citeproc --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $(BUILD)/pdf/$(BOOKNAME)-4.pdf metadata-pdf-4.yaml 04_kurseinheit.md 04_stress.md
 	pandoc -s --template=../_latex/template-mbsr-latex.tex $(TOC) --filter pandoc-citeproc --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $(BUILD)/pdf/$(BOOKNAME).pdf $^
 	pdfunite $(BUILD)/pdf/$(BOOKNAME).pdf ../material/Übungstagebuch.pdf ../material/TagebuchAngenehmerErlebnisse.pdf $(BUILD)/pdf/$(BOOKNAME)-complete.pdf
 

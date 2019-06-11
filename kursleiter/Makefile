@@ -11,6 +11,8 @@ CHAPTERS = 00_orientierung.md \
 					 02_sitzmeditation_kurz.md \
 					 03_kurseinheit.md \
 					 ../teilnehmer/03_yoga_liegen.md \
+					 04_kurseinheit.md \
+					 ../teilnehmer/04_stress.md \
 					 aa_inquiry.md \
 					 bb_kursreflexion.md
 TOC = --toc --toc-depth=4
