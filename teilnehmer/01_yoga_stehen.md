@@ -27,4 +27,8 @@ Im folgenden sind einige typische Übungssequenzen für das Yoga im Stehen darge
 
 ![](../material/MBSR-Yoga/-024.jpg){width=400 height=268}
 
+![](../material/MBSR-Yoga/-026.jpg){width=400 height=449}
+
+![](../material/MBSR-Yoga/-028.jpg){width=400 height=280}
+
 \newpage

@@ -6,13 +6,14 @@ CHAPTERS = 00_orientierung.md \
 					 01_kurseinheit.md \
 					 01_bodyscan.md \
 					 01_bodyscan_kurz.md \
-					 ../teilnehmer/01_yoga_stehen.md \
 					 02_kurseinheit.md \
 					 02_sitzmeditation_kurz.md \
 					 03_kurseinheit.md \
 					 ../teilnehmer/03_yoga_liegen.md \
 					 04_kurseinheit.md \
 					 ../teilnehmer/04_stress.md \
+					 05_kurseinheit.md \
+					 ../teilnehmer/01_yoga_stehen.md \
 					 aa_inquiry.md \
 					 bb_sitzmeditation_5stufen.md \
 					 zz_kursreflexion.md
