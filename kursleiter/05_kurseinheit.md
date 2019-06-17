@@ -7,24 +7,33 @@
 Während dieser zweieinhalbstündigen Sitzung beginnen die Teilnehmenden mit einer
 Kombination der drei großen formalen Achtsamkeitsübungen, die sie auch während der
 vergangenen Wochen zu Hause trainiert haben: Body Scan, achtsame Körperübungen
-aus dem Yoga und Sitzmeditation. Diese Sitzung markiert die Halbzeit des
-MBSRKurses. An dieser Stelle kann betont werden, dass die Teilnehmenden schneller
-und wirksamer auf die Herausforderungen und Stressauslöser des Alltags eingehen
-können. Die Praxis der Achtsamkeit auf der Erfahrungsebene wird fortgeführt mit dem
-Schwerpunkt darauf, auf Stressauslöser zu antworten (anstatt zu reagieren), und der
+aus dem Yoga und Sitzmeditation.
+
+Diese Sitzung markiert die Halbzeit des MBSR-Kurses. An dieser Stelle kann betont werden,
+dass die Teilnehmenden schneller und wirksamer auf die Herausforderungen und Stressauslöser
+des Alltags eingehen können.
+
+Die Praxis der Achtsamkeit auf der Erfahrungsebene wird fortgeführt mit dem
+Schwerpunkt darauf, __*auf Stressauslöser zu antworten (anstatt zu reagieren)*__, und der
 Betonung, wie wertvoll und hilfreich Achtsamkeit ist, damit wir lernen innezuhalten,
 einen Schritt zurückgehen und klarer/objektiver sehen, um dann in einer besseren
-Position zu sein, je nach Situation eine bewusste Entscheidung zu treffen. Um die
-Fähigkeit der bewussten Aktion statt Reaktion weiterzuentwickeln, können an dieser
+Position zu sein, je nach Situation eine bewusste Entscheidung zu treffen.
+
+Um die Fähigkeit der bewussten Aktion statt Reaktion weiterzuentwickeln, können an dieser
 Stelle problem-, emotions- und bedeutungsorientierte Bewältigungsstrategien genannt
-werden (siehe Lazarus & Folkman; Folkman). Ein Kernelement der Sitzung orientiert
+werden (siehe Lazarus & Folkman; Folkman).
+
+_Ein Kernelement der Sitzung orientiert
 sich an der Fähigkeit der Teilnehmenden, sich von stressvollen Begebenheiten
 schneller zu erholen. Diese Strategien werden weiterentwickelt für eine bessere
 Fähigkeit, sich einer Vielzahl körperlicher und mentaler Wahrnehmungen gewahr zu
 werden und dieses Gewahrsein als Mittel zu nutzen, um absichtsvoll innezuhalten und
 in vorher konditionierte Gewohnheitsmuster einzugreifen und wirksamere achtsame
-Antworten auf den Stress zu wählen. (siehe: Kabat-Zinn, Gesund durch Meditation,
-2011, Kapitel 20 'Bewusst handeln statt reagieren', S. 220-226).
+Antworten auf den Stress zu wählen._
+
+__*(siehe: Kabat-Zinn, Gesund durch Meditation,
+2011, Kapitel 20 'Bewusst handeln statt reagieren', S. 220-226).*__
+
 Neurowissenschaftliche Untersuchungen können hier genannt werden; am besten
 geben Sie Informationen, die in Zusammenhang mit den berichteten Erfahrungen der
 Teilnehmenden stehen. Übung für zuhause: Tägliche Achtsamkeitspraxis mit
@@ -34,10 +43,11 @@ Beobachtung und Anwendung achtsamen Gewahrseins im Alltag.
 
 ### Thema 1
 
-Aufmerksamkeit auf das Gefühl, im Leben oder in bestimmten Situationen festgefahren
+__*Aufmerksamkeit auf das Gefühl, im Leben oder in bestimmten Situationen festgefahren
 zu sein; gewohnheitsmäßige Muster in Situationen, in denen wir stark gefordert sind
 (d.h. Kampf, Flucht, Starre - Stressreaktionen/automatisierte Reaktionen/
-Unachtsamkeit).
+Unachtsamkeit).*__
+
 Erforschen, wie Menschen häufig damit umgehen: Betäubung, Leugnen,
 passivaggressives Verhalten, Unterdrücken von Gefühlen, substanzgebundene
 Abhängigkeiten, suizidale Gedanken usw. Es ist wichtig, die Tatsache wahrzunehmen
@@ -48,24 +58,31 @@ kontraproduktiv und begrenzend, wenn nicht sogar zerstörerisch sind.
 Anmerkung: Diese Themen sind vielleicht schon in Sitzung 4 aufgekommen, als die
 automatische gewohnheitsmäßige Stressreaktivität und die Biologie von Kampf, Flucht
 und Erstarrung angesprochen wurden.
-Dieses Thema kann fortgesetzt werden, indem die Teilnehmenden erforschen und
+
+_Dieses Thema kann fortgesetzt werden, indem die Teilnehmenden erforschen und
 beschreiben, wie es ist, wenn man sich den automatischen musterhaften
 Stressreaktionen mit freundlicher Aufmerksamkeit nähert, ohne versuchen, sie zu
-verändern.
+verändern._
 
 ### Thema 2
 
 Stellen Sie den Zusammenhang zwischen Achtsamkeit und Wahrnehmung / Bewertung
 im kritischen Augenblick (dem Moment des bewussten In-Kontakt-Gehens) sowie mit
 dem Auftauchen reaktiver Körperempfindungen, Gefühle, Gedanken und
-Verhaltensweisen her. Die Aufmerksamkeit liegt nicht auf dem Reagieren auf
-Stresssituationen, sondern auf der Fähigkeit zu bewusstem Handeln. Untersuchen Sie
-die Auswirkungen emotionaler Reaktionen bei Gesundheit und bei Krankheit. Erkennen
+Verhaltensweisen her.
+
+__*Die Aufmerksamkeit liegt nicht auf dem Reagieren auf
+Stresssituationen, sondern auf der Fähigkeit zu bewusstem Handeln.*__
+
+Untersuchen Sie die Auswirkungen emotionaler Reaktionen bei Gesundheit und bei Krankheit. Erkennen
 Sie die volle Bandbreite von Emotionen an und bringen Sie sie gegenüber sich selbst
-und anderen klar und respektvoll zum Ausdruck. Erforschen Sie auch die Fähigkeit, sich
+und anderen klar und respektvoll zum Ausdruck.
+
+_Erforschen Sie auch die Fähigkeit, sich
 schneller zu erholen als ein Mittel, die Schwächung, sozusagen den Verschleiß an
 Körper und Geist zu verringern, der auftaucht, wenn ein Reaktionszyklus von Erregung
-anhält.
+anhält._
+
 
 ## Empfohlener Ablaufplan
 
@@ -93,29 +110,33 @@ Teilnehmenden daran erinnern, achtsam zuzuhören und zu sprechen
 ### Sitzmeditation
 
 45-minütige Sitzmeditation mit Achtsamkeit auf den Atem, den Körper, Geräusche,
-Gedanken und Gefühle als "Ereignisse" des Geistes; das Ereignis an sich anstatt des
+Gedanken und Gefühle als "Ereignisse" des Geistes; __*das Ereignis an sich anstatt des
 Inhaltes bemerken; danach sich öffnen für das offene Gewahrsein; am Ende
-zurückkehren zur Aufmerksamkeit auf den Atem und sich ankern im Körper. Längere
+zurückkehren zur Aufmerksamkeit auf den Atem und sich ankern im Körper.*__ Längere
 Phasen von Stille während der formalen Achtsamkeitspraxis einführen.
 
 ### Geführte Reflexion
 
-Nach der Meditation überleiten zu einer geführten Reflexion: Heute ist das Ende der
-ersten Kurshälfte erreicht. Wie ist es mir bisher mit dem Kurs gegangen? Innehalten
-und Bilanz ziehen: Lerne ich etwas? Wenn ja, was ist es? Wie zeigt es sich in meinem
-Leben? Wie engagiere ich mich für den Kurs: Gehe ich regelmäßig zu den Sitzungen
-und übe ich täglich zu Hause? Wenn es mir schwer gefallen ist, zu Hause zu üben
-und/oder den Kurs bisher jede Woche zu besuchen: Bin ich bereit, mich noch einmal
-neu für die zweite Kurshälfte zu engagieren? Weisen Sie darauf hin, dass Wachstum
-und Entwicklung nicht linear verlaufen. Erwartungen an die zweite Kurshälfte, die auf
-Erfahrungen der ersten Kurshälfte beruhen, loslassen.
+Nach der Meditation überleiten zu einer geführten Reflexion:
+
+- Heute ist das Ende der ersten Kurshälfte erreicht.
+- Wie ist es mir bisher mit dem Kurs gegangen? Innehalten und Bilanz ziehen:
+Lerne ich etwas? Wenn ja, was ist es?
+- Wie zeigt es sich in meinem Leben?
+- Wie engagiere ich mich für den Kurs: Gehe ich regelmäßig zu den Sitzungen
+und übe ich täglich zu Hause?
+- Wenn es mir schwer gefallen ist, zu Hause zu üben und/oder den Kurs bisher jede
+Woche zu besuchen: Bin ich bereit, mich noch einmal neu für die zweite Kurshälfte zu engagieren?
+
+Weisen Sie darauf hin, dass Wachstum und Entwicklung nicht linear verlaufen.
+Erwartungen an die zweite Kurshälfte, die auf Erfahrungen der ersten Kurshälfte beruhen, loslassen.
 Einladung zu üben und jeden Moment als einen Neuanfang zu betrachten, eine sich
 entfaltende Gelegenheit sich vollständig einzulassen, ganz lebendig zu sein.
 
 ### Halbzeit-Fragebögen
 
 Teilnehmenden zur Verfügung stellt, die Ihnen als weiteres Instrument dienen können,
-den Kurs noch besser auf die Bedürfnisse der einzelnen Teilnehmenden abzustimmen.)
+den Kurs noch besser auf die Bedürfnisse der einzelnen Teilnehmenden abzustimmen.
 
 ### Inquiry zum Üben zuhause
 
@@ -128,13 +149,13 @@ haben.
 
 Erforschen Sie Beobachtungen über die Reaktionen auf stressige Ereignisse während
 der vergangenen Woche.
-Bemerken Sie gewohnheitsmäßige Verhaltensmuster, Gedanken und Emotionen, die
-mit dem Gefühl verbunden sind, in diesen konditionierten Reaktionen festzustecken.
+Bemerken Sie __*gewohnheitsmäßige Verhaltensmuster, Gedanken und Emotionen, die
+mit dem Gefühl verbunden sind, in diesen konditionierten Reaktionen festzustecken.*__
 Schließen Sie auch Muster mit ein, die während der Meditationspraxis auftauchen.
 
-Fragen Sie die Teilnehmenden, ob sie, wenn auch nur an kleinen Anzeichen, eine
+Fragen Sie die Teilnehmenden, ob sie, wenn auch nur an __*kleinen Anzeichen, eine
 verbesserte Möglichkeit erlebt haben, in diesen Augenblicken bewusst zu handeln
-anstatt automatisch zu reagieren. Betonen Sie, während Sie die Unterscheidung
+anstatt automatisch zu reagieren.*__ Betonen Sie, während Sie die Unterscheidung
 zwischen Reagieren und bewusstem Agieren untersuchen, aber auch, dass Reagieren
 in vielen Situationen richtig ist. Nicht der Stress selbst, sondern wie wir ihn wahrnehmen
 und uns auf ihn beziehen, entscheidet darüber, welche Auswirkungen er auf Körper und
