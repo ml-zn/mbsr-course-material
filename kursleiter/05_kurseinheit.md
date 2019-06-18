@@ -94,8 +94,7 @@ anhält._
 
 - Meditation zum Ankommen
 - Yoga im Stehen (einige Haltungen)
-- Sitzmeditation (hier die längere vollständige Sitzmeditation mit allen fünf Objekten der
-- Aufmerksamkeit und längeren Stilleperioden)
+- Sitzmeditation (hier die längere vollständige Sitzmeditation mit allen fünf Objekten der Aufmerksamkeit und längeren Stilleperioden)
 - Abschlussmeditation
 
 ## Informelle Praxis
