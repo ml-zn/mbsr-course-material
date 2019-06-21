@@ -13,6 +13,7 @@ CHAPTERS = 00_orientierung.md \
 					 04_kurseinheit.md \
 					 ../teilnehmer/04_stress.md \
 					 05_kurseinheit.md \
+					 05_sitzmeditation.md \
 					 ../teilnehmer/05_stressaktion.md \
 					 ../teilnehmer/01_yoga_stehen.md \
 					 aa_inquiry.md \
