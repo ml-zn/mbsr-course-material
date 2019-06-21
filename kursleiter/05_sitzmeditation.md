@@ -8,13 +8,13 @@ Sitzmeditation.\
 \
 _- Pause -_ \
 \
-Zum Praktizieren der Sitzmeditation ist es hilfreich, eine aufrechten Körperhaltung einzunehmen.\
+Zum Praktizieren der Sitzmeditation ist es hilfreich, eine aufrechte Körperhaltung einzunehmen.\
 \
 _- Pause -_ \
 \
 Der Rücken ist aufgerichtet, die Schultern sinken nach hinten und unten, und der Scheitel strebt nach oben.\
 \
-Für die Dauer der Meditation liegen die Hände liegen entweder in Deinem Schoß oder ruhen entspannt auf Deinen Knien oder Oberschenkeln.\
+Für die Dauer der Meditation liegen die Hände entweder in Deinem Schoß oder ruhen entspannt auf Deinen Knien oder Oberschenkeln.\
 \
 Die Augen schließen, wenn das für Dich angenehmer ist. Ansonsten die Augen mit entspanntem Blick leicht geöffnet halten.\
 \
@@ -52,7 +52,7 @@ _- Pause (~ 30 Sekunden) -_ \
 \
 Möglicherweise wird die Aufmerksamkeit immer wieder wandern.\
 \
-Wenn dem so sein sollten, diese dann einfach immer wieder zurückholen.\
+Wenn dem so sein sollte, diese dann einfach immer wieder zurückholen.\
 \
 Dir selbst dabei so geduldig und freundlich wie möglich begegnen.\
 \
