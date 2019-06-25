@@ -5,8 +5,8 @@
 ## Übersicht
 
 In dieser zweieinhalbstündigen Sitzung setzen wir das erfahrungsbezogene
-MBSRTraining fort und betonen die wachsende Fähigkeit, sich in Stresssituationen
-selbst zu regulieren und effektiver mit Stress umzugehen. Im Gruppenaustausch geht
+MBSRTraining fort und betonen die wachsende Fähigkeit, sich in __*Stresssituationen
+selbst zu regulieren und effektiver mit Stress umzugehen*__. Im Gruppenaustausch geht
 es um die kontinuierliche Weiterentwicklung "transformierender
 Bewältigungsstrategien", d.h. Gewahrsein, innere Einstellungen und Verhaltensweisen,
 die die sogenannte
@@ -17,6 +17,7 @@ inneren Ressourcen der Teilnehmenden zu erweitern, um gesundheitsfördernde
 Einstellungen und Verhaltensweisen zu stärken und die Teilnehmenden zu ermutigen,
 die neu erlernten Kompetenzen zur Verbesserung des Gesundheitszustandes in
 konkreten Lebenssituationen praktisch anzuwenden.
+
 Übungen für zuhause: Tägliche Achtsamkeitspraxis mit Beobachtung und Anwendung
 dieser Fertigkeiten im Alltag. Die Teilnehmenden gehen in eine tiefe Erforschung, wie
 sich Stress im Bereich der Kommunikation äußert - besonders im schwierigen und
@@ -33,6 +34,7 @@ Folgende Aspekte werden erforscht: Schwierige Kommunikation; die eigenen Gefühl
 kennen; die eigenen Gefühle klar ausdrücken können; ein größeres Bewusstsein für
 zwischenmenschliche Kommunikationsmuster entwickeln sowie auftauchende
 Hindernisse.
+
 Achtsamkeit im zwischenmenschlichen Bereich: in Beziehungen bewusst und
 ausgeglichen bleiben, besonders unter Bedingungen von akutem oder chronischem
 Stress; die starken Erwartungen anderer; frühere Gewohnheiten, Emotionen
@@ -68,7 +70,7 @@ Teilnehmenden daran erinnern, achtsam zuzuhören und zu sprechen
 
 ### Sitzmeditation
 
-Sitzmeditation mit weniger Anleitung / mehr Schweigen: Atem, Körper, Geräusche,
+__*Sitzmeditation*__ mit weniger Anleitung / mehr Schweigen: Atem, Körper, Geräusche,
 Gedanken und Gefühle, offenes Gewahrsein, mit der Option zum Abschluss zur
 Aufmerksamkeit auf den Atem zurückzukehren.
 
@@ -78,42 +80,43 @@ Teilnehmenden verwenden, um die Erfahrungen und Lernentdeckungen mitzuteilen, di
 in dieser Gruppe gemacht wurden.
 Austausch über das Üben zuhause, besonders welche Erfahrungen mit der
 45-minütigen
-Sitzmeditation mit Anleitung gemacht wurden. Erforschen Sie: Was haben Sie zu dem
+Sitzmeditation mit Anleitung gemacht wurden.
+
+__*Erforschen Sie*__: Was haben Sie zu dem
 Thema bemerkt, im Leben und in der Meditationspraxis kreativer und bewusster zu
 reagieren? Gab es neue Möglichkeiten/Spielräume? Was hat Sie überrascht? Wo
 empfinden Sie die Integration der Achtsamkeit im Alltag als besonders herausfordernd
 oder schwierig?
-Sprechen Sie über den anstehenden "Tag der Achtsamkeit". Erklären Sie die Ziele
+
+Sprechen Sie über den anstehenden __*"Tag der Achtsamkeit"*__. Erklären Sie die Ziele
 dieses Tages und beschreiben Sie detailliert Ablauf und Inhalte des Tages. Sprechen
 Sie das Thema Selbstfürsorge und Ansprechbarkeit der Kursleiterin an. Sprechen Sie
 darüber, wie man mit den ausgedehnten Phasen des Übens im Schweigen umgehen
-
 kann. Geben Sie Empfehlungen, wie sich die Teilnehmenden auf den Tag vorbereiten
 können. Dazu kann gehören, lockere Kleidung (in mehreren Schichten) zu tragen,
 eventuell eine eigene Yogamatte oder Decke mitzubringen sowie für eine
 Mittagsmahlzeit zu sorgen usw.
 
-Optional: Geführte Reflexion - stellen Sie sich eine Situation aus dem Kalender
+### Schwierige Kommunikation
+
+__*Optional: Geführte Reflexion*__ - stellen Sie sich eine Situation aus dem Kalender
 'Schwierige Kommunikation' vor. Untersuchen Sie gewohnte Beziehungsmuster
 dahingehend, wie sie im Geist und im Körper erlebt werden und wie sie sich im
 Verhalten äußern.
 
-Optional: Austausch in Kleingruppen oder Dyaden
+__*Optional: Austausch in Kleingruppen oder Dyaden*__
 Aktivitäten und Gruppengespräch zum Thema Schwierige Kommunikation.
 Es gibt eine Reihe von Übungen, die verwendet werden können, um dieses Thema zu
 erforschen. Die am häufigsten im Kurs eingesetzten Kommunikationsübungen haben
 "Verkörperung" zum Thema - d.h. Einbeziehung des Körpers in seinen üblichen
-Haltungsmustern einschließlich
-Gestik,
-Stimmlage
-usw.
-in
-schwierigen
+Haltungsmustern einschließlich Gestik, Stimmlage usw. in schwierigen
 zwischenmenschlichen Situationen als Mittel, um sowohl bekannte als auch neue
 Herangehensweisen an Momente schwieriger Kommunikation zu erforschen. Dieser
 Prozess der Verkörperung kann das Gewahrsein fördern und somit sowohl
 gewohnheitsmäßige als auch neue Reaktionsweisen für die Selbstreflexion und die
-Inquiry zugänglicher macht. Der Dialog und die Inquiry während dieser Übungen
+Inquiry zugänglicher macht.
+
+Der Dialog und die Inquiry während dieser Übungen
 schulen ein erhöhtes Gewahrsein von Gewohnheitsmustern und Verhaltensweisen,
 nicht nur im Bereich zwischenmenschlicher Kommunikation, sondern auch
 intrapersonell. Es ist von wesentlicher Bedeutung innezuhalten und die gemachten
@@ -125,6 +128,7 @@ Verhaltensmustern herstellen, mit denen sie sich im Verlauf des MBSR-Kurses vert
 gemacht haben. Diese Übungen bieten den Teilnehmenden auch eine Möglichkeit, mit
 neuen Verhaltensweisen und neuen Wegen, sich zwischenmenschlich einzubringen, zu
 experimentieren.
+
 Die Absicht hinter den folgenden (oder auch anderen) Kommunikationsübungen ist die
 Kultivierung von Gewahrsein in intra- und interpersonellen Situationen. Die besondere
 Form dieser Übungen ist nicht so wichtig wie die Essenz dieser Absicht und das
@@ -134,7 +138,9 @@ Teaching Mindfulness: A Cross-cultural and International Handbook, 2017).
 Einige dieser Optionen für Kommunikationsübungen können folgendes beinhalten (sind
 aber nicht darauf beschränkt):
 
-Kommunikationsübung Sprechen und Zuhören: Die Teilnehmenden gehen in Dyaden
+#### Kommunikationsübung Sprechen und Zuhören
+
+__*Kommunikationsübung Sprechen und Zuhören*__: Die Teilnehmenden gehen in Dyaden
 zusammen und erhalten ein Thema, das auf Gruppengesprächen und dem
 entsprechenden Inhalt beruht. Die eine Person spricht, die andere hört zu, dann werden
 die Rollen getauscht. Hier wird die Kraft des aktiven Zuhörens betont; dann spricht die
@@ -145,7 +151,10 @@ bestimmt usw.); bitten Sie die Teilnehmenden als nächstes, Haltungen einzunehme
 die diese Kommunikationsformen ausdrücken - in Partnerarbeit, Kleingruppen oder im
 Plenum.
 
-Aikido-Übung: Zwei Menschen demonstrieren die Übung im Rollenspiel:
+#### Aikido-Übung
+
+__*Aikido-Übung*__: Zwei Menschen demonstrieren die Übung im Rollenspiel:
+
 - Der erste Kontakt, wenn man einen zwischenmenschlichen Konflikt erlebt (den
 Schlag einstecken)
 - Den Konflikt vermeiden/zur Seite gehen/passiv-aggressiv
@@ -155,6 +164,7 @@ Schlag einstecken)
 - Bestimmt, "blenden und eintreten", der Aggression begegnen, im Blickkontakt
 bleiben und mit Kontakt am Handgelenk, und gleichzeitig den Weg potenziell
 gefährlicher emotionaler Aggression verlassen
+
 Demonstrieren Sie die Übung mit einem Kollegen oder einem Freiwilligen (wählen Sie
 sorgfältig einen Freiwilligen aus; es kann hilfreich sein, mit ihm vor Kursbeginn zu
 üben).

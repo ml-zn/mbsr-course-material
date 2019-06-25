@@ -1,6 +1,6 @@
 \newpage
 
-# Meditation im Gehen
+## Meditation im Gehen
 
 > Frieden ist jeder Schritt
 >
@@ -12,7 +12,7 @@ Du kannst Dich auf das Aufsetzen des Fußes als Ganzes konzentrieren oder auf ei
 
 Konzentriere Dich auf das Aufsetzen der Füße. Kannst Du deren Heben, Senken, Berühren der Erde und Abrollen erleben?
 
-## Formale Praxis
+### Formale Praxis
 
 - eine Strecke ohne Hindernisse wählen, ca. 5 bis 20 Schritte lang
 - ausbalancierte Körperhaltung, aufrecht, entspannt, mit "Leichtigkeit und Würde" gehen

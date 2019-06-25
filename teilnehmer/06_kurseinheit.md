@@ -6,11 +6,15 @@
 
 Wir haben den Abend mit einer kurzen Meditation begonnen.
 
-Anschließend haben wir einige Yogaübungen im Stehen praktiziert und sind von dort in eine 45-minütige Sitzmeditation gewechselt.
+Anschließend haben wir einige Yogaübungen im Stehen praktiziert.
 
-Nach einer Reflexion zur Kurshälfte haben wir uns über das Üben zuhause und den Umgang mit stressigen Situationen ausgetauscht.
+Ein neues Element der formalen Achtsamkeitspraxis, die Gehmeditation, haben wir kennengelernt und praktiziert.
 
-Ebenso haben wir erforscht, was sich durch Achtsamkeit in einer solchen Situation ändert, wie wir von einer automatischen Stressreaktion zu einer bewußten und zweckmäßigen Stressaktion gelangen.
+Der Praxisteil endete mit einer Sitzmeditation.
+
+Im Anschluß haben wir uns über unsere Praxis zuhause und den Umgang mit schwieriger Kommunikation ausgetauscht und dazu eine Übung in Zweiergruppen gemacht, in der es um aktives Zuhören ging.
+
+Abschließend haben wir den bevorstehenden Tag der Achtsamkeit besprochen.
 
 Den Kursabend haben wir mit einer Sitzmeditation beendet.
 
