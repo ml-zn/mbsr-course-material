@@ -16,6 +16,8 @@ CHAPTERS = 00_orientierung.md \
 					 05_sitzmeditation.md \
 					 ../teilnehmer/05_stressaktion.md \
 					 ../teilnehmer/01_yoga_stehen.md \
+					 06_kurseinheit.md \
+					 ../teilnehmer/06_meditation_gehen.md \
 					 aa_inquiry.md \
 					 bb_sitzmeditation_5stufen.md \
 					 zz_kursreflexion.md
