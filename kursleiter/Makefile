@@ -20,6 +20,9 @@ CHAPTERS = 00_orientierung.md \
 					 ../teilnehmer/06_meditation_gehen.md \
 					 ../teilnehmer/06_achtsame_kommunikation.md \
 					 tag_der_achtsamkeit.md \
+					 07_kurseinheit.md \
+					 07_bergmeditation.md \
+					 ../teilnehmer/07_metta_meditation.md \
 					 aa_inquiry.md \
 					 bb_sitzmeditation_5stufen.md \
 					 zz_kursreflexion.md
