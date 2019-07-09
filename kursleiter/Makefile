@@ -23,6 +23,8 @@ CHAPTERS = 00_orientierung.md \
 					 07_kurseinheit.md \
 					 07_bergmeditation.md \
 					 ../teilnehmer/07_metta_meditation.md \
+					 08_kurseinheit.md \
+					 ../teilnehmer/08_taegliche_achtsamkeit.md \
 					 aa_inquiry.md \
 					 bb_sitzmeditation_5stufen.md \
 					 zz_kursreflexion.md
