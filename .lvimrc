@@ -1,0 +1,84 @@
+" Specify a directory for plugins
+" - For Neovim: stdpath('data') . '/plugged'
+" - Avoid using standard Vim directory names like 'plugin'
+call plug#begin('.vim/plugged')
+
+" Make sure you use single quotes
+
+" Shorthand notation; fetches https://github.com/junegunn/vim-easy-align
+Plug 'junegunn/vim-easy-align'
+
+" Any valid git URL is allowed
+" Plug 'https://github.com/junegunn/vim-github-dashboard.git'
+
+" Multiple Plug commands can be written in a single line using | separators
+Plug 'SirVer/ultisnips' 
+
+" On-demand loading
+Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
+" Plug 'tpope/vim-fireplace', { 'for': 'clojure' }
+
+" Using a non-master branch
+" Plug 'rdnetto/YCM-Generator', { 'branch': 'stable' }
+
+" Using a tagged release; wildcard allowed (requires git 1.9.2 or above)
+" Plug 'fatih/vim-go'
+
+" Plugin options
+" Plug 'nsf/gocode'
+
+" Plugin outside ~/.vim/plugged with post-update hook
+Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+
+" Use release branch (recommend)
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+Plug 'sonph/onehalf', {'rtp': 'vim/'}
+Plug 'lifepillar/vim-solarized8'
+
+Plug 'tpope/vim-fugitive'
+
+Plug 'zefei/vim-wintabs'
+Plug 'zefei/vim-wintabs-powerline'
+
+" Java Development
+Plug 'Shougo/deoplete.nvim'
+Plug 'artur-shaik/vim-javacomplete2' " , { 'for': 'java'}
+
+Plug 'dense-analysis/ale'
+
+" add this line to your .vimrc file
+" Plug 'mattn/emmet-vim'
+
+" Initialize plugin system
+call plug#end()
+
+" Search .vimrc in local dir as well
+set exrc
+
+" Tabstopps 
+set tabstop=2
+set softtabstop=0 noexpandtab
+set shiftwidth=2
+
+" Line numbers
+set nu!
+" Relative line numbers
+set relativenumber
+
+" NERDTree on F3 / F4
+silent! nmap <C-p> :NERDTreeToggle<CR>
+silent! map <F3> :NERDTreeToggle<CR>
+
+let g:NERDTreeMapActivateNode="<F3>"
+let g:NERDTreeMapPreview="<F4>"
+
+syntax on
+set t_Co=256
+set cursorline
+set background=dark
+colorscheme solarized8
+" colorscheme onehalfdark
+" let g:airline_theme='onehalfdark'
+" lightline
+" let g:lightline.colorscheme='onehalfdark'
