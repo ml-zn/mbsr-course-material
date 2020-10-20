@@ -36,6 +36,6 @@ $(BUILD)/pdf/$(BOOKNAME).pdf: $(METADATA_PDF) $(CHAPTERS)
 	pandoc -s --template=../_latex/template-mbsr-latex.tex $(TOC) --filter pandoc-citeproc --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $(BUILD)/pdf/$(BOOKNAME)-7.pdf metadata-pdf-7.yaml 07_kurseinheit.md 07_metta_meditation.md
 	pandoc -s --template=../_latex/template-mbsr-latex.tex $(TOC) --filter pandoc-citeproc --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $(BUILD)/pdf/$(BOOKNAME)-8.pdf metadata-pdf-8.yaml 08_kurseinheit.md 08_taegliche_achtsamkeit.md
 	pandoc -s --template=../_latex/template-mbsr-latex.tex $(TOC) --filter pandoc-citeproc --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $(BUILD)/pdf/$(BOOKNAME).pdf $^
-	pdfunite $(BUILD)/pdf/$(BOOKNAME).pdf ../material/Übungstagebuch.pdf ../material/TagebuchAngenehmerErlebnisse.pdf $(BUILD)/pdf/$(BOOKNAME)-complete.pdf
+	pdfunite $(BUILD)/pdf/$(BOOKNAME).pdf ../material/Übungstagebuch.pdf ../material/TagebuchAngenehmerErlebnisse.pdf ../material/TagebuchUnangenehmerErlebnisse.pdf ../material/TagebuchSchwierigeKommunikation.pdf $(BUILD)/pdf/$(BOOKNAME)-complete.pdf
 
 .PHONY: all book clean epub pdf
