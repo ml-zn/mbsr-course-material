@@ -78,7 +78,8 @@ gerne seine Frau Marita begleiten und ist ganz offen, was ihn in dem Kurs erwart
 
 
 **Dominik N., männlich, Ingenieur, 36 Jahre**: Bei Dominik lassen Beruf, Arbeiten am Haus und die Familie mit zwei
-kleinen Kindern häufig keine Zeit, mal durchzuatmen und zur Ruhe zu kommen. Er möchte mit dem MBSR-Kurs die Möglichkeit schaffen, achtsamer auf sich und andere seinen Alltag zu erleben und einen besseren Umgang mit Stress zu erlangen.
+kleinen Kindern häufig keine Zeit, mal durchzuatmen und zur Ruhe zu kommen. Er möchte mit dem MBSR-Kurs die Möglichkeit
+schaffen, achtsamer auf sich und andere seinen Alltag zu erleben und einen besseren Umgang mit Stress zu erlangen.
 
 
 **Silke J., weiblich, Personalreferentin und Coach, 49 Jahre**: Silke hat schon verschiedene Methoden kennengelernt,
@@ -92,7 +93,8 @@ einer Ermattung. Eigene Signale zu ignorieren und darüber hinweg zu gehen brach
 passieren muss. Über Freunde wurde er auf den Kurs aufmerksam und hat sich dann angemeldet.
 
 
-**Claudia T., weiblich, Physiotherapeutin, 52 Jahre**: Claudia hat im Rahmen ihrer Ausbildungen schon einige Entspannungsverfahren kennengelernt und war neugierig auf MBSR und worin sich MBSR von dem, was sie bisher
+**Claudia T., weiblich, Physiotherapeutin, 52 Jahre**: Claudia hat im Rahmen ihrer Ausbildungen schon einige
+Entspannungsverfahren kennengelernt und war neugierig auf MBSR und worin sich MBSR von dem, was sie bisher
 kennengelernt hat, unterscheidet.
 
 
@@ -107,6 +109,41 @@ Praktizieren zu kommen und auch Menschen zu haben, mit denen er das gemeinsam tu
 
 ## Reflexion zum ersten Kursabend
 
+Zehn Augenpaare schauen mich jetzt an. Ich bin kurz vor Beginn des Kurses wirklich nervös. Nicht, dass ich mich nicht
+gut genug vorbereitet hätte. Ich bin auch wirklich im Großen und Ganzen sehr glücklich mit allen Rahmenbedingungen,
+der Raum ist toll, die Unterlagen und die Aufnahmen sind gut geworden und ich habe, besser gesagt ich **hatte**, das
+Curriculum und die zentralen Aspekte des MBSR Kurses für mich gut verinnerlicht, auch emotional.
+
+Das Wesen der Achtsamkeit konnte ich zum Ende meiner Vorbereitung nicht nur gut verstehen, sondern viel mehr auch fühlen. Und
+aus diesem Gefühl war alles so plausibel, so klar. Blöd nur, dass genau jetzt dieses Gefühl nicht mehr da ist. Ich könnte es gerade
+gut gebrauchen.
+
+Jetzt scheint alles weg zu sein und es drängen sich Fragen auf, über die ich mir vorher keine Gedanken gemacht habe, vermutlich
+weil ich sehr intensiv schon mit den wichtigsten Dingen beschäftigt war und die ganze Vorbereitung neben Beruf und Familie schon sehr
+gedrängt war.
+
+Was ist ein gelungenes Mass zwischen Inhalt und Erfahrung?
+
+Wie gut kommt die Gruppe mit einander klar?
+
+Hoffentlich verhaspel ich mich nicht?
+
+Wie war das nochmal mit dem Inquiry?
+
+Langsam, aber sicher zieht ein nervöses Kribbeln durch meine Beine und ich versuche, einen Gedanken zu finden, der mir weiterhelfen
+könnte. Mir kommen Beatrice's Worte in den Sinn, "Vertrauen in das Curriculum" zu haben. Danke, liebe Beatrice, gerade zur rechten Zeit.
+
+Ich schließe die Augen, atme ein paarmal tief durch und fange an zu reden, nicht vom Blatt, nicht aus dem Kopf, sondern aus dem Bauch,
+voller Vertrauen in das Curriculum.
+
+
+
+- Spannung vor dem ersten mal
+- gedrängte Vorbereitung
+- gelungenes Mass zwischen Inhalten und Erfahrungen
+- wie gut kommt die Gruppe miteinander klar
+- wie gelingt mir die Inquiry Phase
+
 Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
 Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
 
@@ -115,6 +152,11 @@ Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situ
 \newpage
 
 ## Reflexion zum zweiten Kursabend
+
+- erste Erkenntnisse (Vero, Silke)
+- Schwierigkeiten beim Üben zuhause (Mandana Zeit, Vero Ort)
+- der Wecker wurde zu laut
+
 
 Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
 Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
@@ -125,6 +167,10 @@ Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situ
 
 ## Reflexion zum dritten Kursabend
 
+- Marita hat sich ihr Bein gebrochen
+- unterschiedliche Erfolge beim Üben zuhause
+- gestatte ich mir, die Zeit zum Üben einzuräumen
+
 Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
 Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
 
@@ -133,6 +179,13 @@ Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situ
 \newpage
 
 ## Reflexion zum vierten Kursabend
+
+- Marita kommt mit gebrochenem Bein
+- Dauer der Sitzmeditation herausfordernd
+- lieber kürzer und häufiger statt länger und gar nicht
+- Auf der Suche nach der richtigen Zeit zum Praktizieren (Mandana auf dem Beifahrersitz)
+- Gereon fragt sich, ob er sich Stress machen soll, weil er zuhause keine Lust hat zu praktizieren
+- Stress wegen der Aufnahme
 
 Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
 Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
@@ -143,6 +196,10 @@ Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situ
 
 ## Reflexion zum fünften Kursabend
 
+- Stress wegen der fehlgeschlagenen Aufnahme
+- Gereon geht Fahrrad fahren, steht Achtsamkeit eher skeptisch gegenüber
+
+
 Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
 Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
 
@@ -151,6 +208,10 @@ Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situ
 \newpage
 
 ## Reflexion zum sechsten Kursabend
+
+- Austausch vieler Kommunikationsmuster in Arbeit und Privatleben
+- Erkennen gemeinsamer, schwieriger Muster in der Kommunikation
+- Gereon erkennt, dass er und Marita manchmal aneinander vorbei reden
 
 Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
 Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
@@ -161,6 +222,11 @@ Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situ
 
 ## Reflexion zum siebten Kursabend
 
+- Gereon kann einen liebevollen und fürsorglichen Umgang mit Marita und anderen kultivieren, hat aber Schwierigkeiten, dass auf sich selbst anzuwenden
+- Vero hat die Art und Weise, im Beruf zu kommunizieren geändert, und erlebte Veränderungen
+- Selbstsicherheit für mich als Kursleiter, auch Entspannung
+- ein wenig Trauer, dass der Kurs bald vorbei ist
+
 Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
 Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
 
@@ -170,6 +236,9 @@ Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situ
 
 ## Reflexion zum achten Kursabend
 
+- Sorge einiger Teilnehmer, Achtsamkeit im Alltag etablieren zu können
+- insbesondere, wenn der sanfte Druck des Kurses wegfällt
+
 Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
 Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
 
@@ -178,6 +247,9 @@ Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situ
 \newpage
 
 ## Reflexion des „Tags der Achtsamkeit“
+
+- wie geht der Tag bloß rum, 8 Stunden sind schon sehr lange
+- ein traumhafter Tag bei traumhaftem Wetter
 
 Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
 Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
