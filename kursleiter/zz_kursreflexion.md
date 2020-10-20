@@ -119,10 +119,10 @@ aus diesem Gefühl war alles so plausibel, so klar. Blöd nur, dass genau jetzt 
 gut gebrauchen.
 
 Jetzt scheint alles weg zu sein und es drängen sich Fragen auf, über die ich mir vorher keine Gedanken gemacht habe, vermutlich
-weil ich sehr intensiv schon mit den wichtigsten Dingen beschäftigt war und die ganze Vorbereitung neben Beruf und Familie schon sehr
+weil ich sehr intensiv schon mit den wichtigsten Dingen beschäftigt war und die ganze Vorbereitung neben Beruf und Familie auch sehr
 gedrängt war.
 
-Was ist ein gelungenes Mass zwischen Inhalt und Erfahrung?
+Was ist ein gelungenes Maß zwischen Inhalt und Erfahrung?
 
 Wie gut kommt die Gruppe mit einander klar?
 
@@ -131,27 +131,90 @@ Hoffentlich verhaspel ich mich nicht?
 Wie war das nochmal mit dem Inquiry?
 
 Langsam, aber sicher zieht ein nervöses Kribbeln durch meine Beine und ich versuche, einen Gedanken zu finden, der mir weiterhelfen
-könnte. Mir kommen Beatrice's Worte in den Sinn, "Vertrauen in das Curriculum" zu haben. Danke, liebe Beatrice, gerade zur rechten Zeit.
+könnte. Mir kommen Béatrice's Worte in den Sinn, "Vertrauen in das Curriculum" zu haben. Danke, liebe Béatrice, gerade zur rechten Zeit.
 
 Ich schließe die Augen, atme ein paarmal tief durch und fange an zu reden, nicht vom Blatt, nicht aus dem Kopf, sondern aus dem Bauch,
 voller Vertrauen in das Curriculum.
 
+Nach den ersten Sätzen fängt auch mein Kopf wieder an, mitzuarbeiten. Nach der Vorstellungsrunde geht es mit der Praxis los und nun
+fühlt es sich für mich wie ein MBSR-Kurs an.
 
+Etwas, was mir jetzt und in den kommenden Wochen immer wieder begegnet, ist das Wechselspiel meiner Rolle als Kursleiter und als Teilnehmer.
 
-- Spannung vor dem ersten mal
-- gedrängte Vorbereitung
-- gelungenes Mass zwischen Inhalten und Erfahrungen
-- wie gut kommt die Gruppe miteinander klar
-- wie gelingt mir die Inquiry Phase
+Wann bin ich wer ?
 
-Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
-Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
+Bin ich beides? Kann ich hin und her wechseln?
 
-Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situationen umgegangen?
+Ich stelle fest, dass ich zwar die Übungen anleite, immer wieder einen Blick auf die Teilnehmer werfe und versuche, meine
+Beobachtungen mit in meine Anleitungen einfließen zu lassen, dieses mich aber kaum daran hindert, auch Teilnehmer zu sein.
+Viel mehr noch, meine Empfindungen werden selbst Teil meiner Anleitungen.
+
+Da hatte ich mir so viel Gedanken gemacht, wie gut das funktionieren wird, und nun ist es ganz einfach.
+
+Die Gruppe ist wunderbar heterogen, Frauen, Männer, unterschiedliches Alter, unterschiedliche Lebensphasen und -modelle, verschiedenste
+Motivationen, diesen Kurs zu besuchen. Ich glaube, dass die Kursteilnehmer gut angekommen sind. Es gibt recht lebhafte Gespräche nach dem
+Praxisteil, ohne dass ich die Teilnehmer dazu durch ein Inquiry führen musste. Dennoch wollte ich mich gerne an den Fragestellungen orientieren.
+
+Durch den Mix aus geführtem und durch die Teilnehmer gestaltetem Inquiry fühlt sich dieses für mich noch relativ unstrukturiert an und
+ich nehme mir vor, zur nächsten Woche das Wissen dazu nochmal aufzufrischen.
+
+Beim Besprechen der Hausaufgaben nimmt ein zentrales Thema relativ großen Raum ein: "Wann kann ich wie die 45 Minuten Praxis jeden Tag
+in meinen Alltag integrieren?". Ich mache den Teilnehmern klar, dass es natürlich auch um Veränderungen geht. Und diese
+Veränderungen für jeden zum Guten sein werden.
+
+An Ende der ersten Stunde stellt sich ein Gefühl ein, dass meine Reise als MBSR-Lehrer losgegangen ist. Mehr wie ein vorsichtiges
+Vorantasten als wie ein souveräner Durchmarsch, aber der erste Abend ist gut gewesen und dafür bin ich dankbar.
+
 
 \newpage
 
 ## Reflexion zum zweiten Kursabend
+
+Wahnsinn, wie schnell eine Woche vergeht. Meine Nervosität ist weniger geworden, dennoch deutlich für mich spürbar. Mein Einstieg
+in den Kursabend fühlt sich heute schon deutlich besser an. Ohne größere gedankliche Ausflüge starte ich den Abend mit einer
+längeren Übungssequenz aus Yoga im Stehen und dem Body Scan.
+
+Ich ertappe mich bei der Frage, was denn wohl passieren würde, wenn ich als Kursleiter beim Body Scan irgendwo in der Hüftgegend
+einfach einschlafen würde. Ob dann wohl alle Teilnehmer einfach liegen bleiben und geduldig auf weitere Anleitung warten?
+Mich amüsiert der Gedanke und hält mich gleichzeitig auch wach. Ich möchte auf gar keinen Fall bei meinen Anleitungen einschlafen.
+
+Nach dem Body Scan gingen wir als Gruppe in den Austausch. Direkt bei mehreren Teilnehmern war die geschärfte Wahrnehmung zu merken,
+Ihnen fiel auf, dass es ein Uhrengeräusch irgendwo in dem Raum gab und dieses beim Body Scan störte. Für die kommenden Wochen gehört
+das Entfernen der Uhr aus dem Raum nun zu unseren Raumvorbereitungen.
+
+Das Kennenlernen der Achtsamkeit aus dem ersten Kursabend hat bei einigen Teilnehmern, so geht es zumindest aus deren Schilderungen
+während des Austauschs hervor, zu einer leicht veränderten Wahrnehmung geführt. Es gäbe mehr Momente, in denen sie präsent sind
+und merken, wie es Ihnen in dieser Situation geht. Ich gehe mit Ihnen genauer in diese Momente und frage nach Empfindungen, Gefühlen,
+Gedanken, körperlichen Reaktionen. Es fällt Ihnen schwer, über die reine Beobachtung der Situation hinaus etwas zu bemerken, allein die
+Präsenz in diesen Momenten war bereits eine merkliche Veränderung.
+
+Ein weiteres Thema für den Austausch war das Üben zuhause.
+
+Während Marita motiviert und mit ausreichend Zeitbudget ausgestattet die
+Integration der Achtsamkeitspraxis in Ihren Alltag als angenehm und bereichernd empfand, hatte ihr Mann Gereon Schwierigkeiten.
+Zu einem Teil waren andere Dinge wichtiger oder beruflich erforderlich, allerdings hatte er auch Schwierigkeiten, sich an einigen
+Tagen zu der Praxis zu motivieren.
+
+Mandana und Markus haben einen sehr durchstrukturierten Tag und die erste Woche diente dazu, die geeignete Zeit für die Praxis zu finden.
+
+Silke, Dominik und Jürgen konnten die Praxis gut in ihren Alltag integrieren, die einen haben morgens praktiziert, die anderen kurz
+vor dem Schlafen gehen.
+
+Eine besondere Herausforderung hatte Vero, die zur Zeit zwischen zwei Umzügen steht und übergangsweise bei ihren Eltern in ihr altes
+Kinderzimmer gezogen ist, klein und mit Möbeln vollgestellt.
+
+Claudia ist mehr ein Bewegungsmensch und hatte Schwierigkeiten, sich Zeit für diese ruhigen Übungen zu nehmen.
+
+Mir kommen viele dieser Themen bekannt vor, ich vermeide aber in ein "ja, kenn ich" zu verfallen. Stattdessen hatte ich ja in
+Vorbereitung auf den Abend mir nochmal angeschaut, was ein gutes Inquiry ausmacht und versucht, mich daran zu orientieren.
+
+Ich konnte mir nicht alle Fragestellungen aus dem Papier merken, ich empfand den abschließenden Satz als Leitgedanken sehr hilfreich
+und habe versucht, mein Inquiry vor dieser Haltung durchzuführen.
+
+> Und schlussendlich die eine zentrale Frage, die uns leitet im Unterrichten: Wie kann ich als LehrerIn mit allem,
+> was sich von Augenblick zu Augenblick offenbart, in Berührung sein, ohne etwas wegzumachen oder festzuhalten oder zu ignorieren.
+
+
 
 - erste Erkenntnisse (Vero, Silke)
 - Schwierigkeiten beim Üben zuhause (Mandana Zeit, Vero Ort)
