@@ -45,8 +45,7 @@ ausweichen wollten. Offensichtlich habe ich die Wichtigkeit der regelmäßigen T
 Die Unterlagen und die Aufnahmen sind fertiggestellt, meine Webseite, [Achtsamkeit & Meditation in den Baumbergen](https://mindful.ml-zn.de/), steht, und
 der große Raum in der balance-zeit ist fast voll. Unglaublich.
 
-Es fühlt sich komplett surreal an, mein Kopf scheint wie leergefegt zu sein und zehn Augenpaare schauen mich erwartungsvoll an. Perfekt, der Kurs kann
-beginnen...
+Es fühlt sich komplett surreal an, mein Kopf scheint wie leergefegt zu sein und zehn Augenpaare schauen mich erwartungsvoll an. Perfekt, der Kurs kann beginnen...
 
 \newpage
 
