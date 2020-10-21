@@ -149,7 +149,7 @@ Nach den ersten Sätzen fängt auch mein Kopf wieder an, mitzuarbeiten. Nach der
 geht es mit der Praxis los und nun fühlt es sich für mich wie ein MBSR-Kurs an.
 
 Etwas, was mir jetzt und in den kommenden Wochen immer wieder begegnet, ist das Wechselspiel meiner
-Rolle als Kurslei ter und als Teilnehmer.
+Rolle als Kursleiter und als Teilnehmer.
 
 Wann bin ich wer ?
 
@@ -239,8 +239,9 @@ Ich konnte mir nicht alle Fragestellungen aus dem Papier merken, ich empfand den
 Satz als Leitgedanken sehr hilfreich und habe versucht, mein Inquiry vor dieser Haltung
 durchzuführen.
 
-> Und schlussendlich die eine zentrale Frage, die uns leitet im Unterrichten: Wie kann ich als LehrerIn mit allem,
-> was sich von Augenblick zu Augenblick offenbart, in Berührung sein, ohne etwas wegzumachen oder festzuhalten oder zu ignorieren.
+> Und schlussendlich die eine zentrale Frage, die uns leitet im Unterrichten: Wie kann ich als
+> LehrerIn mit allem, was sich von Augenblick zu Augenblick offenbart, in Berührung sein, ohne
+> etwas wegzumachen oder festzuhalten oder zu ignorieren.
 
 \newpage
 
@@ -281,15 +282,6 @@ In dem Zusammenhang hatte Markus eine Erkenntnis gewonnen. Er erlaubt sich nicht
 zum Praktizieren zu nehmen. Er nimmt alle anderen Dinge wichtiger, stellt sich selbst hinten an.
 Ich gehe mit ihm forschend und neugierig in diese Situation und lasse ihn beschreiben, was
 körperlich und geistig in diesem Moment da war, genau hinzuschauen, ohne die Situation zu bewerten.
-
-- Marita hat sich ihr Bein gebrochen
-- unterschiedliche Erfolge beim Üben zuhause
-- gestatte ich mir, die Zeit zum Üben einzuräumen
-
-Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
-Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
-
-Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situationen umgegangen?
 
 \newpage
 
