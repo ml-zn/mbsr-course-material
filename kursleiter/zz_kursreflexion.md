@@ -47,7 +47,7 @@ mich damit, dass es später auch nicht einfacher gewesen wäre.
 ### Mai 2019, balance-zeit in Billerbeck
 
 Wenn man den Infoabend als Generalprobe versteht, ist diese für mich mehr als geglückt. 13
-Interessenten waren an dem Abend im April dort, von denen sich zehn zur Teilnahme an dem Kurs
+InteressentInnen waren an dem Abend im April dort, von denen sich zehn zur Teilnahme an dem Kurs
 entschieden haben und zwei aus terminlichen Gründen lieber auf den Kurs im Herbst ausweichen
 wollten. Offensichtlich habe ich die Wichtigkeit der regelmäßigen Teilnahme und des zuhause
 Praktizierens recht deutlich gemacht.
@@ -132,7 +132,7 @@ beschäftigt war und die ganze Vorbereitung neben Beruf und Familie auch sehr ge
 
 Was ist ein gelungenes Maß zwischen Inhalt und Erfahrung?
 
-Wie gut kommt die Gruppe mit einander klar?
+Wie gut kommt die Gruppe miteinander klar?
 
 Hoffentlich verhaspel ich mich nicht?
 
@@ -558,7 +558,7 @@ war sehr angenehm. Wer wollte, konnte sich allein in den Garten zurückziehen, u
 Davon haben auch einige Gebrauch gemacht.
 
 Am Ende des Tages war ich gespannt, wie es für die Teilnehmer wird, wieder ins Reden zu kommen.
-Ich vermutete, dass alle schon ganz ungeduldig waren, wieder ins Reden zu kommen. Tatsächlich
+Ich vermutete, dass alle schon ganz ungeduldig waren, wieder in den Austausch zu gehen. Tatsächlich
 war eher das Gegenteil der Fall. Ein Tag in dieser Ruhe, ohne reden zu müssen, haben viele als ein
 Geschenk empfunden und waren gar nicht so interessiert daran, besonders schnell wieder in den
 Austausch zu kommen. Das haben sie sich dann für den Beginn des nächsten Kursabends aufgespart.
@@ -575,6 +575,40 @@ Tag zu erleben. Das ist für mich immer wieder ein Erlebnis.
 \newpage
 
 ## Abschließende Reflexion über den gesamten Kurs und dein Selbstverständnis als MBSR-LehrerIn
+
+Acht Wochen habe ich mit zehn Menschen Achtsamkeit, Yoga und Meditation praktiziert. Nicht als
+Teilnehmer, sondern als Kursleiter. Zu Beginn fühlte sich diese Vorstellung unwirklich an, mit
+jeder Woche realer und ab der sechsten Woche hatte ich das Gefühl, angekommen zu sein.
+
+Angekommen, weil ich mir nicht wie ein "_Betrüger_" vorkam, der völlig zu Unrecht dort sitzt.
+
+Angekommen, weil ich Vertrauen in das Curriculum habe.
+
+Angekommen, weil ich Teilnehmer und Kursleiter gleichzeitig sein kann.
+
+Angekommen, weil ich merkte, wie die Gruppe, jeder auf seine individuelle Weise, anfing, anhand
+meiner Begleitung Achtsamkeit in ihrem Alltag zu kultivieren und davon zu profitieren.
+
+Angekommen, weil es sich gut und zu mir passend angefühlt hat.
+
+Für mich war der Kurs eine ganz besondere Erfahrung, in dem ich wunderbare Momente und auch
+herausfordernde Momente erlebt habe. Achtsamkeit für sich selbst zu leben oder es an andere
+weiterzugeben hat unterschiedliche Qualitäten und ich glaube, durch meine Weiterbildung, durch
+die Ausarbeitung des Kurses und durch die Leitung des Kurses habe ich ein noch tieferes Verständnis
+von Achtsamkeit bekommen, ich begreife viel mehr Zusammenhänge und nicht selten spüre ich sie
+auch.
+
+Zu meinem Verständnis als MBSR-Lehrer gehört, dass ich zwar auf der einen Seite das Wissen und die
+Kompetenzen weitergebe, um selbst Achtsamkeit zu praktizieren. Auf der anderen Seite, und die ist
+mindestens genauso wichtig, ist es für mich so wichtig, Achtsamkeit erfahrbar zu machen.
+
+Man kann viel über eine Praline sprechen oder sie beschreiben, man muss sie mal gegessen haben, um
+zu verstehen, was daran so toll ist.
+
+Dazu gehört, die Gruppe zu leiten und zu begleiten, den Austausch durch Inquiry zu fördern,
+neugierig und mit Anfängergeist auf die gemachten Erfahrungen zu blicken, alles da sein zu lassen.
+Die Teilnehmer sollen die Chance haben, Momente zu sammeln, in denen sie in offenem Gewahrsein auf
+die Welt schauen und im Einklang mit sich selbst handeln und leben können.
 
 \newpage
 
