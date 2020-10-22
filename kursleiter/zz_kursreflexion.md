@@ -536,13 +536,41 @@ besonnen den Raum wieder in Ordnung bringen. Für den nächsten Kurs.
 
 ## Reflexion des „Tags der Achtsamkeit“
 
-- wie geht der Tag bloß rum, 8 Stunden sind schon sehr lange
-- ein traumhafter Tag bei traumhaftem Wetter
+Der Wetterbericht kündigte es bereits an. Es wird ein Traumtag, schon fast etwas zu warm. Ich habe
+wirklich gehofft, dass es trocken bleibt, da wir dann so schön den Garten mitnutzen können.
 
-Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
-Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
+Am morgen mache ich mir noch ein paar Gedanken zum Ablauf des Tages, jetzt gilt es doch einen
+ganzen Tag gemeinsam zu verbringen. Jeder bringt etwas zu Essen mit, sodass wir ohne
+Unterbrechungen den Tag in den Räumen und dem Garten verbringen können.
 
-Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situationen umgegangen?
+Wie wird es sein, den ganzen Tag anzuleiten? Wird das für die Teilnehmer nicht irgendwann
+schrecklich langweilig, von mir immer das Gleiche zu hören? Ich habe mir einen ungefähren
+Ablaufplan zurecht gelegt und vertraue darin, dass das so funktionieren wird.
+
+Als wir die Räume der balance-zeit betreten ist alles durch die großen Fenster lichtdurchflutet
+und freundlich. Welch eine Begrüßung, der Tag kann gar nicht schlecht werden.
+
+Und so war es dann auch, ein traumhafter Tag. Der Wechsel zwischen Yoga, Sitz- und Gehmeditation
+lief ganz natürlich und fließend, die wiederkehrenden Übungen waren nicht langweilig, sondern
+gaben dem Tag einen ruhigen, angenehmen Rhythmus. Auch das gemeinsame Essen in "noble silence"
+war sehr angenehm. Wer wollte, konnte sich allein in den Garten zurückziehen, um dort zu essen.
+
+Davon haben auch einige Gebrauch gemacht.
+
+Am Ende des Tages war ich gespannt, wie es für die Teilnehmer wird, wieder ins Reden zu kommen.
+Ich vermutete, dass alle schon ganz ungeduldig waren, wieder ins Reden zu kommen. Tatsächlich
+war eher das Gegenteil der Fall. Ein Tag in dieser Ruhe, ohne reden zu müssen, haben viele als ein
+Geschenk empfunden und waren gar nicht so interessiert daran, besonders schnell wieder in den
+Austausch zu kommen. Das haben sie sich dann für den Beginn des nächsten Kursabends aufgespart.
+
+Für einige war die Intensität ihrer Erfahrungen neu und überraschend, für andere die besonderen
+körperlichen Herausforderungen durch die Dauer der Übungen und der Länge des Tages.
+In dem Inquiry haben wir erforscht, welche Qualitäten unsere Wahrnehmungen hatten und wie sie
+sich von denen aus den Kursabenden unterschieden.
+
+Für mich ist der Tag der Achtsamkeit wirklich etwas besonderes. So eine Art Mini-Retreat. Einen
+ganzen Tag, nicht nur ein paar Stunden, den Alltag verlassen, und in Präsenz und Achtsamkeit den
+Tag zu erleben. Das ist für mich immer wieder ein Erlebnis.
 
 \newpage
 
