@@ -712,4 +712,45 @@ Rahmen, sich auszutauschen._
 
 ## Persönliches Schlusswort
 
-Zusammenfassung der Erfahrungen des/der KursleiterIn. Was ist mir wichtig? Worauf möchte ich beim nächsten Kurs besonders achten? Wo sehe ich für mich weitere Entwicklungsmöglichkeiten?
+Es ist vollbracht. Mein erster MBSR-Kurs liegt nun hinter mir. Mit etwas Distanz betrachtet stelle
+ich für mich fest, dass ich mit meiner Gruppe sehr viel Glück gehabt habe und ich daher fast nur
+positive Erfahrungen sammeln durfte. Ich bereite mich gedanklich auch darauf vor, Menschen in dem
+Kurs zu haben, deren Leidensdruck höher ist und ich auch dann in der Lage sein muss, die Gruppe
+gut zu begleiten. Allein die Vorstellung machte mir klar, wie verantwortungsvoll meine Rolle als
+Kursleiter ist.
+
+Dabei kommen natürlich Fragen auf, ob ich alles dafür an Bord habe, ob vielleicht noch etwas fehlt
+und falls ja, was. Die 8 Wochen haben mir auch gezeigt, dass bereits vieles da ist und das ich
+das Leiten von MBSR Kursen als erfüllend empfinde.
+
+Ich werde versuchen, meine Gesprächsführung während des Austauschs (Inquiry) zu verbessern, dass es
+sich für mich etwas fundierter und etwas weniger improvisiert anfühlt.
+
+Ich bin sehr dankbar, dass ich die Möglichkeit hatte, diese Ausbildung zu absolvieren und von
+so vielen Teilnehmern und Kursleitern begleitet zu werden. Das war eine sehr wertvolle Zeit für
+mich.
+
+Bei den Entwicklungsmöglichkeiten stehe ich natürlich noch sehr am Anfang, ich habe ja gerade
+mal meinen ersten Kurs geschafft. Dennoch gibt es ein paar Richtungen, die ich mittelfristig
+gerne mal ausprobieren würde.
+
+**Etwas andere Kursformate**: Für einige ist der Zeitraum von 8 Wochen und die regelmäßige Praxis
+ein zu großer Schritt und wirkt so abschreckend, dass sie sich erst gar nicht anmelden.
+Daher kann ich mir vorstellen, ein etwas niederschwelligeres Angebot zu konzipieren, um auch denen
+eine Möglichkeit zu geben, Achtsamkeit kennenzulernen und darüber dann später mit einem MBSR-Kurs
+weiterzumachen.
+
+**Mindfulness in IT**: Entwickler und IT-Spezialisten sind manchmal ein sehr spezieller
+Menschenschlag, mehr funktional und analytisch denkend als emotional. Dafür ein spezielles
+Achtsamkeitsprogramm zu entwerfen unter besonderer Berücksichtigung dieser Besonderheiten würde
+mir ebenfalls viel Spass bereiten.
+
+**Search inside yourself / Science of happiness**: Weitere achtsamkeitsbasierte Programme
+lernen und mit in mein Angebot integrieren, sodass mein Angebot für verschiedene Menschengruppen
+interessant ist.
+
+Nach jetzigem Stand wird mein MBSR-Angebot immer ein Nebenberufliches sein. Ich befürchte, mit
+den Kursen Geld verdienen zu müssen kann meine Freude daran sehr trüben.
+
+Ich möchte abschließend allen danken, die mich auf dem Weg zum MBSR-Lehrer begleitet haben. Ohne
+Euch wäre ich nicht da, wo ich jetzt bin.
