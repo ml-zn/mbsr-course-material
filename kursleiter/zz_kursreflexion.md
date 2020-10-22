@@ -61,7 +61,7 @@ schauen mich erwartungsvoll an. Perfekt, der Kurs kann beginnen...
 
 \newpage
 
-## Die KursteilnehmerInnen (TN)
+## Die KursteilnehmerInnen
 
 An dem Kurs haben folgende Personen teilgenommen:
 
@@ -287,68 +287,250 @@ körperlich und geistig in diesem Moment da war, genau hinzuschauen, ohne die Si
 
 ## Reflexion zum vierten Kursabend
 
-- Marita kommt mit gebrochenem Bein
-- Dauer der Sitzmeditation herausfordernd
-- lieber kürzer und häufiger statt länger und gar nicht
-- Auf der Suche nach der richtigen Zeit zum Praktizieren (Mandana auf dem Beifahrersitz)
-- Gereon fragt sich, ob er sich Stress machen soll, weil er zuhause keine Lust hat zu praktizieren
-- Stress wegen der Aufnahme
+Der heutige Kursabend ist wieder anders. Zum einen hat der Abend auch den "theoretischen" Teil mit
+dem "Stress-Reaktions-Zyklus", zum anderen soll heute auch meine Audioaufnahme zur Zertifizierung
+laufen.
 
-Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
-Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
+Kaum dass ich gerade ein gutes Level an Sicherheit gewonnen habe fühlt sich der heutige Abend
+wieder wie komplettes Neuland an. Wird es mir gelingen, aus dem "Tagebuch der unangenehmen"
+Ereignisse"" einen guten Übergang zum Stress-Reaktions-Zyklus hinzubekommen? Was, wenn keiner
+der Teilnehmer die Wirkung von Stress verspürt. Irrationale Gedanken treiben mich vor Beginn
+des Kurses um. Der Aufbau meines Audiosetups ist eine willkommene Ablenkung.
 
-Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situationen umgegangen?
+Über den Mitschnitt der Stunde hatte ich mir bisher wenig Gedanken gemacht. Jetzt, wo ich ihn
+vorbereite, merke ich, dass etwas Nervosität sich breit macht. Werden die Inhalte gut hörbar
+und verständlich sein? Ist die Art und Weise, wie ich den Kurs leite, überhaupt richtig, oder
+werden Petra und Béatrice ihre Hände über dem Kopf zusammenschlagen?
+
+Gefühlt ist es wieder wie am ersten Abend. "Vertrauen in das Curriculum", ja, ich weiß.
+
+Ich merke, wie sehr ich mich darüber freue, als Marita in den Raum gehumpelt kommt. Und so auch
+Gereon wieder heute mit dabei ist. Mit gebrochenem Bein kann sie natürlich nicht viele der
+Übungen mitmachen. Ich überlege erst kurz, ob ich meine geplanten Übungssequenzen ändere, auf
+der anderen Seite wird Marita in der Lage sein, die Übungen auf ihre Möglichkeiten anzupassen.
+So bespreche ich das dann kurz mit ihr.
+
+Ich starte die Audioaufnahme und der Kursabend beginnt.
+
+In dem heutigen Austausch gab es direkt mehrere Themen, die sich mehrheitlich um die Praxis
+zuhause drehten.
+
+Mandana hatte eine sehr volle Woche, wollte dennoch ihre Übungspraxis in den Alltag bringen. So
+kam es dazu, dass sie an drei Tagen beim Pendeln zur Arbeit auf dem Beifahrersitz meditiert hat.
+Das fühlt sich für mich nicht passend an, ich gehe mit ihr in die Situation und wir versuchen
+im Rahmen des Inquiry diese zu beleuchten. Für Mandana war das Praktizieren auf dem
+Beifahrersitz danach kein Problem. Nicht so schön wie zuhause, aber sie wollte nicht drauf
+verzichten und anders hätte sie die Praxis nicht in den Tag integrieren können. _"Der Wurm muss
+dem Fisch schmecken, nicht dem Angler"_, denke ich mir.
+
+Einige Teilnehmer empfinden die länger werdenden Sitzmeditationen als herausfordernd. Die ganze Zeit
+in Ruhe zu bleiben, die sich einstellenden körperlichen Beschwerden, dass macht ihnen Probleme und
+es drängt sich die Frage auf, ob Sitzmeditationen in dieser Länge wirklich sein müssen und ob es
+nicht auch reichen würde, etwas häufiger und dafür kürzer zu sitzen.
+Eine wissenschaftlich fundierte Antwort habe ich gerade nicht dafür parat, aus meiner eigenen
+Praxis weiß ich sehr wohl um die Unterschiede, ob die Meditation länger oder kürzer ausfällt.
+Ich erkläre, dass durch die Dauer der Meditation sich auch ihre Intensität ändert und man den
+Gedanken auch etwas Zeit geben muss, zur Ruhe zu kommen. Und das die Beschwerden sich mit
+zunehmender Praxis reduzieren werden.
+
+Gereon ist ganz beeindruckt von der Achtsamkeitspraxis der anderen Teilnehmer und spürt ein
+schlechtes Gewissen, nicht den nötigen Enthusiasmus zum Üben aufzubringen. Wir gehen in dieses
+Gefühl und beobachten, was da ist. Er hat sich durch die Woche immer wieder auch der Frage
+ausgesetzt, ob er jetzt üben soll. Und auch der Frage, warum für ihn die Antwort "nein" lautet
+und woran das liegt. Das "woran" konnte er für sich noch nicht beantworten, wohl aber, dass es
+sich so für ihn, trotz schlechtem Gewissens, so stimmig anfühlte.
+
+Ich beende die Stunde und die Audioaufnahme. Es waren viele Erkenntnisse und ich habe den Abend
+als sehr voll und auch anstrengend erlebt.
+
+Eine Fragestellung nehme ich mit nach Hause:
+
+> Ist es besser, sich an der curricularen Ideallinie zu orientieren oder an dem individuellen Weg,
+> den Teilnehmer für sich im Laufe der Wochen in Anlehnung an das Curriculum etablieren?
 
 \newpage
 
 ## Reflexion zum fünften Kursabend
 
-- Stress wegen der fehlgeschlagenen Aufnahme
-- Gereon geht Fahrrad fahren, steht Achtsamkeit eher skeptisch gegenüber
+Katastrophe! Anders kann ich es nicht bezeichnen. Als ich letzte Woche mir meine Aufnahme anhörte
+traf mich der Schlag. Kaum etwas war zu verstehen, als ob das Mikrofon in einem Aquarium
+gestanden hätte. Ich ertappte mich, wie ich irgendwo zwischen Selbstvorwürfen und
+Ursachenforschung steckte. Von dem Stress, der dadurch bei mir entstanden ist, ganz zu schweigen.
 
-Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
-Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
+Beruflich geht es bei mir häufig um Rundfunkanstalten, insbesondere im Radiobereich sind wir im
+deutschsprachigen Raum sehr verbreitet. Da könnte man unterstellen, dass wir wissen, wie man Audio
+aufnimmt. Oh je, dass fühlt sich nicht gut an. Der Umstand, dass ich noch nicht mal eine Idee
+habe, was bei der Aufnahme nicht funktionierte, macht mir Sorgen. Was kann ich bei der heutigen
+Aufnahme denn verbessern, dass diese gelingt?
 
-Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situationen umgegangen?
+Ich bin bereits 30 Minuten vor Kursbeginn in dem Raum und mache ein paar Audiotests. Ich stelle
+fest, dass der Raum tatsächlich eine sehr schlechte Akustik hat. Da ich weder stoffbezogene Wände
+zur Hand habe noch ein Rode-500€-Studiomikrofon, versuche ich, das Beste herauszuholen.
+
+Wie war nochmal das Thema des heutigen Abends, "Der achtsame Umgang mit Stress"? Das passt ja
+großartig, ich könnte noch ergänzen "im Selbstversuch". Was wäre jetzt eine bewußte und
+zweckmäßige Stressaktion? Ich habe noch 10 Minuten bis zum Kursbeginn und beginne zu meditieren,
+nur für mich, erlaube, den Gedanken da sein zu lassen, ohne ihnen anzuhaften. Sie ziehen vorbei,
+ich fühle mich besser. Ich würde gerne noch länger jetzt für mich sitzen, aber so langsam füllt
+sich der Raum und der Kursabend beginnt.
+
+Der Kursabend verläuft dann doch überraschend gut, wie ich finde. Die Inhalte werden von den
+Teilnehmern gut verstanden und einige bringen Beispiele aus ihrem Leben, wo sie gelungenen und
+weniger gelungenen Umgang mit Stress erlebt haben. Mit den Erfahrungen und dem Wissen aus dem
+Kurs sind sie in der Lage, ihr eigenes Handeln in den Situationen zu reflektieren.
+
+Bei den meisten funktioniert die Praxis zuhause jetzt gut, und jeder hat so seine Vorlieben, was
+die Auswahl und die Dauer der Übungen angeht. Silke stellte für sich fest, dass sie nie erwartet
+hätte, dass ausgerechnet Sitzmeditation für sie sehr bereichernd ist. Sie glaubte, dass sei ihr
+zu ruhig.
+
+Gereon hat sich dazu entschlossen, wieder mit dem Fahrrad zur Arbeit zu fahren. "Das macht den Kopf
+so herrlich frei. Mal über nichts nachdenken müssen, ausser das Fahrrad nicht in den Graben zu
+lenken.". Wir erforschen, welche Emotionen und Empfindungen für ihn mit damit verbunden sind.
+
+Was, schon der fünfte Kursabend? Schon mehr als die Hälfte des Kurses liegt hinter mir? Ungläubig
+werde ich mir dieses Umstandes bewußt.
+
+Noch am gleichen Abend höre ich mir die Audioaufnahme an. Sehr gut, man kann etwas verstehen.
+Nichts Berauschendes, aber okay. Mehr scheint mit einfachen Mitteln in dem Raum nicht machbar zu
+sein.
+
+Der Stress des Audiomitschnitts liegt nun hinter mir und ich blicke voller Vorfreude auf die
+noch kommenden Wochen des Kurses.
 
 \newpage
 
 ## Reflexion zum sechsten Kursabend
 
-- Austausch vieler Kommunikationsmuster in Arbeit und Privatleben
-- Erkennen gemeinsamer, schwieriger Muster in der Kommunikation
-- Gereon erkennt, dass er und Marita manchmal aneinander vorbei reden
+Entspannt und gedanklich sortiert breche ich zum sechsten Kursabend auf. Das fühlt sich so gut an
+und ich hoffe, dass es in den nächsten Kursen nicht immer 6 Kursabende dauert, bis ich entspannt
+und sortiert in den Kurs starte.
 
-Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
-Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
+Unser Kurs ist inzwischen eine richtig gute Gemeinschaft geworden, in der wir uns vertrauensvoll
+austauschen können und sich die Teilnehmer geschützt und wohl fühlen. Mir kommt "Herr der Ringe",
+die Gefolgschaft, in den Sinn. Sehr unterschiedliche Menschen (oder Hobbits, Zwerge oder Elben)
+kommen zusammen, um gemeinsam den Ring, der sie knechtet, zu vernichten.
 
-Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situationen umgegangen?
+"Ein Ring, sie zu knechten" - "Das Leben besteht aus Leiden", gar nicht so weit voneinander
+entfernt. Nur wir kämpfen nicht gegen Orks, sondern kultivieren Achtsamkeit und kämpfen im
+weitesten Sinne mit unseren Gedanken, Wahrnehmungen und Empfindungen.
+
+Die ca. anderthalb Stunden Praxis verlaufen inzwischen fast schon routiniert. Ich kriege den
+Wechsel zwischen anleiten und teilnehmen so hin, dass ich nicht darüber nachdenken muss, es fühlt
+sich natürlich und authentisch an. So darf es bleiben.
+
+Bei dem Thema des Kursabends, "Achtsame Kommunikation", hatten alle Teilnehmer ausreichend
+Beispiele, die gelungene und weniger gelungene Kommunikation zeigten. Über das aktive Zuhören
+kamen wir zur emotionalen Intelligenz, sich seines Gegenüber so bewußt zu sein wie sich selbst.
+
+Die Teilnehmer konnten im Verlauf der Übungen viele Gemeinsamkeiten in ihren
+Kommunikationsmustern erkennen und beim aktiven Zuhören erfahren, wie Achtsamkeit bei der
+Kommunikation helfen kann.
+
+Gereon ist in der Übung mit Marita, seiner Frau, zu einer wichtigen Erkenntnis für ihn gekommen.
+Er ist Naturwissenschaftler und im Gespräch mit Marita stellte er fest, dass er, wie er es gewohnt
+ist, analysiert, logisch folgert und plausibel argumentiert. Dem gegenüber redet Marita darüber,
+wie es ihr geht, was sie empfindet und was sie stört. Ihm ist klar geworden, dass sie, obwohl
+sie über das gleiche Thema reden, sich diesem unterschiedlich nähern. Sie erkennen, dass Marita
+mit Gereons logischen und analytischen Ansatz nichts anfangen kann und Gereon sich über fehlende
+Argumente ärgert und sie so häufig ergebnislos auseinandergehen.
+
+Wir haben heute zum ersten Mal die Gehmeditation praktiziert und ich konnte feststellen, dass
+diese polarisierte. Einige fanden sie sehr gut, für andere war sie überhaupt nichts, dazwischen
+gab es eigentlich nichts. Das war für mich der richtige Moment darauf hinzuweisen, dass wir in den
+nächsten Wochen etwas freier in der Gestaltung der 45 Minuten Übungspraxis werden.
+
+Am heutigen Abend habe ich mich richtig wohl in der Rolle des Kursleiters gefühlt. Der Abend war
+dynamisch, die Praxis und der Austausch waren für alle sehr fruchtbar und so beende ich sehr
+zufrieden den heutigen Abend.
 
 \newpage
 
 ## Reflexion zum siebten Kursabend
 
-- Gereon kann einen liebevollen und fürsorglichen Umgang mit Marita und anderen kultivieren, hat aber Schwierigkeiten, dass auf sich selbst anzuwenden
-- Vero hat die Art und Weise, im Beruf zu kommunizieren geändert, und erlebte Veränderungen
-- Selbstsicherheit für mich als Kursleiter, auch Entspannung
-- ein wenig Trauer, dass der Kurs bald vorbei ist
+Der "Tag der Achtsamkeit" steckt uns im positivsten Sinne noch in den Knochen. Der Start des Kurses
+verzögert sich um einige Minuten, weil die Teilnehmer sich noch so viel über den Tag und die Zeit
+danach zu erzählen hatten. Ich bin glücklich, dass sie den Tag ebenso bereichernd, toll und
+gelungen erlebt haben wie ich es getan habe. Dazu erzähle ich dann in der Reflexion zu dem Tag
+mehr.
 
-Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
-Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
+Der Start in den Kursabend gelingt dann doch und ich spüre, das mir jetzt alles vertraut vorkommt.
+So könnte es jetzt noch Wochen weitergehen und doch stehen wir fast am Ende des Kurses. Ja genau,
+fast am Ende. Ich erlebe, wie ich in mir ruhe, mich selbstsicher fühle und alles klar und präsent
+ist. Den Teilnehmern merke ich an, dass sie in weiten Teilen die Essenz der Achtsamkeit
+verstanden haben und sowohl in ihrer formellen als auch informellen Praxis gut zurecht kommen.
 
-Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situationen umgegangen?
+Ebenso stellen sie inzwischen auch Unterschiede bei sich und ihrem direkten Umfeld fest. Bei Vero
+hat sich die Art und Weise zu kommunizieren geändert. In der Vergangenheit hat sie, wenn ihr etwas
+nicht gepasst hat, voller Ärger ihrem Unmut Platz gemacht und ist die Verursacher verbal
+angegangen. Inzwischen ist es so, dass sie zunächst merkt, da ist Ärger, aber ihre Reaktion
+erfolgt später, häufig überlegter. Das haben ihr ihre ArbeitskollegInnen auch so zurückgemeldet
+und als sehr positiv wahrgenommen.
+
+Silke merkt bei sich selbst inzwischen deutliche Veränderungen. Ihre Präsenz und das Annehmen
+helfen ihr, besser durch den Tag zu kommen und sie erlebt sich zur Zeit als deutlich weniger
+gestresst. Auch das Einräumen der Zeit zum Praktizieren hat jetzt einen festen Platz gefunden.
+
+Dominik, Jürgen, Markus und Mandana haben bessere und schlechtere Tage, in Summe ist es immer
+ein wenig zwischen dem Wahrnehmen der positiven Wirkungen der Achtsamkeitspraxis und dem
+Einräumen der Zeit dafür.
+
+Claudia liebt die Metta-Meditation, die wir am Tag der Achtsamkeit praktiziert hatten und welche
+auch am heutigen Abend ein Teil der Praxis ist. Es geht um Selbstfürsorge.
+
+Gereon hat bei dem Thema "Selbstfürsorge" eine Erkenntnis gehabt, mit welcher er sich noch weiter
+beschäftigen möchte. Während es ihm sehr gut gelang, Fürsorge für Marita zu kultivieren, fiel es
+ihm schwer, diese für sich zu kultivieren. Das war für ihn sehr überraschend und er merkte, "da
+ist was!", ohne sich genauer darauf einlassen zu wollen.
+
+Als wir uns dem Ende dieses Kursabends nähern, komme ich in ein kleines Wechselbad der Gefühle.
+Zum einen freue ich mich darauf, bald meinen ersten MBSR Kurs absolviert zu haben, zum anderen
+würde ich gerne weitermachen.
+
+So nehme ich mir vor, am letzten Abend mit diesen und zukünftigen Teilnehmern einen regelmäßigen
+Übeabend ins Leben zu rufen.
 
 \newpage
 
 ## Reflexion zum achten Kursabend
 
-- Sorge einiger Teilnehmer, Achtsamkeit im Alltag etablieren zu können
-- insbesondere, wenn der sanfte Druck des Kurses wegfällt
+Der letzte Kursabend, so schnell ist er gekommen und gleichzeitig liegt der erste Abend schon
+ganz weit zurück.
 
-Reflexion der persönlichen Erfahrungen als KursleiterIn (1-2 Seiten) über den jeweiligen Kursabend (Ablauf, Grenzerfahrungen/Herausforderungen und Umgang damit, Erkenntnisse, Fragen,
-Inquiry/vertiefende Dialoge: einige Beispiele aus den Kursabenden etc.).
+Es liegt etwas Besonderes in der Luft, eine Stille, eine Präsenz. Der Wunsch, oder zumindest mein
+Wunsch, nochmal die Gruppe mit allen Fasern wahrzunehmen, die Schwingungen beim gemeinsamen
+Praktizieren ein- und ausatmend zu inhalieren.
 
-Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situationen umgegangen?
+Nach unserer gemeinsamen Praxis nehmen wir uns Zeit für einen Rückblick, was haben wir aus dem
+Kurs mitgenommen? Jeder Teilnehmer hat da seine persönlichen Highlights in dem Kurs gehabt,
+Aha-Erlebnisse gehabt und die Veränderungen bemerkt, die durch die Achtsamkeitspraxis in ihren
+Alltag gekommen sind.
+
+Für mich war es eine Kombination aus altem und neuem. Wie es ist, an einem MBSR-Kurs
+teilzunehmen wusste ich, aber auch hier ist jeder Kurs anders. Die Erfahrungen, die wir
+miteinander teilen, sind zwar ähnlich, dennoch sind immer wieder ganz neue, unerwartete Momente
+dabei. Deswegen kann so ein Kurs für mich auch nie zur Routine werden.
+Gleichzeitig in der Rolle des Kursleiters zu sein war für mich neu und mit einigen Herausforderungen
+verbunden. Neben all der Theorie zählt irgendwann die Praxis. Ich habe sehr viel Glück mit meiner
+Gruppe gehabt und so war mein erster Kurs voller schöner Momente und einigen Momenten, an denen
+ich etwas wachsen konnte.
+
+Was hat sich verändert und was wird sich in Zukunft ändern? Neben dem, dass wir in diesen
+acht Wochen ein solides Gerüst der Achtsamkeitspraxis aufgebaut haben, auf dass wir vertrauen
+können schwingt bei einigen inzwischen auch Sorge mit.
+
+Für sie war der "sanfte Druck des Kurses" Antrieb, in den acht Wochen dabei zu bleiben. Wie geht
+es denn weiter, wenn der Kurs nicht mehr stattfindet und räume ich dem Thema Achtsamkeit dann
+immer noch die Wichtigkeit ein, regelmäßig dabei zu bleiben. Die Antworten werden wohl so
+individuell sein wie jeder einzelne in diesem Kurs.
+
+Wir tauschen uns darüber aus, wie das gelingen kann und mein Vorschlag, weiter regelmäßig
+gemeinsam zu praktizieren wird dankbar angenommen. Auch von mir.
+
+Ein letztes Mal sitzen wir zusammen für unsere Abschlussmeditation.
+
+Pling. Die Zimbel klingt noch lange nach, bevor wir uns von unseren Kissen erheben und ruhig und
+besonnen den Raum wieder in Ordnung bringen. Für den nächsten Kurs.
 
 \newpage
 
@@ -370,9 +552,99 @@ Wie ist es mir ergangen? Was hätte ich noch gebraucht? Wie bin ich mit den Situ
 
 ## Abschluss-Erfahrungsbericht bezüglich der KursteilnehmerInnen
 
-Sie sind mit ihren Vorstellungen, Erwartungen, Wünschen, Problemen usw. in den Kurs gekommen. Wie geht es ihnen jetzt?
+**Vero M., weiblich, Friseurin, 30 Jahre**: Vero hat immer mal wieder von Achtsamkeit gelesen oder
+gehört und fand das Thema spannend und die Gelegenheit günstig, in ihrem Heimatort MBSR
+kennenlernen zu können. Sie sucht nach Möglichkeiten, einen Ausgleich zu ihrem Job zu finden,
+welche sich für sie in den Alltag integrieren lassen.
 
-Hat sich, laut ihren Aussagen, in den acht Wochen etwas verändert?
+_Vero hat durch die Achtsamkeitspraxis einige positive Veränderungen erlebt. Die Praxis als
+solche hat für Ihren Geschmack zu wenig "Action". Sie möchte auf jeden Fall mit einer
+Achtsamkeitspraxis weitermachen, am liebsten mit einer, die etwas mehr ihrem dynamischen
+Naturell entspricht._
+
+**Mandana R., weiblich, Lehrerin, 47 Jahre**: Mandana hatte schon mal einen MBSR-Kurs besucht. Sie
+fand MBSR für sich sehr passend, hatte allerdings beim letzten Kurs den Eindruck, dass die Essenz
+des Inhalte nicht richtig bei ihr angekommen sind. Daher hat sie sich dazu entschlossen, den Kurs
+nochmal zu besuchen. Ausserdem gewinnt in ihrer Arbeit bei Ehe-, Familien- und Lebensberatung das
+Thema Achtsamkeit immer mehr an Bedeutung.
+
+_Mandana hat in dem Kurs gefunden, was ihr in dem vorherigen gefehlt hat. Ausserdem hat sie die
+Gruppe als sehr angenehm erlebt und findet es ein bisschen schade, das wir uns so nicht mehr
+wiedersehen werden. Ihr Tag ist nach wie vor sehr durchgetaktet, aber Meditation findet jetzt
+morgens und nicht mehr auf dem Beifahrersitz statt._
+
+**Markus R., männlich, Lehrer, 49 Jahre**: Markus hatte ebenso wie Mandana schon mal einen
+MBSR-Kurs besucht. In erster Linie ist für Markus wichtig, in seiner dauerhaft knappen Zeit und dem
+Zerteilen zwischen Schule und Familie geeignete Strategien zum Umgang mit Stress zu entwickeln.
+
+_Markus hatte immer wieder Schwierigkeiten, vom Alltag abzuschalten. Manchmal gelang es ihm
+besser, manchmal schlechter in die Übungspraxis zu kommen. Aber unabhängig davon ging es ihm mit
+der Praxis besser als ohne. Er hofft, sich die Zeit zum Praktizieren zu erlauben._
+
+**Marita L., weiblich, Sekretärin, 53 Jahre**: Marita ist auf der Suche nach einem Ausgleich zu
+ihrem Alltag, zur Besinnung kommen und präsent zu sein fällt viel zu häufig dem Alltag zum Opfer.
+
+_Marita hat sehr von dem Kurs profitiert und konnte trotz ihres gebrochenen Beins den Kurs zu Ende
+bringen. Da es ihr leicht viel, die Zeit für die Übungspraxis aufzubringen, hat sie bereits
+jetzt eine tägliche Routine kultiviert, die sie so beibehalten möchte._
+
+**Gereon L., männlich, Unternehmer, 55 Jahre**: Gereon ist ohne besondere Erwartung in den Kurs
+gekommen. Er wollte gerne seine Frau Marita begleiten und ist ganz offen, was ihn in dem Kurs
+erwartet.
+
+_Gereon fand den Kurs eine spannende Erfahrung und es war für ihn sehr angenehm, sich in der
+Gruppe aufzuhalten. Das Fahrrad fahren wieder neu zu entdecken war ein Gewinn, auf den er
+nicht mehr verzichten möchte._
+
+**Dominik N., männlich, Ingenieur, 36 Jahre**: Bei Dominik lassen Beruf, Arbeiten am Haus und die
+Familie mit zwei kleinen Kindern häufig keine Zeit, mal durchzuatmen und zur Ruhe zu kommen. Er
+möchte mit dem MBSR-Kurs die Möglichkeit schaffen, achtsamer auf sich und andere seinen Alltag zu
+erleben und einen besseren Umgang mit Stress zu erlangen.
+
+_Nicht nur Dominik, sondern auch seine Frau und seine Kinder haben die Veränderungen bemerkt,
+die der Kurs mit sich gebracht haben. Dominiks größte Sorge ist nun, wie es nach dem Kurs
+weitergeht, ob er weiter dabei bleiben kann oder ob Haus, Frau, Familie und Beruf Kontrolle
+über sein Leben gewinnen. Diesen Umstand nimmt er gerade achtsam wahr._
+
+**Silke J., weiblich, Personalreferentin und Coach, 49 Jahre**: Silke hat schon verschiedene
+Methoden kennengelernt, wie man mit problematischen Situationen umgehen kann. Während sie als Coach
+hilft, konkrete Probleme zu lösen, war sie auf der Suche nach etwas, was sich als regelmäßige
+Praxis statt als akute Intervention mit in den Alltag integrieren lässt.
+
+_Silke ist bereits nach kurzer Zeit von den positiven Wirkungen überrascht gewesen. Dadurch konnte
+sie sich auch über die Dauer des 8-Wochen Kurses immer wieder motivieren, zu praktizieren. Sie
+ist sehr froh, MBSR und Achtsamkeit für sich entdeckt zu haben. Die Gruppe hat ihr sehr gut
+gefallen und sie findet es sehr schade, dass der Kurs nun zu Ende ist._
+
+**Jürgen W., männlich, Meteorologe, 57 Jahre**: Jürgen hat durch jahrzentelangen Schichtdienst das
+dauerhafte Gefühl einer Ermattung. Eigene Signale zu ignorieren und darüber hinweg zu gehen
+brachten ihn dazu, dass jetzt mal etwas passieren muss. Über Freunde wurde er auf den Kurs
+aufmerksam und hat sich dann angemeldet.
+
+_Jürgen ging es ähnlich wie Silke. Schon nach kurzer Zeit hat er positive Veränderungen bemerkt
+und das war ausreichend Motivation, weiter dabei zu bleiben. Da Jürgens Frau ebenfalls MBSR und
+Achtsamkeit praktiziert, hofft er auf ausreichend Unterstützung und Verständnis, weiter
+zuhause praktizieren zu können._
+
+**Claudia T., weiblich, Physiotherapeutin, 52 Jahre**: Claudia hat im Rahmen ihrer Ausbildungen
+schon einige Entspannungsverfahren kennengelernt und war neugierig auf MBSR und worin sich MBSR von
+dem, was sie bisher kennengelernt hat, unterscheidet.
+
+_Claudia hat so ihre Probleme mit der Sitzmeditation gehabt, Yoga und Metta-Meditation waren
+aber die Entdeckung für sie. Daher wird sie nicht alle Elemente des MBSR in ihren Alltag
+integrieren, sondern nur die, welche sie als besonders bereichernd empfunden hat._
+
+**Stephan P., männlich, Softwareentwickler, 38 Jahre**: Stephan steht beruflich unter Druck und vor
+einiger Zeit ist seine Beziehung in die Brüche gegangen. Beides zusammen belastet ihn und macht ihn
+unzufrieden. Er erinnerte sich daran, dass vor einigen Jahren ihm ein MBSR-Kurs gut getan hat und
+hat sich entschlossen, über den Kurs wieder ans Praktizieren zu kommen und auch Menschen zu haben,
+mit denen er das gemeinsam tun kann.
+
+_Für Stephan war das Wiederaufnehmen der Achtsamkeitspraxis sehr hilfreich. Er steht nach wie vor
+unter beruflichem Druck und die Trennung wirkt noch nach. In Summe schaut er jetzt positiver in
+die Zukunft, hat wieder mit Sport begonnen und wird weiter zuhause praktizieren. Mit das
+wichtigste war es aber, mit unserer Gruppe einen festen Anlaufpunkt zu haben und einen geschützten
+Rahmen, sich auszutauschen._
 
 \newpage
 
