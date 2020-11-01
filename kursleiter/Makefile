@@ -27,7 +27,8 @@ CHAPTERS = 00_orientierung.md \
 					 ../teilnehmer/08_taegliche_achtsamkeit.md \
 					 aa_inquiry.md \
 					 bb_sitzmeditation_5stufen.md \
-					 zz_kursreflexion.md
+					 zz_kursreflexion.md \
+					 zz_transkription_kursabend.md
 TOC = --toc --toc-depth=4
 
 all: book
@@ -51,6 +52,7 @@ $(BUILD)/epub/$(BOOKNAME).epub: $(METADATA) $(CHAPTERS)
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(METADATA_PDF) $(CHAPTERS)
 	mkdir -p $(BUILD)/pdf
 	pandoc -s --template=../_latex/template-mbsr-latex.tex $(TOC) --filter pandoc-citeproc --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $(BUILD)/pdf/kursreflektion-mbsr-2019-michael-zimmermann.pdf metadata-pdf-kursreflektion.yaml zz_kursreflexion.md
+	pandoc -s --template=../_latex/template-mbsr-latex.tex $(TOC) --filter pandoc-citeproc --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $(BUILD)/pdf/transkription-kursabend.pdf metadata-pdf-transkription-kursabend.yaml zz_transkription_kursabend.md
 	pandoc -s --template=../_latex/template-mbsr-latex.tex $(TOC) --filter pandoc-citeproc --pdf-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $(BUILD)/pdf/$(BOOKNAME).pdf $^
 	pdfunite $(BUILD)/pdf/$(BOOKNAME).pdf ../material/Übungstagebuch.pdf ../material/TagebuchAngenehmerErlebnisse.pdf ../material/TagebuchUnangenehmerErlebnisse.pdf ../material/TagebuchSchwierigeKommunikation.pdf $(BUILD)/pdf/$(BOOKNAME)-complete.pdf
 
