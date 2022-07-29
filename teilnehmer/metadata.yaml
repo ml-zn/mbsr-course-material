@@ -9,10 +9,10 @@ creator:
   text: Michael Zimmermann
 - role: editor
   text: Michael Zimmermann
-rights: © 2019 Michael Zimmermann
-date: Mai 2019
+rights: © 2019-2022 Michael Zimmermann
+date: August 2022
 lang: de-de
-cover-image: ../cover/CoverTeilnehmerV10.png
+cover-image: ../cover/CoverTeilnehmerV20.png
 stylesheet: ../_css/epubstyle-mbsr.css
 bibliography: ../bibliography/Meditation_und_Achtsamkeit.bib
 csl: ../_csl/chicago-author-date-de.csl
